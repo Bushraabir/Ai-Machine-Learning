@@ -4,7 +4,7 @@
 
 ## Completed
 
-- Stats 110: Lectures 1–5
+- Statistics 110: Lectures 1–5
 - Introduction to Probability: Chapter 1–2
 - Programming in C++: Chapter 1–2
 
