@@ -1,0 +1,13 @@
+Machine learning algorithms rely heavily on mathematical reasoning.  
+A strong understanding of these topics allows models and optimization techniques to be understood rather than treated as black boxes.
+
+Topics explored:
+
+- [[Linear Algebra]]
+    
+- [[Calculus]]
+    
+- [[Probability]]
+    
+- [[Statistics]]
+    
