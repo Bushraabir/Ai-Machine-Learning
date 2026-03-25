@@ -1,6 +1,4 @@
----
 
-## title: AI & ML Learning Journal tags: [ai, machine-learning, learning, personal]
 
 # My AI/ML Learning Journal
 
@@ -10,7 +8,7 @@ The deal I made with myself: if I can't explain it, derive it, or build it — I
 
 This vault is where I think out loud. It's messy sometimes. That's fine.
 
----
+
 
 ## Where I'm trying to get to
 
