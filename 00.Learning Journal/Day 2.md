@@ -1,15 +1,18 @@
 # 24 March 2026
 
-**Study time:** 12 hours
+**Study time:** 11 hours
 
 ## Completed
 
 
 - Learn, Setup Obsidian 
 -  Obsidian Note- Probability Chapter 1 done
-- Statistics 110: Lectures 6-10
-- Introduction to Probability: Chapter 3
+- Statistics 110: Lectures 6-7
+- Introduction to Probability: Chapter 2
 - Programming in C++: Chapter 3
+-  DSA Array Revision
+- DSA Greedy Algorithm revision
+- Updated Github Readme
 
 ## Key things learned
 
@@ -17,6 +20,7 @@
 - C++ basics (switch)
 - Simpsons Paradox
 - Monty Hall Simulation
+- greedy is used when maximum, minimum--these type of things are needed
 
 ## Difficult parts
 
