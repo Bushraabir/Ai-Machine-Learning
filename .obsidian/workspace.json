@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Probability/00.Probability.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.Probability"
+              "title": "Readme"
             }
           },
           {
@@ -59,8 +59,7 @@
               "title": "00.Probability"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,11 +221,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "51e11d4d52e99ced",
+  "active": "b7805ab6f0f5495f",
   "lastOpenFiles": [
+    "01.Maths/Probability/00.Probability.md",
+    "Readme.md",
     "01.Maths/Probability/01.Probability/01.Probability.md",
     "01.Maths/Probability/02.Conditional Probability/07.Conditional Independence.md",
-    "01.Maths/Probability/00.Probability.md",
     "01.Maths/Probability/02.Conditional Probability/06.Independence of Events.md",
     "01.Maths/Probability/04.Expectations/12.Poisson vs Binomial.md",
     "01.Maths/Probability/04.Expectations/07.LOTUS.md",
@@ -249,7 +249,6 @@
     "01.Maths/Probability/04.Expectations/13.Variance of the Geometric and Negative Binomial.md",
     "01.Maths/Probability/04.Expectations/08.St. Petersburg Paradox.md",
     "01.Maths/Probability/04.Expectations/10.Poisson Paradigm.md",
-    "01.Maths/Probability/04.Expectations/09.Poisson Distribution.md",
     "01.Maths/Probability/04.Expectations",
     "01.Maths/Probability/03.Random Variable",
     "01.Maths/Probability/02.Conditional Probability",

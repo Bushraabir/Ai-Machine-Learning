@@ -1,4 +1,4 @@
-### My AI/ML Learning Journal
+### ✦My AI/ML Learning Journal
 
 I started this because I got tired of finishing courses and feeling like I understood nothing. You know that feeling — you follow along, it makes sense in the moment, and then you close the laptop and it's just... gone. So this is my attempt to actually _learn_ this stuff. Not just consume it.
 
@@ -8,7 +8,7 @@ This vault is where I think out loud. It's messy sometimes. That's fine.
 
 
 
-## Where I'm trying to get to
+## ✦Where I'm trying to get to
 
 Somewhere I can look at a real problem, know which tools make sense, build something that actually works, and understand _why_ it works. I want to read papers without feeling lost. I want to contribute something, eventually — even if that's small.
 
@@ -16,7 +16,7 @@ That's the north star. Everything else is just steps toward it.
 
 ---
 
-## The map
+## ✦The map
 
 I keep coming back to this rough ordering. It's not perfectly linear — some things feed back into each other — but it's how I think about the dependencies.
 
@@ -35,9 +35,9 @@ The loop at the end is intentional. Projects surface gaps. Research fills them. 
 
 ---
 
-## What I'm working through
+## ✦What I'm working through
 
-### [[00.Maths|Maths]]
+### [[00.Maths|✦Maths]]
 
 Honestly the part I kept putting off. Linear algebra finally clicked when I stopped trying to memorize operations and started thinking about what they _do_ to space. Calculus is coming back slowly. Probability is probably the one I'll revisit the most — everything in ML eventually becomes a probability question.
 
@@ -58,7 +58,7 @@ Honestly the part I kept putting off. Linear algebra finally clicked when I stop
 
 ---
 
-### [[Programming and Computational Thinking]]
+### [[Programming and Computational Thinking|✦Programming and Computational Thinking]]
 
 I can write Python. What I'm building here is the _discipline_ — writing code that's readable six months later, that I can actually debug, that separates the ML logic from the engineering mess.
 
@@ -72,7 +72,7 @@ I can write Python. What I'm building here is the _discipline_ — writing code 
 
 ---
 
-### [[Data Structures and Algorithms]]
+### [[Data Structures and Algorithms|✦Data Structures and Algorithms]]
 
 This one I do partly for the problem-solving muscle, partly because understanding how data is stored and traversed makes me a better ML engineer. Trees show up everywhere once you start looking.
 
@@ -86,7 +86,7 @@ This one I do partly for the problem-solving muscle, partly because understandin
 
 ---
 
-### [[Machine Learning Algorithms]]
+### [[Machine Learning Algorithms|✦Machine Learning Algorithms]]
 
 This is where I'm spending a lot of time right now. The goal isn't to use sklearn — it's to understand what sklearn is doing and why. Deriving things by hand is slow and occasionally humbling, but it sticks.
 
@@ -104,7 +104,7 @@ This is where I'm spending a lot of time right now. The goal isn't to use sklear
 
 ---
 
-## [[Neural Networks and Deep Learning]]
+## [[Neural Networks and Deep Learning|✦Neural Networks and Deep Learning]]
 
 The part everyone wants to jump to. I'm trying not to rush it. Backprop especially — I want to implement it from scratch before I let myself use autograd freely. I think that's important.
 
@@ -119,7 +119,7 @@ The part everyone wants to jump to. I'm trying not to rush it. Backprop especial
 
 ---
 
-### [[Projects]]
+### [[Projects|✦Projects]]
 
 The rule I set: no tutorial projects. Everything either comes from a problem I actually care about, or from reproducing something I read in a paper. The learning happens in the gap between "I think I understand this" and "I made it work."
 
@@ -134,7 +134,7 @@ The rule I set: no tutorial projects. Everything either comes from a problem I a
 
 ---
 
-### [[Research and Continuous Learning]]
+### [[Research and Continuous Learning|✦Research and Continuous Learning]]
 
 I'm trying to build the habit of reading papers regularly. Not skimming — actually sitting with them. The goal isn't to read everything; it's to read carefully and know what questions to ask.
 
@@ -148,7 +148,7 @@ I'm trying to build the habit of reading papers regularly. Not skimming — actu
 
 ---
 
-## Journal entries
+## ✦Journal entries
 
 This is the part I find hardest to keep up with, but also the most valuable when I do. Looking back at old entries and seeing what confused me then — and doesn't now — is genuinely motivating.
 
@@ -158,11 +158,15 @@ I try to write everyday. No pressure to be polished. The point is honesty.
 
 ---
 
-## A note to myself
+## ✦ A Note to Myself
 
-This is going to take longer than I want it to. There will be weeks where nothing clicks and the material feels impenetrable. That's part of it.
+```
+This is going to take longer than I want it to.
+There will be weeks where nothing clicks
+and the material feels impenetrable.
+That's part of it.
 
-The version of me that gets where I'm trying to go is just the current version, kept going.
-
+The version of me that gets where I'm trying to go
+is just the current version, kept going.
+```
 ---
-
