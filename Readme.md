@@ -1,6 +1,4 @@
-
-
-# My AI/ML Learning Journal
+### My AI/ML Learning Journal
 
 I started this because I got tired of finishing courses and feeling like I understood nothing. You know that feeling — you follow along, it makes sense in the moment, and then you close the laptop and it's just... gone. So this is my attempt to actually _learn_ this stuff. Not just consume it.
 
@@ -39,7 +37,7 @@ The loop at the end is intentional. Projects surface gaps. Research fills them. 
 
 ## What I'm working through
 
-### Maths
+### [[00.Maths|Maths]]
 
 Honestly the part I kept putting off. Linear algebra finally clicked when I stopped trying to memorize operations and started thinking about what they _do_ to space. Calculus is coming back slowly. Probability is probably the one I'll revisit the most — everything in ML eventually becomes a probability question.
 
@@ -51,11 +49,16 @@ Honestly the part I kept putting off. Linear algebra finally clicked when I stop
 
 > One thing I've noticed: whenever something in ML feels like magic, there's usually a piece of maths I skipped. Going back and filling those in is always worth it.
 
-[[Maths]]
+
+
+
+
+
+
 
 ---
 
-### Programming & Computational Thinking
+### [[Programming and Computational Thinking]]
 
 I can write Python. What I'm building here is the _discipline_ — writing code that's readable six months later, that I can actually debug, that separates the ML logic from the engineering mess.
 
@@ -65,11 +68,11 @@ I can write Python. What I'm building here is the _discipline_ — writing code 
 - [ ] Clean experiment code — reproducible, logged, comparable
 - [ ] Software patterns that actually show up in ML codebases
 
-[[Programming and Computational Thinking]]
+
 
 ---
 
-### Data Structures & Algorithms
+### [[Data Structures and Algorithms]]
 
 This one I do partly for the problem-solving muscle, partly because understanding how data is stored and traversed makes me a better ML engineer. Trees show up everywhere once you start looking.
 
@@ -79,11 +82,11 @@ This one I do partly for the problem-solving muscle, partly because understandin
 - [ ] Hashing, bloom filters, probabilistic stuff
 - [ ] Consistent practice — a problem or two, regularly
 
-[[Data Structures and Algorithms]]
+
 
 ---
 
-### Machine Learning Algorithms
+### [[Machine Learning Algorithms]]
 
 This is where I'm spending a lot of time right now. The goal isn't to use sklearn — it's to understand what sklearn is doing and why. Deriving things by hand is slow and occasionally humbling, but it sticks.
 
@@ -97,11 +100,11 @@ This is where I'm spending a lot of time right now. The goal isn't to use sklear
 
 > The moment I actually derived the normal equation for linear regression instead of just accepting it — something shifted. That's the mode I want to stay in.
 
-[[Machine Learning Algorithms]]
+
 
 ---
 
-### Neural Networks & Deep Learning
+## [[Neural Networks and Deep Learning]]
 
 The part everyone wants to jump to. I'm trying not to rush it. Backprop especially — I want to implement it from scratch before I let myself use autograd freely. I think that's important.
 
@@ -112,11 +115,11 @@ The part everyone wants to jump to. I'm trying not to rush it. Backprop especial
 - [ ] Generative models — VAEs, GANs, diffusion (the exciting frontier)
 - [ ] All the training tricks — normalization, regularization, schedulers
 
-[[Neural Networks and Deep Learning]]
+
 
 ---
 
-### Projects
+### [[Projects]]
 
 The rule I set: no tutorial projects. Everything either comes from a problem I actually care about, or from reproducing something I read in a paper. The learning happens in the gap between "I think I understand this" and "I made it work."
 
@@ -127,11 +130,11 @@ The rule I set: no tutorial projects. Everything either comes from a problem I a
 | Transformer from scratch       | —                                                  | next        |
 | Something with diffusion       | —                                                  | eventually  |
 
-[[Projects]]
+
 
 ---
 
-### Research & Reading
+### [[Research and Continuous Learning]]
 
 I'm trying to build the habit of reading papers regularly. Not skimming — actually sitting with them. The goal isn't to read everything; it's to read carefully and know what questions to ask.
 
@@ -140,7 +143,7 @@ I'm trying to build the habit of reading papers regularly. Not skimming — actu
 - [ ] Keep a log of things I don't understand yet (it's long)
 - [ ] Follow cs.LG, cs.AI, stat.ML on arXiv
 
-[[Research and Continuous Learning]]
+
 
 
 ---

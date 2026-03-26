@@ -4,5 +4,5 @@ The repository also contains a daily learning log documenting study progress, in
 Journal entries:
 
 - [[Day 1]]
-    
 - [[Day 2]]
+- [[Day 3]]

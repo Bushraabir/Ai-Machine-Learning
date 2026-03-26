@@ -4,132 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "fd8e2016cba5f14d",
+        "id": "ea377d9a05b3dfae",
         "type": "tabs",
-        "dimension": 40.86294416243655,
         "children": [
           {
-            "id": "0296318533a7be48",
+            "id": "b7805ab6f0f5495f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Learning Journal/Day 2.md",
+                "file": "01.Maths/Probability/00.Probability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 2"
+              "title": "00.Probability"
             }
           },
           {
-            "id": "068aa8fbf813dc25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Probability/Probability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Probability"
-            }
-          },
-          {
-            "id": "00f8105d4b106f70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Probability/01.Probability/06.Newton-Pepy's Problem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06.Newton-Pepy's Problem"
-            }
-          },
-          {
-            "id": "f5709c82980dd21d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Probability/Probability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Probability"
-            }
-          },
-          {
-            "id": "e3d40b17acf94a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Probability/01.Probability/02.Some formula.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.Some formula"
-            }
-          },
-          {
-            "id": "51b14269cd219eb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Learning Journal/Day 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 2"
-            }
-          },
-          {
-            "id": "426f807676a8823c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Probability/01.Probability/01.Probability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.Probability"
-            }
-          },
-          {
-            "id": "2aa7a247b9b94dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Probability/01.Probability/06.Newton-Pepy's Problem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06.Newton-Pepy's Problem"
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "3b99ec75527d912a",
-        "type": "tabs",
-        "dimension": 59.13705583756346,
-        "children": [
-          {
-            "id": "289cdf371ae94bc3",
+            "id": "51e11d4d52e99ced",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -139,20 +32,35 @@
             }
           },
           {
-            "id": "7af654a88de1f966",
+            "id": "e99170daf12024da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Probability/01.Probability/04.Bose-Einstein's Non Intuitive Problem.md",
+                "file": "01.Maths/Probability/04.Expectations/14.Bernoulli Expectation vs Binomial Expectation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.Bose-Einstein's Non Intuitive Problem"
+              "title": "14.Bernoulli Expectation vs Binomial Expectation"
+            }
+          },
+          {
+            "id": "8963bb05ef0a7d0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Probability/00.Probability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.Probability"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 470.5
   },
   "right": {
     "id": "02fc3c8a42a530d5",
@@ -314,43 +222,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "289cdf371ae94bc3",
+  "active": "51e11d4d52e99ced",
   "lastOpenFiles": [
-    "01.Maths/Probability/Probability.md",
-    "00.Learning Journal/Day 2.md",
-    "01.Maths/Probability/02.Conditional Probability/01.Conditional Probability.md",
-    "01.Maths/Probability/01.Probability/07.Non-Naive Definition of Probability.md",
-    "01.Maths/Probability/01.Probability/06.Newton-Pepy's Problem.md",
-    "01.Maths/Probability/01.Probability/05.Leibniz's Mistake.md",
-    "01.Maths/Probability/01.Probability/04.Bose-Einstein's Non Intuitive Problem.md",
-    "01.Maths/Probability/01.Probability/03.The Birthday Problem.md",
-    "01.Maths/Probability/01.Probability/02.Some formula.md",
     "01.Maths/Probability/01.Probability/01.Probability.md",
+    "01.Maths/Probability/02.Conditional Probability/07.Conditional Independence.md",
+    "01.Maths/Probability/00.Probability.md",
+    "01.Maths/Probability/02.Conditional Probability/06.Independence of Events.md",
+    "01.Maths/Probability/04.Expectations/12.Poisson vs Binomial.md",
+    "01.Maths/Probability/04.Expectations/07.LOTUS.md",
+    "01.Maths/Probability/04.Expectations/11.Variance.md",
+    "01.Maths/Probability/04.Expectations/00.Expectations Chapters.md",
+    "01.Maths/Probability/04.Expectations/15.Binomial Convergence.md",
+    "01.Maths/Probability/04.Expectations/14.Bernoulli Expectation vs Binomial Expectation.md",
+    "01.Maths/Probability/04.Expectations/06.Negative Hypergeometric Distribution.md",
+    "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
+    "01.Maths/Probability/03.Random Variable/16.Independence of Random Variables.md",
+    "01.Maths/Probability/03.Random Variable/14.Functions of Random Variables.md",
+    "01.Maths/Probability/03.Random Variable/13.Hypergeometric vs Binomial.md",
+    "01.Maths/Probability/03.Random Variable/12.Hypergeometric Distribution.md",
+    "01.Maths/Probability/03.Random Variable/11.CDF vs PMF.md",
+    "01.Maths/Probability/03.Random Variable/10.Cumulative Distribution Function (CDF).md",
+    "01.Maths/Probability/03.Random Variable/09.Support of a Random Variable.md",
+    "01.Maths/Probability/03.Random Variable/03.Distributions.md",
+    "01.Maths/Probability/04.Expectations/Binomial Distribution.md",
+    "01.Maths/Probability/03.Random Variable/07.Bernoulli vs Binomial.md",
+    "01.Maths/Probability/04.Expectations/13.Variance of the Geometric and Negative Binomial.md",
+    "01.Maths/Probability/04.Expectations/08.St. Petersburg Paradox.md",
+    "01.Maths/Probability/04.Expectations/10.Poisson Paradigm.md",
+    "01.Maths/Probability/04.Expectations/09.Poisson Distribution.md",
+    "01.Maths/Probability/04.Expectations",
+    "01.Maths/Probability/03.Random Variable",
     "01.Maths/Probability/02.Conditional Probability",
-    "Readme.md",
-    "Journal/All Entries.md",
-    "01.Maths/Maths.md",
-    "Lecture.md",
-    "().md",
     "01.Maths/Probability/01.Probability",
-    "00.Learning Journal/Day 1.md",
     "LICENSE",
-    "06.Projects/Projects.md",
-    "03.Data Structure and Algorithms/Data Structures and Algorithms.md",
-    "03.Data Structure and Algorithms/Data Structures and Algorithms 1.md",
-    "02.Python/Python programming fundamentals.md",
-    "02.Python/Programming and Computational Thinking.md",
     "Journal",
-    "00.Learning Journal/Learning Journal.md",
-    "07.Research and Continuous Learning/Research and Continuous Learning.md",
     "07.Research and Continuous Learning",
     "06.Projects",
-    "05.Neural Networks & Deep Learning/Neural Networks and Deep Learning.md",
-    "04.Machine Learning Algorithms/Machine Learning Algorithms.md",
     "00.Learning Journal",
-    "01.Maths/Calculus/Calculus.md",
-    "05.Neural Networks & Deep Learning",
-    "04.Machine Learning Algorithms/03.Reinforcement Learning",
-    "04.Machine Learning Algorithms/02.Unsupervised Learning"
+    "05.Neural Networks & Deep Learning"
   ]
 }
