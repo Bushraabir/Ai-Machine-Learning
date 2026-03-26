@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "00.Learning Journal/Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Day 2"
+            }
+          },
+          {
+            "id": "80e22f0212e59eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Learning Journal/Day 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 3"
             }
           },
           {
@@ -59,7 +73,8 @@
               "title": "00.Probability"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,10 +236,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "b7805ab6f0f5495f",
+  "active": "80e22f0212e59eb8",
   "lastOpenFiles": [
-    "01.Maths/Probability/00.Probability.md",
+    "00.Learning Journal/Day 2.md",
+    "00.Learning Journal/Day 3.md",
+    "00.Learning Journal/Day 1.md",
+    "01.Maths/Statistics/Statistics.md",
     "Readme.md",
+    "01.Maths/Probability/00.Probability.md",
     "01.Maths/Probability/01.Probability/01.Probability.md",
     "01.Maths/Probability/02.Conditional Probability/07.Conditional Independence.md",
     "01.Maths/Probability/02.Conditional Probability/06.Independence of Events.md",
@@ -245,10 +264,6 @@
     "01.Maths/Probability/03.Random Variable/09.Support of a Random Variable.md",
     "01.Maths/Probability/03.Random Variable/03.Distributions.md",
     "01.Maths/Probability/04.Expectations/Binomial Distribution.md",
-    "01.Maths/Probability/03.Random Variable/07.Bernoulli vs Binomial.md",
-    "01.Maths/Probability/04.Expectations/13.Variance of the Geometric and Negative Binomial.md",
-    "01.Maths/Probability/04.Expectations/08.St. Petersburg Paradox.md",
-    "01.Maths/Probability/04.Expectations/10.Poisson Paradigm.md",
     "01.Maths/Probability/04.Expectations",
     "01.Maths/Probability/03.Random Variable",
     "01.Maths/Probability/02.Conditional Probability",
