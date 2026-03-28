@@ -4,77 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ea377d9a05b3dfae",
+        "id": "5060b47d74c0cad8",
         "type": "tabs",
         "children": [
           {
-            "id": "b7805ab6f0f5495f",
+            "id": "e3697f309d9bb4f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Learning Journal/Day 2.md",
+                "file": "01.Maths/Probability/02.Conditional Probability/05.Bayes' Rule with Extra Conditioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 2"
-            }
-          },
-          {
-            "id": "80e22f0212e59eb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Learning Journal/Day 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 3"
-            }
-          },
-          {
-            "id": "51e11d4d52e99ced",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e99170daf12024da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Probability/04.Expectations/14.Bernoulli Expectation vs Binomial Expectation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14.Bernoulli Expectation vs Binomial Expectation"
-            }
-          },
-          {
-            "id": "8963bb05ef0a7d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Probability/00.Probability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00.Probability"
+              "title": "05.Bayes' Rule with Extra Conditioning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -236,43 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "80e22f0212e59eb8",
+  "active": "e3697f309d9bb4f4",
   "lastOpenFiles": [
-    "00.Learning Journal/Day 2.md",
-    "00.Learning Journal/Day 3.md",
-    "00.Learning Journal/Day 1.md",
-    "01.Maths/Statistics/Statistics.md",
-    "Readme.md",
-    "01.Maths/Probability/00.Probability.md",
+    "01.Maths/Probability/02.Conditional Probability/02.Bayes' Theorem.md",
+    "01.Maths/Probability/02.Conditional Probability/01.Conditional Probability.md",
+    "01.Maths/Probability/02.Conditional Probability/00.Conditional Probability Chapters.md",
+    "01.Maths/Probability/01.Probability/08.Vandermonde's Identity.md",
+    "01.Maths/Probability/01.Probability/07.Non-Naive Definition of Probability.md",
+    "01.Maths/Probability/01.Probability/06.Newton-Pepy's Problem.md",
+    "01.Maths/Probability/01.Probability/05.Leibniz's Mistake.md",
+    "01.Maths/Probability/01.Probability/04.Bose-Einstein's Non Intuitive Problem.md",
+    "01.Maths/Probability/01.Probability/02.Some formula.md",
     "01.Maths/Probability/01.Probability/01.Probability.md",
-    "01.Maths/Probability/02.Conditional Probability/07.Conditional Independence.md",
-    "01.Maths/Probability/02.Conditional Probability/06.Independence of Events.md",
-    "01.Maths/Probability/04.Expectations/12.Poisson vs Binomial.md",
-    "01.Maths/Probability/04.Expectations/07.LOTUS.md",
-    "01.Maths/Probability/04.Expectations/11.Variance.md",
-    "01.Maths/Probability/04.Expectations/00.Expectations Chapters.md",
-    "01.Maths/Probability/04.Expectations/15.Binomial Convergence.md",
-    "01.Maths/Probability/04.Expectations/14.Bernoulli Expectation vs Binomial Expectation.md",
-    "01.Maths/Probability/04.Expectations/06.Negative Hypergeometric Distribution.md",
-    "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
-    "01.Maths/Probability/03.Random Variable/16.Independence of Random Variables.md",
-    "01.Maths/Probability/03.Random Variable/14.Functions of Random Variables.md",
-    "01.Maths/Probability/03.Random Variable/13.Hypergeometric vs Binomial.md",
-    "01.Maths/Probability/03.Random Variable/12.Hypergeometric Distribution.md",
-    "01.Maths/Probability/03.Random Variable/11.CDF vs PMF.md",
-    "01.Maths/Probability/03.Random Variable/10.Cumulative Distribution Function (CDF).md",
-    "01.Maths/Probability/03.Random Variable/09.Support of a Random Variable.md",
+    "01.Maths/Probability/01.Probability/03.The Birthday Problem.md",
+    "01.Maths/Probability/03.Random Variable/05.Binomial Distribution.md",
+    "01.Maths/Probability/07.Joint Distributions/00.joint Distributions Chapters.md",
+    "01.Maths/00.Maths.md",
+    "01.Maths/Probability/00.Probability.md",
     "01.Maths/Probability/03.Random Variable/03.Distributions.md",
-    "01.Maths/Probability/04.Expectations/Binomial Distribution.md",
+    "01.Maths/Probability/03.Random Variable/00.Random Variable Chapters.md",
+    "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
+    "01.Maths/Probability/04.Expectations/01.Expectation.md",
+    "01.Maths/Probability/03.Random Variable/11.CDF vs PMF.md",
+    "01.Maths/Probability/04.Expectations/03.Geometric Distribution.md",
+    "01.Maths/Probability/04.Expectations/02.Linearity of Expectation.md",
+    "01.Maths/Probability/04.Expectations/05.Indicator Random Variables.md",
+    "01.Maths/Probability/04.Expectations/04.Negative Binomial Distribution.md",
+    "01.Maths/Probability/04.Expectations/07.LOTUS.md",
+    "01.Maths/Probability/03.Random Variable/02.Probability Mass Function (PMF).md",
+    "01.Maths/Probability/07.Joint Distributions",
+    "01.Maths/Probability/06.Moments",
+    "01.Maths/Probability/05.Continuous Random variable",
     "01.Maths/Probability/04.Expectations",
     "01.Maths/Probability/03.Random Variable",
     "01.Maths/Probability/02.Conditional Probability",
     "01.Maths/Probability/01.Probability",
     "LICENSE",
     "Journal",
-    "07.Research and Continuous Learning",
-    "06.Projects",
-    "00.Learning Journal",
-    "05.Neural Networks & Deep Learning"
+    "07.Research and Continuous Learning"
   ]
 }
