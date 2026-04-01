@@ -146,15 +146,6 @@ I'm trying to build the habit of reading papers regularly. Not skimming — actu
 
 
 
----
-
-## ✦Journal entries
-
-This is the part I find hardest to keep up with, but also the most valuable when I do. Looking back at old entries and seeing what confused me then — and doesn't now — is genuinely motivating.
-
-I try to write everyday. No pressure to be polished. The point is honesty.
-
-[[Learning Journal|All entries →]]
 
 ---
 
