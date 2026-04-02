@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Probability/02.Conditional Probability/01.Conditional Probability.md",
+                "file": "01.Maths/Probability/02.Conditional Probability/03.Law of Total Probability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Conditional Probability"
+              "title": "03.Law of Total Probability"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "e0954833991bb85b",
   "lastOpenFiles": [
+    "01.Maths/Probability/02.Conditional Probability/02.Bayes' Theorem.md",
+    "01.Maths/Probability/02.Conditional Probability/03.Law of Total Probability.md",
+    "01.Maths/Probability/02.Conditional Probability/01.Conditional Probability.md",
     "01.Maths/Probability/02.Conditional Probability/00.Conditional Probability Chapters.md",
     "01.Maths/Probability/01.Probability/09.De Montmort's Matching Problem.md",
     "01.Maths/Probability/01.Probability/08.Vandermonde's Identity.md",
@@ -208,9 +211,6 @@
     "01.Maths/Probability/11.Markov chains/07.A stationary distribution.md",
     "01.Maths/Probability/11.Markov chains/06.Cupon Collector as a Markov Chain.md",
     "01.Maths/Probability/11.Markov chains/05.Gambler's Ruin as a Markov chain.md",
-    "01.Maths/Probability/11.Markov chains/04.Classification of states.md",
-    "01.Maths/Probability/11.Markov chains/03.The marginal distribution of Xn.md",
-    "01.Maths/Probability/11.Markov chains/02.N step transition Probability.md",
     "01.Maths/Probability/13.Poission Process",
     "01.Maths/Probability/12.Markov Chain Monte Carlo",
     "01.Maths/Probability/11.Markov chains",
