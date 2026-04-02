@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Probability/02.Conditional Probability/03.Law of Total Probability.md",
+                "file": "01.Maths/Probability/02.Conditional Probability/04.Testing a Rare Disease.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.Law of Total Probability"
+              "title": "04.Testing a Rare Disease"
             }
           }
         ]
@@ -185,12 +185,31 @@
   },
   "active": "e0954833991bb85b",
   "lastOpenFiles": [
-    "01.Maths/Probability/02.Conditional Probability/02.Bayes' Theorem.md",
+    "Pasted image 20260402142237.png",
+    "rare_disease.png",
+    "bayes_note_final.png",
+    "bayes_tree_perfect.png",
+    "bayes_tree_1000_people.png",
+    "bayes_tree_vertical.png",
+    "bayes_tree_diagram.png",
+    "bayes_medical_logic.png",
+    "rare_disease.py",
     "01.Maths/Probability/02.Conditional Probability/03.Law of Total Probability.md",
-    "01.Maths/Probability/02.Conditional Probability/01.Conditional Probability.md",
-    "01.Maths/Probability/02.Conditional Probability/00.Conditional Probability Chapters.md",
-    "01.Maths/Probability/01.Probability/09.De Montmort's Matching Problem.md",
+    "01.Maths/Probability/09.Conditional Expectations/02.Adam's Law (Law of Total Expectation).md",
+    "Pasted image 20260402133418.png",
+    "partition_by_a_continuous_rv.png",
+    "partition_continuous.png",
+    "partition_by_a_continuous_rv.py",
+    "partition_by_a_discreate_rv.py",
+    "formula_generation.py",
+    "formula generation.py",
+    "01.Maths/Probability/01.Probability/06.Newton-Pepy's Problem.md",
+    "01.Maths/Probability/01.Probability/07.Non-Naive Definition of Probability.md",
     "01.Maths/Probability/01.Probability/08.Vandermonde's Identity.md",
+    "01.Maths/Probability/01.Probability/09.De Montmort's Matching Problem.md",
+    "01.Maths/Probability/02.Conditional Probability/00.Conditional Probability Chapters.md",
+    "01.Maths/Probability/02.Conditional Probability/01.Conditional Probability.md",
+    "01.Maths/Probability/02.Conditional Probability/02.Bayes' Theorem.md",
     "01.Maths/Probability/12.Markov Chain Monte Carlo/01.Metropolis-Hastings.md",
     "01.Maths/Probability/13.Poission Process/04.Thinning of Poisson Processes.md",
     "01.Maths/Probability/13.Poission Process/02.Conditioning in Poisson Processes.md",
@@ -207,19 +226,10 @@
     "01.Maths/Probability/11.Markov chains/11.Knight on a Chess Board.md",
     "01.Maths/Probability/11.Markov chains/10.Reversibility.md",
     "01.Maths/Probability/11.Markov chains/09.Google PageRank.md",
-    "01.Maths/Probability/11.Markov chains/00.Markov Chains Chapters.md",
-    "01.Maths/Probability/11.Markov chains/07.A stationary distribution.md",
-    "01.Maths/Probability/11.Markov chains/06.Cupon Collector as a Markov Chain.md",
-    "01.Maths/Probability/11.Markov chains/05.Gambler's Ruin as a Markov chain.md",
     "01.Maths/Probability/13.Poission Process",
     "01.Maths/Probability/12.Markov Chain Monte Carlo",
     "01.Maths/Probability/11.Markov chains",
     "01.Maths/Probability/10.Inequalities and Limit",
-    "01.Maths/Probability/09.Conditional Expectations",
-    "01.Maths/Probability/08.Transformations",
-    "01.Maths/Probability/07.Joint Distributions",
-    "01.Maths/Probability/06.Moments",
-    "01.Maths/Probability/05.Continuous Random variable",
-    "01.Maths/Probability/04.Expectations"
+    "01.Maths/Probability/09.Conditional Expectations"
   ]
 }
