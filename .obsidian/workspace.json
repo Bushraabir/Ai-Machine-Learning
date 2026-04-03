@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Probability/02.Conditional Probability/04.Testing a Rare Disease.md",
+                "file": "01.Maths/Probability/02.Conditional Probability/05.Bayes' Rule with Extra Conditioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.Testing a Rare Disease"
+              "title": "05.Bayes' Rule with Extra Conditioning"
+            }
+          },
+          {
+            "id": "729c78f3cdd025b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Probability/02.Conditional Probability/09.Coherence of Bayes' Rule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09.Coherence of Bayes' Rule"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,22 +198,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "e0954833991bb85b",
+  "active": "729c78f3cdd025b4",
   "lastOpenFiles": [
-    "Pasted image 20260402142237.png",
-    "rare_disease.png",
-    "bayes_note_final.png",
-    "bayes_tree_perfect.png",
-    "bayes_tree_1000_people.png",
-    "bayes_tree_vertical.png",
-    "bayes_tree_diagram.png",
-    "bayes_medical_logic.png",
+    "Pasted image 20260403121856.png",
+    "Pasted image 20260403121213.png",
+    "01.Maths/Probability/02.Conditional Probability/09.Coherence of Bayes' Rule.md",
+    "01.Maths/Probability/02.Conditional Probability/08.Conditional Independence.md",
+    "Pasted image 20260403120329.png",
+    "01.Maths/Probability/02.Conditional Probability/07.Independence of Events.md",
+    "conditional_independence.png",
+    "conditional_independence_bigfont.png",
+    "conditional_independence_clean.png",
+    "conditional_independence_advanced.png",
+    "conditional_independence_complete.png",
+    "conditional_independence_detailed.png",
+    "conditional_independence.py",
+    "pairindependence_vs_mutualindependence.png",
+    "pairindependence_vs_mutualindependence.py",
+    "independence_vs_disjointness.png",
+    "independence_vs_disjointness.py",
+    "01.Maths/Probability/02.Conditional Probability/05.Bayes' Rule with Extra Conditioning.md",
+    "01.Maths/Probability/02.Conditional Probability/06.LOTP — With Extra Conditioning.md",
+    "01.Maths/Probability/02.Conditional Probability/14.The Defense Attorney's Fallacy.md",
+    "01.Maths/Probability/02.Conditional Probability/12.The Prosecutor's Fallacy.md",
+    "01.Maths/Probability/02.Conditional Probability/11.Gambler's ruin.md",
+    "01.Maths/Probability/02.Conditional Probability/10.The Monty Hall Problem.md",
+    "01.Maths/Probability/02.Conditional Probability/03.Law of Total Probability(LOTP).md",
+    "01.Maths/Probability/02.Conditional Probability/04.Testing a Rare Disease.md",
+    "01.Maths/Probability/02.Conditional Probability/02.Bayes' Theorem.md",
+    "01.Maths/Probability/03.Random Variable/03.Distributions.md",
+    "01.Maths/Probability/07.Joint Distributions/08.Continuous Bayes' Rule and LOTP.md",
+    "01.Maths/Probability/00.Probability.md",
     "rare_disease.py",
-    "01.Maths/Probability/02.Conditional Probability/03.Law of Total Probability.md",
     "01.Maths/Probability/09.Conditional Expectations/02.Adam's Law (Law of Total Expectation).md",
-    "Pasted image 20260402133418.png",
-    "partition_by_a_continuous_rv.png",
-    "partition_continuous.png",
     "partition_by_a_continuous_rv.py",
     "partition_by_a_discreate_rv.py",
     "formula_generation.py",
@@ -209,27 +241,10 @@
     "01.Maths/Probability/01.Probability/09.De Montmort's Matching Problem.md",
     "01.Maths/Probability/02.Conditional Probability/00.Conditional Probability Chapters.md",
     "01.Maths/Probability/02.Conditional Probability/01.Conditional Probability.md",
-    "01.Maths/Probability/02.Conditional Probability/02.Bayes' Theorem.md",
     "01.Maths/Probability/12.Markov Chain Monte Carlo/01.Metropolis-Hastings.md",
     "01.Maths/Probability/13.Poission Process/04.Thinning of Poisson Processes.md",
     "01.Maths/Probability/13.Poission Process/02.Conditioning in Poisson Processes.md",
-    "01.Maths/Probability/13.Poission Process/03.Superposition of Poisson Processes.md",
-    "01.Maths/Probability/13.Poission Process/01.Poisson Process in 1 Dimension.md",
-    "01.Maths/Probability/13.Poission Process/00.Poission Process Chapters.md",
-    "01.Maths/Probability/12.Markov Chain Monte Carlo/07.Gibbs Sampling.md",
-    "01.Maths/Probability/12.Markov Chain Monte Carlo/06.Normal-Normal Conjugacy.md",
-    "01.Maths/Probability/12.Markov Chain Monte Carlo/05.Kapsack Problem.md",
-    "01.Maths/Probability/12.Markov Chain Monte Carlo/04.Code Breaking.md",
-    "01.Maths/Probability/12.Markov Chain Monte Carlo/03.Beta Distribution Simulation.md",
-    "01.Maths/Probability/12.Markov Chain Monte Carlo/00.Markov Chain Monte Carlo Chapters.md",
-    "01.Maths/Probability/11.Markov chains/12.Birth-Death Chain.md",
-    "01.Maths/Probability/11.Markov chains/11.Knight on a Chess Board.md",
-    "01.Maths/Probability/11.Markov chains/10.Reversibility.md",
-    "01.Maths/Probability/11.Markov chains/09.Google PageRank.md",
     "01.Maths/Probability/13.Poission Process",
-    "01.Maths/Probability/12.Markov Chain Monte Carlo",
-    "01.Maths/Probability/11.Markov chains",
-    "01.Maths/Probability/10.Inequalities and Limit",
-    "01.Maths/Probability/09.Conditional Expectations"
+    "01.Maths/Probability/12.Markov Chain Monte Carlo"
   ]
 }
