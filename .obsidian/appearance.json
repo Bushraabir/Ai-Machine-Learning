@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "Nier",
+  "theme": "obsidian",
+  "textFontFamily": "Inter,Gabriola",
+  "interfaceFontFamily": "Inter",
+  "baseFontSize": 16,
+  "accentColor": "#eff7b0"
+}
