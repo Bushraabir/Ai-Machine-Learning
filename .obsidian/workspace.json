@@ -182,6 +182,11 @@
   },
   "active": "e0954833991bb85b",
   "lastOpenFiles": [
+    "images/rare_disease.py",
+    "images/independence_vs_disjointness.py",
+    "images/pairindependence_vs_mutualindependence.py",
+    "images/partition_by_a_continuous_rv.py",
+    "images/partition_by_a_discreate_rv.py",
     "01.Maths/Probability/00.Probability.md",
     "01.Maths/Probability/13.Poission Process/00.Poission Process Chapters.md",
     "01.Maths/Probability/12.Markov Chain Monte Carlo/00.Markov Chain Monte Carlo Chapters.md",
@@ -220,14 +225,9 @@
     "01.Maths/Probability/02.Conditional Probability/07.Independence of Events.md",
     "conditional_independence.py",
     "pairindependence_vs_mutualindependence.py",
-    "independence_vs_disjointness.py",
     "01.Maths/Probability/02.Conditional Probability/03.Law of Total Probability(LOTP).md",
     "01.Maths/Probability/02.Conditional Probability/04.Testing a Rare Disease.md",
     "01.Maths/Probability/03.Random Variable/03.Distributions.md",
-    "01.Maths/Probability/07.Joint Distributions/08.Continuous Bayes' Rule and LOTP.md",
-    "rare_disease.py",
-    "01.Maths/Probability/09.Conditional Expectations/02.Adam's Law (Law of Total Expectation).md",
-    "partition_by_a_continuous_rv.py",
-    "partition_by_a_discreate_rv.py"
+    "01.Maths/Probability/07.Joint Distributions/08.Continuous Bayes' Rule and LOTP.md"
   ]
 }

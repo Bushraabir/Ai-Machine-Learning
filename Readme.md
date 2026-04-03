@@ -41,7 +41,7 @@ The loop at the end is intentional. Projects surface gaps. Research fills them. 
 
 Honestly the part I kept putting off. Linear algebra finally clicked when I stopped trying to memorize operations and started thinking about what they _do_ to space. Calculus is coming back slowly. Probability is probably the one I'll revisit the most — everything in ML eventually becomes a probability question.
 
-- [ ] Linear algebra — got the intuition, working on the depth
+- [ ] Linear algebra — got the intuition, working on the depth.
 - [ ] Multivariable calculus — chain rule, gradients, the whole thing
 - [ ] Probability & statistics — distributions, Bayes, MLE
 - [ ] Information theory — entropy, KL divergence (still murky)
