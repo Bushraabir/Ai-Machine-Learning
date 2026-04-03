@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Probability/04.Expectations/04.Negative Binomial Distribution.md",
+                "file": "01.Maths/Probability/04.Expectations/03.Geometric Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.Negative Binomial Distribution"
+              "title": "03.Geometric Distribution"
             }
           }
         ],
@@ -253,6 +253,7 @@
   },
   "active": "2bd1e5caa050d8a8",
   "lastOpenFiles": [
+    "01.Maths/Probability/04.Expectations/04.Negative Binomial Distribution.md",
     "01.Maths/Probability/04.Expectations/03.Geometric Distribution.md",
     "01.Maths/Probability/04.Expectations/02.Linearity of Expectation.md",
     "01.Maths/Probability/04.Expectations/01.Expectation.md",
@@ -284,7 +285,6 @@
     "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
     "01.Maths/Probability/01.Probability/00.Probability chapters.md",
     "01.Maths/Probability/14.Others/01.Exponential Family.md",
-    "01.Maths/Probability/03.Random Variable/03.Distributions.md",
     "01.Maths/Probability/14.Others",
     "images/rare_disease.py",
     "images/independence_vs_disjointness.py",
