@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Probability/02.Conditional Probability/09.Coherence of Bayes' Rule.md",
+                "file": "01.Maths/Probability/02.Conditional Probability/12.The Prosecutor's Fallacy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09.Coherence of Bayes' Rule"
+              "title": "12.The Prosecutor's Fallacy"
             }
           }
         ],
@@ -200,9 +200,15 @@
   },
   "active": "729c78f3cdd025b4",
   "lastOpenFiles": [
+    "01.Maths/Probability/02.Conditional Probability/11.Gambler's ruin.md",
+    "Pasted image 20260403124936.png",
+    "01.Maths/Probability/02.Conditional Probability/10.The Monty Hall Problem.md",
+    "Pasted image 20260403124010.png",
+    "01.Maths/Probability/02.Conditional Probability/09.Coherence of Bayes' Rule.md",
+    "01.Maths/Probability/02.Conditional Probability/02.Bayes' Theorem.md",
+    "Pasted image 20260403122805.png",
     "Pasted image 20260403121856.png",
     "Pasted image 20260403121213.png",
-    "01.Maths/Probability/02.Conditional Probability/09.Coherence of Bayes' Rule.md",
     "01.Maths/Probability/02.Conditional Probability/08.Conditional Independence.md",
     "Pasted image 20260403120329.png",
     "01.Maths/Probability/02.Conditional Probability/07.Independence of Events.md",
@@ -210,22 +216,15 @@
     "conditional_independence_bigfont.png",
     "conditional_independence_clean.png",
     "conditional_independence_advanced.png",
-    "conditional_independence_complete.png",
-    "conditional_independence_detailed.png",
     "conditional_independence.py",
-    "pairindependence_vs_mutualindependence.png",
     "pairindependence_vs_mutualindependence.py",
-    "independence_vs_disjointness.png",
     "independence_vs_disjointness.py",
     "01.Maths/Probability/02.Conditional Probability/05.Bayes' Rule with Extra Conditioning.md",
     "01.Maths/Probability/02.Conditional Probability/06.LOTP — With Extra Conditioning.md",
     "01.Maths/Probability/02.Conditional Probability/14.The Defense Attorney's Fallacy.md",
     "01.Maths/Probability/02.Conditional Probability/12.The Prosecutor's Fallacy.md",
-    "01.Maths/Probability/02.Conditional Probability/11.Gambler's ruin.md",
-    "01.Maths/Probability/02.Conditional Probability/10.The Monty Hall Problem.md",
     "01.Maths/Probability/02.Conditional Probability/03.Law of Total Probability(LOTP).md",
     "01.Maths/Probability/02.Conditional Probability/04.Testing a Rare Disease.md",
-    "01.Maths/Probability/02.Conditional Probability/02.Bayes' Theorem.md",
     "01.Maths/Probability/03.Random Variable/03.Distributions.md",
     "01.Maths/Probability/07.Joint Distributions/08.Continuous Bayes' Rule and LOTP.md",
     "01.Maths/Probability/00.Probability.md",
