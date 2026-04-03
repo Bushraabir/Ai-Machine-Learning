@@ -11,13 +11,84 @@
             "id": "e0954833991bb85b",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Probability/03.Random Variable/03.Distributions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.Distributions"
+            }
+          },
+          {
+            "id": "be1b120d21ed0899",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "05c2bf8bcefe5a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Probability/03.Random Variable/14.Functions of Random Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14.Functions of Random Variables"
+            }
+          },
+          {
+            "id": "141a7a1e23b83d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Probability/14.Others/02.Jacobian Formula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.Jacobian Formula"
+            }
+          },
+          {
+            "id": "a312a80ecac99f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Probability/03.Random Variable/15.The ELK Problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15.The ELK Problem"
+            }
+          },
+          {
+            "id": "2bd1e5caa050d8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Probability/04.Expectations/04.Negative Binomial Distribution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.Negative Binomial Distribution"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -74,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 442.5
   },
   "right": {
     "id": "02fc3c8a42a530d5",
@@ -180,54 +251,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0954833991bb85b",
+  "active": "2bd1e5caa050d8a8",
   "lastOpenFiles": [
+    "01.Maths/Probability/04.Expectations/03.Geometric Distribution.md",
+    "01.Maths/Probability/04.Expectations/02.Linearity of Expectation.md",
+    "01.Maths/Probability/04.Expectations/01.Expectation.md",
+    "01.Maths/Probability/03.Random Variable/16.Independence of Random Variables.md",
+    "01.Maths/Probability/00.Probability.md",
+    "01.Maths/Probability/14.Others/00.Others chapters.md",
+    "01.Maths/Probability/14.Others/04.Delta Method.md",
+    "01.Maths/Probability/03.Random Variable/15.The ELK Problem.md",
+    "01.Maths/Probability/03.Random Variable/14.Functions of Random Variables.md",
+    "01.Maths/Probability/03.Random Variable/13.Hypergeometric vs Binomial.md",
+    "01.Maths/Probability/03.Random Variable/12.Hypergeometric Distribution.md",
+    "01.Maths/Probability/14.Others/03.Box Muller Transformation.md",
+    "01.Maths/Probability/14.Others/02.Jacobian Formula.md",
+    "01.Maths/Probability/03.Random Variable/11.CDF vs PMF.md",
+    "images/Pasted image 20260403171103.png",
+    "01.Maths/Probability/03.Random Variable/06.Bernoulli Distribution.md",
+    "01.Maths/Probability/03.Random Variable/10.Cumulative Distribution Function (CDF).md",
+    "01.Maths/Probability/03.Random Variable/08.Probability Mass Function (PMF).md",
+    "01.Maths/Probability/03.Random Variable/09.Support of a Random Variable.md",
+    "01.Maths/Probability/03.Random Variable/07.Bernoulli vs Binomial.md",
+    "images/Pasted image 20260403165902.png",
+    "01.Maths/Probability/03.Random Variable/01.Random Variable (RV).md",
+    "01.Maths/Probability/03.Random Variable/05.Binomial Distribution.md",
+    "images/Pasted image 20260403163644.png",
+    "images/Pasted image 20260403163603.png",
+    "images/conditional_independence.png",
+    "images/binomial_distribution.png",
+    "01.Maths/Probability/01.Probability/02.Some formula.md",
+    "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
+    "01.Maths/Probability/01.Probability/00.Probability chapters.md",
+    "01.Maths/Probability/14.Others/01.Exponential Family.md",
+    "01.Maths/Probability/03.Random Variable/03.Distributions.md",
+    "01.Maths/Probability/14.Others",
     "images/rare_disease.py",
     "images/independence_vs_disjointness.py",
     "images/pairindependence_vs_mutualindependence.py",
     "images/partition_by_a_continuous_rv.py",
     "images/partition_by_a_discreate_rv.py",
-    "01.Maths/Probability/00.Probability.md",
-    "01.Maths/Probability/13.Poission Process/00.Poission Process Chapters.md",
-    "01.Maths/Probability/12.Markov Chain Monte Carlo/00.Markov Chain Monte Carlo Chapters.md",
-    "01.Maths/Probability/11.Markov chains/00.Markov Chains Chapters.md",
-    "01.Maths/Probability/13.Poission Process/02.Conditioning in Poisson Processes.md",
-    "01.Maths/Probability/03.Random Variable/00.Random Variable Chapters.md",
-    "01.Maths/Probability/02.Conditional Probability/11.Gambler's ruin.md",
     "images/Pasted image 20260403104618.png",
-    "01.Maths/00.Maths.md",
-    "01.Maths/Probability/02.Conditional Probability/06.LOTP — With Extra Conditioning.md",
     "Untitled 3",
     "Untitled 2",
     "Untitled 1",
     "Untitled.canvas",
     "images",
-    "01.Maths/Probability/02.Conditional Probability/05.Bayes' Rule with Extra Conditioning.md",
-    "01.Maths/Probability/03.Random Variable/01.Random Variable (RV).md",
     "images/Pasted image 20260403132927.png",
-    "01.Maths/Probability/03.Random Variable/11.CDF vs PMF.md",
     "images/Pasted image 20260403132754.png",
-    "01.Maths/Probability/03.Random Variable/02.Probability Mass Function (PMF).md",
-    "01.Maths/Probability/02.Conditional Probability/14.The Defense Attorney's Fallacy.md",
-    "images/Pasted image 20260403132442.png",
-    "Pasted image 20260403131948.png",
-    "01.Maths/Probability/02.Conditional Probability/12.The Prosecutor's Fallacy.md",
-    "01.Maths/Probability/02.Conditional Probability/13.Simpson's Paradox.md",
-    "images/Pasted image 20260403131826.png",
-    "images/Pasted image 20260403131142.png",
-    "images/Pasted image 20260403130605.png",
-    "images/Pasted image 20260403124936.png",
-    "01.Maths/Probability/02.Conditional Probability/10.The Monty Hall Problem.md",
-    "images/Pasted image 20260403124010.png",
-    "01.Maths/Probability/02.Conditional Probability/09.Coherence of Bayes' Rule.md",
-    "01.Maths/Probability/02.Conditional Probability/02.Bayes' Theorem.md",
-    "01.Maths/Probability/02.Conditional Probability/08.Conditional Independence.md",
-    "01.Maths/Probability/02.Conditional Probability/07.Independence of Events.md",
-    "conditional_independence.py",
-    "pairindependence_vs_mutualindependence.py",
-    "01.Maths/Probability/02.Conditional Probability/03.Law of Total Probability(LOTP).md",
-    "01.Maths/Probability/02.Conditional Probability/04.Testing a Rare Disease.md",
-    "01.Maths/Probability/03.Random Variable/03.Distributions.md",
-    "01.Maths/Probability/07.Joint Distributions/08.Continuous Bayes' Rule and LOTP.md"
+    "images/Pasted image 20260403132442.png"
   ]
 }
