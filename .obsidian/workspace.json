@@ -212,9 +212,145 @@
               "icon": "lucide-file",
               "title": "02.Orthogonal Complements"
             }
+          },
+          {
+            "id": "25a565ad12ba6b1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/03.Combining Bases from Subspaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.Combining Bases from Subspaces"
+            }
+          },
+          {
+            "id": "bf76ab50b6c38e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/04.Projections onto a Line.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.Projections onto a Line"
+            }
+          },
+          {
+            "id": "29416e713be9d40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/05.Projections onto a Subspace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.Projections onto a Subspace"
+            }
+          },
+          {
+            "id": "0dfe2ea4330bfc68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/06.Least Squares Approximations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06.Least Squares Approximations"
+            }
+          },
+          {
+            "id": "3472df36dbbf186e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/07.Fitting a Straight Line.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07.Fitting a Straight Line"
+            }
+          },
+          {
+            "id": "9df3b37ac24b2d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/08.Fitting by a Parabola.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08.Fitting by a Parabola"
+            }
+          },
+          {
+            "id": "d38294e1aa7fe983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/09.Orthogonal Bases and Gram-Schmidt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09.Orthogonal Bases and Gram-Schmidt"
+            }
+          },
+          {
+            "id": "1234ef4bb44fcbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/10.Projection Using Orthogonal Bases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.Projection Using Orthogonal Bases"
+            }
+          },
+          {
+            "id": "a04cd1670ea5792d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/11.The Gram-Schmidt Process.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.The Gram-Schmidt Process"
+            }
+          },
+          {
+            "id": "e4e133938cc9f01d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -377,13 +513,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c706eeadd68b1b1",
+  "active": "e4e133938cc9f01d",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/04.Orthogonality/01.Orthogonality of the Four Fundamental Subspaces.md",
-    "01.Maths/Linear Algebra/04.Orthogonality/02.Orthogonal Complements.md",
-    "01.Maths/Linear Algebra/04.Orthogonality/00.Orthogonality Chapters.md",
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/00.Vector Spaces and Subspaces Chapters.md",
+    "01.Maths/Probability/00.Probability.md",
+    "01.Maths/Probability/02.Conditional Probability/00.Conditional Probability Chapters.md",
+    "01.Maths/Probability/02.Conditional Probability/06.LOTP — With Extra Conditioning.md",
+    "01.Maths/00.Maths.md",
     "01.Maths/Linear Algebra/Linear Algebra.md",
+    "2026-04-06.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/00.Orthogonality Chapters.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/12.Factorization A = QR.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/11.The Gram-Schmidt Process.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/10.Projection Using Orthogonal Bases.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/09.Orthogonal Bases and Gram-Schmidt.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/08.Fitting by a Parabola.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/07.Fitting a Straight Line.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/06.Least Squares Approximations.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/05.Projections onto a Subspace.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/04.Projections onto a Line.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/03.Combining Bases from Subspaces.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/02.Orthogonal Complements.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/01.Orthogonality of the Four Fundamental Subspaces.md",
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/12.Four Fundamental Subspaces.md",
     "01.Maths/Linear Algebra/04.Orthogonality",
     "Untitled",
@@ -392,21 +543,6 @@
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/09.Basis for a Vector Space.md",
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/08.Vectors That Span a Subspace.md",
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/07.Linear Independence.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/06. AX=B.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/05.Pivot Columns and Special Solutions.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/04.Rank and the Row Reduced Form.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/03.The Reduced Row Echelon Form.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/02.Null Space of A.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/01.Vector Spaces and Subspaces.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/15.Symmetric Matrices, Their Products, and LDL^T.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/14.Inner Products.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/13.Transposes and Permutations.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/12.The Cost of Elimination.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/11.One Square System = Two Triangular Systems.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/10. A = LU.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/09.Matrix Inverses.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/08.Schur Complement.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/07.Block Matrices and Block Multiplication.md",
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces",
     "01.Maths/Linear Algebra/02.Solving Linear Equations",
     "images/Pasted image 20260404102021.png",

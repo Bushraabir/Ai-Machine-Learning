@@ -56,7 +56,19 @@
 
 
 
-
+[[00.Orthogonality Chapters]]
+[[01.Orthogonality of the Four Fundamental Subspaces]]
+[[02.Orthogonal Complements]]
+[[03.Combining Bases from Subspaces]]
+[[04.Projections onto a Line]]
+[[05.Projections onto a Subspace]]
+[[06.Least Squares Approximations]]
+[[07.Fitting a Straight Line]]
+[[08.Fitting by a Parabola]]
+[[09.Orthogonal Bases and Gram-Schmidt]]
+[[10.Projection Using Orthogonal Bases]]
+[[11.The Gram-Schmidt Process]]
+[[12.Factorization A = QR]]
 
 
 
