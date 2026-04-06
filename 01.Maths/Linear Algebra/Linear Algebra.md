@@ -14,3 +14,24 @@
 [[14.The Cauchy-Schwarz Inequality]]
 [[15.Cyclic Differences for Matrices]]
 [[16.Independence and Dependence]]
+
+
+
+
+[[00.Solving Linear Equations Chapters]]
+[[01.Vectors and Linear Equations]]
+[[02.Three Equations, Three Unknowns]]
+[[03.The Idea of Elimination]]
+[[04.Permutation Matrices]]
+[[05.The Augmented Matrix]]
+[[06.Laws of Matrix Operations]]
+[[07.Block Matrices and Block Multiplication]]
+[[08.Schur Complement]]
+[[09.Matrix Inverses]]
+[[10. A = LU]]
+[[11.One Square System = Two Triangular Systems]]
+[[12.The Cost of Elimination]]
+[[13.Transposes and Permutations]]
+[[14.Inner Products]]
+[[15.Symmetric Matrices, Their Products, and LDL^T]]
+[[16.PA = LU Factorization with Row Exchanges]]
