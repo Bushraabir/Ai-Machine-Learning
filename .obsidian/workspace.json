@@ -4,11 +4,165 @@
     "type": "split",
     "children": [
       {
-        "id": "5060b47d74c0cad8",
+        "id": "13fd8755fe373534",
         "type": "tabs",
         "children": [
           {
-            "id": "be1b120d21ed0899",
+            "id": "b2c1a48de4e41032",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/01.Vector Spaces and Subspaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.Vector Spaces and Subspaces"
+            }
+          },
+          {
+            "id": "2dee8545b30e311b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/02.Null Space of A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.Null Space of A"
+            }
+          },
+          {
+            "id": "9898208be54ccc18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/03.The Reduced Row Echelon Form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.The Reduced Row Echelon Form"
+            }
+          },
+          {
+            "id": "bff6a78ad0bbd256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/04.Rank and the Row Reduced Form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.Rank and the Row Reduced Form"
+            }
+          },
+          {
+            "id": "d489699dd5b078e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/05.Pivot Columns and Special Solutions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.Pivot Columns and Special Solutions"
+            }
+          },
+          {
+            "id": "cb824fe4cb8600cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/06. AX=B.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06. AX=B"
+            }
+          },
+          {
+            "id": "d68994bda5cb6a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/07.Linear Independence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07.Linear Independence"
+            }
+          },
+          {
+            "id": "b2240b8eb18407d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/08.Vectors That Span a Subspace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08.Vectors That Span a Subspace"
+            }
+          },
+          {
+            "id": "0a88d9a0a4d89ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/09.Basis for a Vector Space.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09.Basis for a Vector Space"
+            }
+          },
+          {
+            "id": "575a8586e4062ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/10.Dimension of a Vector Space.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.Dimension of a Vector Space"
+            }
+          },
+          {
+            "id": "d5b30afcff1409b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/11.Bases for Matrix Spaces and Function Spaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.Bases for Matrix Spaces and Function Spaces"
+            }
+          },
+          {
+            "id": "18edb02c35d517af",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,475 +172,49 @@
             }
           },
           {
-            "id": "abef16b4ad3342d5",
+            "id": "4c3084a43e0b1988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/00.Orthogonality Chapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.Introduction To Vectors Chapters"
+              "title": "00.Orthogonality Chapters"
             }
           },
           {
-            "id": "fe54382b62c6e5ef",
+            "id": "f71fa95d579bf6c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/01.The Geometry of Linear Equations.md",
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/01.Orthogonality of the Four Fundamental Subspaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.The Geometry of Linear Equations"
+              "title": "01.Orthogonality of the Four Fundamental Subspaces"
             }
           },
           {
-            "id": "a60b4cd33d1934e3",
+            "id": "7acc914a76fc7667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elemination.md",
+                "file": "01.Maths/Linear Algebra/04.Orthogonality/02.Orthogonal Complements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.Gaussian Elemination"
-            }
-          },
-          {
-            "id": "31e68278e9772155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03.Matrix Multiplication"
-            }
-          },
-          {
-            "id": "b9c24c9fec3228d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/05.Inverse of ABA^T.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05.Inverse of ABA^T"
-            }
-          },
-          {
-            "id": "94479591da55720e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03.Matrix Multiplication"
-            }
-          },
-          {
-            "id": "c18ca586bd76087a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/06.Gauss–Jordan Elimination.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06.Gauss–Jordan Elimination"
-            }
-          },
-          {
-            "id": "789c11e2015db116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.Matrix Inverse"
-            }
-          },
-          {
-            "id": "cedfe22ab84bc275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/08.Vectors and Linear Combinations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08.Vectors and Linear Combinations"
-            }
-          },
-          {
-            "id": "157a04d321195275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/10.Vectors in Three Dimensions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.Vectors in Three Dimensions"
-            }
-          },
-          {
-            "id": "0484d60fa15557e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/11.Length and dot product.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.Length and dot product"
-            }
-          },
-          {
-            "id": "391f01fe430e2991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/12.Unit Vectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12.Unit Vectors"
-            }
-          },
-          {
-            "id": "0a84bf5e9211b959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/13.Angle Between Two Vectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13.Angle Between Two Vectors"
-            }
-          },
-          {
-            "id": "6fe7804f118046e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/14.The Cauchy-Schwarz Inequality.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14.The Cauchy-Schwarz Inequality"
-            }
-          },
-          {
-            "id": "cb3d550c6de7d058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/15.Cyclic Differences for Matrices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15.Cyclic Differences for Matrices"
-            }
-          },
-          {
-            "id": "0580c9ab01e988b4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "53827484211fbd66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/00.Solving Linear Equations Chapters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00.Solving Linear Equations Chapters"
-            }
-          },
-          {
-            "id": "d039d4bc17ff3999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/01.Vectors and Linear Equations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.Vectors and Linear Equations"
-            }
-          },
-          {
-            "id": "44c226394a5a81c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/02.Three Equations, Three Unknowns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.Three Equations, Three Unknowns"
-            }
-          },
-          {
-            "id": "5ec586f46f93263b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/03.The Idea of Elimination.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03.The Idea of Elimination"
-            }
-          },
-          {
-            "id": "361ce1e8bd42a337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05.The Augmented Matrix"
-            }
-          },
-          {
-            "id": "073cbc0b83f13076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.Permutation Matrices"
-            }
-          },
-          {
-            "id": "591543a4073c1f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/06.Laws of Matrix Operations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06.Laws of Matrix Operations"
-            }
-          },
-          {
-            "id": "80e5bba31a75102b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/07.Block Matrices and Block Multiplication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07.Block Matrices and Block Multiplication"
-            }
-          },
-          {
-            "id": "0c85b66d94f7cd5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/08.Schur Complement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08.Schur Complement"
-            }
-          },
-          {
-            "id": "38a17863e9c64d8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/09.Matrix Inverses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09.Matrix Inverses"
-            }
-          },
-          {
-            "id": "211986a073c43f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/10. A = LU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. A = LU"
-            }
-          },
-          {
-            "id": "4dc7276ea995cbf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/11.One Square System = Two Triangular Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.One Square System = Two Triangular Systems"
-            }
-          },
-          {
-            "id": "af20a4b0d8bcc17d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/12.The Cost of Elimination.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12.The Cost of Elimination"
-            }
-          },
-          {
-            "id": "65a6758d0802ecb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/13.Transposes and Permutations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13.Transposes and Permutations"
-            }
-          },
-          {
-            "id": "51ebdb0004c30b49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/14.Inner Products.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14.Inner Products"
-            }
-          },
-          {
-            "id": "a2a98ce9ba54695c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/15.Symmetric Matrices, Their Products, and LDL^T.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15.Symmetric Matrices, Their Products, and LDL^T"
-            }
-          },
-          {
-            "id": "79144044b48b9827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/00.Vector Spaces and Subspaces Chapters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00.Vector Spaces and Subspaces Chapters"
-            }
-          },
-          {
-            "id": "5bc40203186ea511",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "02.Orthogonal Complements"
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -649,14 +377,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bc40203186ea511",
+  "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/Linear Algebra.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/00.Solving Linear Equations Chapters.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/16.PA = LU Factorization with Row Exchanges.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/01.Orthogonality of the Four Fundamental Subspaces.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/02.Orthogonal Complements.md",
+    "01.Maths/Linear Algebra/04.Orthogonality/00.Orthogonality Chapters.md",
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/00.Vector Spaces and Subspaces Chapters.md",
+    "01.Maths/Linear Algebra/Linear Algebra.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/12.Four Fundamental Subspaces.md",
+    "01.Maths/Linear Algebra/04.Orthogonality",
+    "Untitled",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/11.Bases for Matrix Spaces and Function Spaces.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/10.Dimension of a Vector Space.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/09.Basis for a Vector Space.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/08.Vectors That Span a Subspace.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/07.Linear Independence.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/06. AX=B.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/05.Pivot Columns and Special Solutions.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/04.Rank and the Row Reduced Form.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/03.The Reduced Row Echelon Form.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/02.Null Space of A.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/01.Vector Spaces and Subspaces.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/15.Symmetric Matrices, Their Products, and LDL^T.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/14.Inner Products.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/13.Transposes and Permutations.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/12.The Cost of Elimination.md",
@@ -665,21 +407,8 @@
     "01.Maths/Linear Algebra/02.Solving Linear Equations/09.Matrix Inverses.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/08.Schur Complement.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/07.Block Matrices and Block Multiplication.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/06.Laws of Matrix Operations.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/03.The Idea of Elimination.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/02.Three Equations, Three Unknowns.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/01.Vectors and Linear Equations.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces",
     "01.Maths/Linear Algebra/02.Solving Linear Equations",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
-    "Readme.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/16.Independence and Dependence.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/15.Cyclic Differences for Matrices.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/14.The Cauchy-Schwarz Inequality.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/13.Angle Between Two Vectors.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/12.Unit Vectors.md",
-    "Untitled 1",
     "images/Pasted image 20260404102021.png",
     "01.Maths/Linear Algebra/01.Introduction to Vectors",
     "images/Pasted image 20260403171103.png",
@@ -693,7 +422,6 @@
     "images/independence_vs_disjointness.py",
     "images/pairindependence_vs_mutualindependence.py",
     "images/partition_by_a_continuous_rv.py",
-    "images/partition_by_a_discreate_rv.py",
     "images/Pasted image 20260403104618.png",
     "Untitled.canvas",
     "images/Pasted image 20260403132927.png",
