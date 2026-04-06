@@ -128,9 +128,117 @@
               "icon": "lucide-file",
               "title": "04.Matrix Inverse"
             }
+          },
+          {
+            "id": "cedfe22ab84bc275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/08.Vectors and Linear Combinations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08.Vectors and Linear Combinations"
+            }
+          },
+          {
+            "id": "157a04d321195275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/10.Vectors in Three Dimensions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.Vectors in Three Dimensions"
+            }
+          },
+          {
+            "id": "0484d60fa15557e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/11.Length and dot product.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.Length and dot product"
+            }
+          },
+          {
+            "id": "391f01fe430e2991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/12.Unit Vectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.Unit Vectors"
+            }
+          },
+          {
+            "id": "0a84bf5e9211b959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/13.Angle Between Two Vectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.Angle Between Two Vectors"
+            }
+          },
+          {
+            "id": "6fe7804f118046e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/14.The Cauchy-Schwarz Inequality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14.The Cauchy-Schwarz Inequality"
+            }
+          },
+          {
+            "id": "cb3d550c6de7d058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/15.Cyclic Differences for Matrices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15.Cyclic Differences for Matrices"
+            }
+          },
+          {
+            "id": "0580c9ab01e988b4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -293,19 +401,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c706eeadd68b1b1",
+  "active": "0580c9ab01e988b4",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/Linear Algebra.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
+    "Readme.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/16.Independence and Dependence.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/15.Cyclic Differences for Matrices.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/14.The Cauchy-Schwarz Inequality.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/13.Angle Between Two Vectors.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/12.Unit Vectors.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/11.Length and dot product.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/10.Vectors in Three Dimensions.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/08.Vectors and Linear Combinations.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/05.Inverse of ABA^T.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/06.Gauss–Jordan Elimination.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/07.Product of Elimination Matrices.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
     "Untitled 1",
     "Untitled",
     "images/Pasted image 20260404102021.png",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elemination.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/01.The Geometry of Linear Equations.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors",
     "01.Maths/Probability/04.Expectations/03.Geometric Distribution.md",
     "01.Maths/Probability/04.Expectations/04.Negative Binomial Distribution.md",
@@ -315,17 +433,7 @@
     "01.Maths/Probability/00.Probability.md",
     "01.Maths/Probability/14.Others/00.Others chapters.md",
     "01.Maths/Probability/14.Others/04.Delta Method.md",
-    "01.Maths/Probability/03.Random Variable/15.The ELK Problem.md",
-    "01.Maths/Probability/03.Random Variable/14.Functions of Random Variables.md",
-    "01.Maths/Probability/03.Random Variable/13.Hypergeometric vs Binomial.md",
-    "01.Maths/Probability/03.Random Variable/12.Hypergeometric Distribution.md",
-    "01.Maths/Probability/14.Others/03.Box Muller Transformation.md",
-    "01.Maths/Probability/14.Others/02.Jacobian Formula.md",
-    "01.Maths/Probability/03.Random Variable/11.CDF vs PMF.md",
     "images/Pasted image 20260403171103.png",
-    "01.Maths/Probability/03.Random Variable/06.Bernoulli Distribution.md",
-    "01.Maths/Probability/03.Random Variable/10.Cumulative Distribution Function (CDF).md",
-    "01.Maths/Probability/03.Random Variable/08.Probability Mass Function (PMF).md",
     "images/Pasted image 20260403165902.png",
     "images/Pasted image 20260403163644.png",
     "images/Pasted image 20260403163603.png",
