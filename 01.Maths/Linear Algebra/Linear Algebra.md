@@ -72,3 +72,23 @@
 
 
 
+
+
+[[00.Determinants Chapters]]
+[[01.Determinants]]
+[[02.Permutations]]
+[[03.Cofactors]]
+[[04.Pivot Formula]]
+[[05.Big Formula for Determinants]]
+[[06.Determinants by Cofactors]]
+[[07.Cramer's Rule]]
+[[08.Area of a Triangle via Determinants]]
+[[09.Area of a Parallelogram]]
+[[10.Cross Product]]
+[[11.Triple Product and Volume]]
+
+
+
+
+
+
