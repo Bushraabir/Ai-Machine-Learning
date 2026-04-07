@@ -92,3 +92,40 @@
 
 
 
+[[00.Eigenvalues and Eigenvectors CHapters]]
+[[01.Eigenvalues]]
+[[02.Equation of Eiganvalues]]
+[[03.Complex and Imaginary Eigenvalues]]
+[[04.Eigenvectors]]
+[[05.Diagonalizing a Matrix]]
+[[06.Matrix Powers]]
+[[07.Fourier Series]]
+[[08.Non-Diagonalizable Matrices and Jordan Form]]
+[[09.Heisenberg's Uncertainty Principle]]
+[[10.Applications to Differential Equations]]
+[[11.Second-Order Linear ODEs]]
+[[12.Euler Spirals]]
+[[13.Stability of 2x2 Systems]]
+[[14.The Matrix Exponential]]
+[[15.Symmetric Matrices]]
+[[16.The Spectral Theorem]]
+[[17.Orthogonal Eigenvectors]]
+[[18.Complex Eigenvalues of Real Matrices]]
+[[19.Eigenvalues versus Pivots]]
+[[20.All Symmetric Matrices Are Diagonalizable]]
+[[21.Positive Definite Matrices]]
+[[22.Energy-Based Definition of Positive Definite Matrices]]
+[[23.Positive Semidefinite Matrices]]
+[[24.Ellipse]]
+[[25.Similar Matrices]]
+[[26.Jordan Normal Form]]
+[[27.Eigenvalues of Large Matrices]]
+[[28.Singular Value Decomposition]]
+[[29.Image Compression via SVD]]
+[[30.The Bases and SVD]]
+[[31.SVD of a Singular Matrix]]
+[[32.eigshow]]
+
+
+
+
