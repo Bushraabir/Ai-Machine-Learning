@@ -1,0 +1,10 @@
+{
+  "copilot:trigger-quick-ask": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
+    }
+  ]
+}

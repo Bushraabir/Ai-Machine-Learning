@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (Product of Elimination Matrices).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 07.LU Decomposition (Product of Elimination Matrices)"
             }
           },
           {
@@ -207,8 +207,19 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "4a70bfb40145f8cb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,13 +235,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "e41c5b2441ccdc75",
   "lastOpenFiles": [
     "01.Maths/Linear Algebra/00.others/04.Elimination Matrix.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (Product of Elimination Matrices).md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/06.Gauss–Jordan Elimination.md",
     "04.Reduced Row Echelon Form (RREF).md",
     "01.Maths/Linear Algebra/00.others/03.Row Echelon Form (REF).md",
@@ -240,22 +272,7 @@
     "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/01.The Geometry of Linear Equations.md",
     "01.Maths/Linear Algebra/00.others/02.Column Operations.md",
-    "01.Maths/Linear Algebra/00.others/01.Row Operations.md",
     "01.Maths/Linear Algebra/00.others",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/31.SVD of a Singular Matrix.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/30.The Bases and SVD.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/29.Image Compression via SVD.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/28.Singular Value Decomposition.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/27.Eigenvalues of Large Matrices.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/25.Similar Matrices.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/24.Ellipse.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/23.Positive Semidefinite Matrices.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/22.Energy-Based Definition of Positive Definite Matrices.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/21.Positive Definite Matrices.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/20.All Symmetric Matrices Are Diagonalizable.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/19.Eigenvalues versus Pivots.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/18.Complex Eigenvalues of Real Matrices.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/17.Orthogonal Eigenvectors.md",
     "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors",
     "01.Maths/Linear Algebra/04.Orthogonality",
     "01.Maths/Linear Algebra/05.Determinants",
@@ -270,8 +287,6 @@
     "images/conditional_independence.png",
     "images/binomial_distribution.png",
     "01.Maths/Probability/14.Others",
-    "images/rare_disease.py",
-    "images/independence_vs_disjointness.py",
     "images/Pasted image 20260403104618.png",
     "Untitled.canvas",
     "images/Pasted image 20260403132927.png",
