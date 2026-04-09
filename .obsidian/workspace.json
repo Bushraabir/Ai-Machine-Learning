@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elemination.md",
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elimination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.Gaussian Elemination"
+              "title": "02.Gaussian Elimination"
             }
           },
           {
@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (Product of Elimination Matrices).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.Matrix Multiplication"
+              "title": "07.LU Decomposition (Product of Elimination Matrices)"
+            }
+          },
+          {
+            "id": "106756511f826940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/00.others/04.Elimination Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.Elimination Matrix"
             }
           }
         ],
@@ -215,7 +229,15 @@
   },
   "active": "e41c5b2441ccdc75",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elemination.md",
+    "01.Maths/Linear Algebra/00.others/04.Elimination Matrix.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (Product of Elimination Matrices).md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/06.Gauss–Jordan Elimination.md",
+    "04.Reduced Row Echelon Form (RREF).md",
+    "01.Maths/Linear Algebra/00.others/03.Row Echelon Form (REF).md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elimination.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/05.Inverse of ABA^T.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/01.The Geometry of Linear Equations.md",
     "01.Maths/Linear Algebra/00.others/02.Column Operations.md",
     "01.Maths/Linear Algebra/00.others/01.Row Operations.md",
@@ -234,14 +256,6 @@
     "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/19.Eigenvalues versus Pivots.md",
     "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/18.Complex Eigenvalues of Real Matrices.md",
     "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/17.Orthogonal Eigenvectors.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/16.The Spectral Theorem.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/15.Symmetric Matrices.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/14.The Matrix Exponential.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/13.Stability of 2x2 Systems.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/12.Euler Spirals.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/11.Second-Order Linear ODEs.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/10.Applications to Differential Equations.md",
-    "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors/09.Heisenberg's Uncertainty Principle.md",
     "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors",
     "01.Maths/Linear Algebra/04.Orthogonality",
     "01.Maths/Linear Algebra/05.Determinants",

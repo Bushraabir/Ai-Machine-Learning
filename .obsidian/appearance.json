@@ -3,6 +3,7 @@
   "theme": "obsidian",
   "textFontFamily": "Inter,Gabriola",
   "interfaceFontFamily": "Inter",
-  "baseFontSize": 16,
-  "accentColor": "#eff7b0"
+  "baseFontSize": 12,
+  "accentColor": "#eff7b0",
+  "nativeMenus": true
 }
