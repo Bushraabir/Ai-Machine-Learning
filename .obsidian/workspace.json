@@ -50,17 +50,31 @@
             }
           },
           {
+            "id": "1bce86a3bf1178dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/00.others/06.FOIL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06.FOIL"
+            }
+          },
+          {
             "id": "106756511f826940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/00.others/04.Elimination Matrix.md",
+                "file": "01.Maths/Linear Algebra/00.others/03.Elimination Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.Elimination Matrix"
+              "title": "03.Elimination Matrix"
             }
           }
         ],
@@ -244,8 +258,9 @@
   },
   "active": "e41c5b2441ccdc75",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/00.others/04.Elimination Matrix.md",
+    "01.Maths/Linear Algebra/00.others/06.FOIL.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (Product of Elimination Matrices).md",
+    "01.Maths/Linear Algebra/00.others/03.Elimination Matrix.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -264,14 +279,13 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/06.Gauss–Jordan Elimination.md",
-    "04.Reduced Row Echelon Form (RREF).md",
+    "01.Maths/Linear Algebra/00.others/04.Reduced Row Echelon Form (RREF).md",
     "01.Maths/Linear Algebra/00.others/03.Row Echelon Form (REF).md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elimination.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/05.Inverse of ABA^T.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/01.The Geometry of Linear Equations.md",
-    "01.Maths/Linear Algebra/00.others/02.Column Operations.md",
     "01.Maths/Linear Algebra/00.others",
     "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors",
     "01.Maths/Linear Algebra/04.Orthogonality",
