@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.Singular Matrix.md",
+                "file": "01.Maths/Linear Algebra/00.others/07.Singular Matrix.md",
                 "mode": "source",
                 "source": false
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.Singular Matrix.md",
+                "file": "01.Maths/Linear Algebra/00.others/07.Singular Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,19 +266,21 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "80e034ee893a12ed",
+  "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
-    "Pasted image 20260409212332.png",
-    "Pasted image 20260409211216.png",
-    "Pasted image 20260409210757.png",
-    "Pasted image 20260409210635.png",
+    "images/Pasted image 20260410181801.png",
+    "Pasted image 20260410181549.png",
+    "01.Maths/Linear Algebra/00.others/07.Singular Matrix.md",
+    "images/Pasted image 20260409212332.png",
+    "images/Pasted image 20260409211216.png",
+    "images/Pasted image 20260409210757.png",
+    "images/Pasted image 20260409210635.png",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/15.Cyclic Differences for Matrices.md",
-    "07.Singular Matrix.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/14.The Cauchy-Schwarz Inequality.md",
-    "Pasted image 20260409203816.png",
-    "Pasted image 20260409203554.png",
-    "Pasted image 20260409202413.png",
-    "Pasted image 20260409201422.png",
+    "images/Pasted image 20260409203816.png",
+    "images/Pasted image 20260409203554.png",
+    "images/Pasted image 20260409202413.png",
+    "images/Pasted image 20260409201422.png",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/13.Angle Between Two Vectors.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/12.Unit Vectors.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/01.The Geometry of Linear Equations.md",
@@ -287,9 +289,7 @@
     "01.Maths/Linear Algebra/00.others/06.FOIL.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/05.Inverse of ABA^T.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/08.Vectors and Linear Combinations.md",
-    "Pasted image 20260409151205.png",
-    "images/Pasted image 20260409145614.png",
-    "images/Pasted image 20260409145351.png",
+    "images/Pasted image 20260409151205.png",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (Product of Elimination Matrices).md",
     "01.Maths/Linear Algebra/00.others/03.Elimination Matrix.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
