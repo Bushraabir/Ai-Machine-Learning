@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.Fourier Matrix.md",
+                "file": "01.Maths/Linear Algebra/00.others/08.Fourier Matrix.md",
                 "mode": "source",
                 "source": false
               },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08.Fourier Matrix.md",
+                "file": "01.Maths/Linear Algebra/00.others/08.Fourier Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,10 +280,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b36eb652d5506d58",
+  "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
     "01.Maths/Linear Algebra/00.others/07.Singular Matrix.md",
-    "08.Fourier Matrix.md",
+    "01.Maths/Linear Algebra/00.others/08.Fourier Matrix.md",
     "Untitled",
     "images/Pasted image 20260411193415.png",
     "images/Pasted image 20260411193103.png",
