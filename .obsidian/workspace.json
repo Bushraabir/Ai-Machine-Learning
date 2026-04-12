@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/00.others/08.Fourier Matrix.md",
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/16.Independence and Dependence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08.Fourier Matrix"
+              "title": "16.Independence and Dependence"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Maths/Linear Algebra/00.others/08.Fourier Matrix.md",
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/16.Independence and Dependence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 08.Fourier Matrix"
+              "title": "Backlinks for 16.Independence and Dependence"
             }
           },
           {
@@ -280,10 +280,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5c706eeadd68b1b1",
+  "active": "b36eb652d5506d58",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/00.others/07.Singular Matrix.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/15.Cyclic Differences for Matrices.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/14.The Cauchy-Schwarz Inequality.md",
     "01.Maths/Linear Algebra/00.others/08.Fourier Matrix.md",
+    "01.Maths/Linear Algebra/00.others/07.Singular Matrix.md",
     "Untitled",
     "images/Pasted image 20260411193415.png",
     "images/Pasted image 20260411193103.png",
@@ -293,8 +295,6 @@
     "images/Pasted image 20260409211216.png",
     "images/Pasted image 20260409210757.png",
     "images/Pasted image 20260409210635.png",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/15.Cyclic Differences for Matrices.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/14.The Cauchy-Schwarz Inequality.md",
     "images/Pasted image 20260409203816.png",
     "images/Pasted image 20260409203554.png",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/13.Angle Between Two Vectors.md",
