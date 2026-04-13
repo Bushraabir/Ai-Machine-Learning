@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/02.Three Equations, Three Unknowns.md",
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.Three Equations, Three Unknowns"
+              "title": "03.Elimination"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/02.Three Equations, Three Unknowns.md",
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02.Three Equations, Three Unknowns"
+              "title": "Backlinks for 03.Elimination"
             }
           },
           {
@@ -282,9 +282,11 @@
   },
   "active": "b36eb652d5506d58",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/02.Three Equations, Three Unknowns.md",
+    "Pasted image 20260413095454.png",
+    "Pasted image 20260413095222.png",
     "Pasted image 20260412225502.png",
     "Pasted image 20260413061520.png",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/02.Three Equations, Three Unknowns.md",
     "Pasted image 20260413084259.png",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/01.Vectors and Linear Equations.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/00.Solving Linear Equations Chapters.md",
@@ -299,8 +301,6 @@
     "images/Pasted image 20260410181801.png",
     "Pasted image 20260410181549.png",
     "images/Pasted image 20260409212332.png",
-    "images/Pasted image 20260409211216.png",
-    "images/Pasted image 20260409210757.png",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/13.Angle Between Two Vectors.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/12.Unit Vectors.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/01.The Geometry of Linear Equations.md",

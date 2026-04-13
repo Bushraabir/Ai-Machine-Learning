@@ -21,7 +21,7 @@
 [[00.Solving Linear Equations Chapters]]
 [[01.Vectors and Linear Equations]]
 [[02.Three Equations, Three Unknowns]]
-[[03.The Idea of Elimination]]
+[[03.Elimination]]
 [[04.Permutation Matrices]]
 [[05.The Augmented Matrix]]
 [[06.Laws of Matrix Operations]]
