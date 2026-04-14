@@ -129,3 +129,20 @@
 
 
 
+[[00.Linear Transformations Chapters]]
+[[01.Linear Transformations]]
+[[02.Lines to Lines, Triangles to Triangles]]
+[[03.Linear Transformations of plane]]
+[[04.The matrix of a Linear Transformation]]
+[[05.Matrix of Differentiation and Integration]]
+[[06.Products AB- Matching Transformations]]
+[[07.Identity Transformation and Change of Basis]]
+[[08.Wavelet Transformation]]
+[[09.Fourier Transformation & the DFT]]
+[[10.Diagonalization]]
+[[11.Similar Matrices]]
+[[12.Singular Value Decomposition]]
+[[13.Polar Decomposition]]
+[[14.Pseudo Inverse]]
+
+

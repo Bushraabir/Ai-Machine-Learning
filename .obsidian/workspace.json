@@ -302,6 +302,16 @@
             }
           },
           {
+            "id": "5ba37b697092aefe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "106756511f826940",
             "type": "leaf",
             "state": {
@@ -316,7 +326,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -389,7 +399,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/13.Polar Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +408,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13.Polar Decomposition"
+              "title": "Backlinks"
             }
           },
           {
@@ -494,10 +503,16 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5c706eeadd68b1b1",
+  "active": "5ba37b697092aefe",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/07.Linear Transformations/12.Singular Value Decomposition.md",
+    "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
+    "01.Maths/Probability/03.Random Variable/00.Random Variable Chapters.md",
+    "01.Maths/Probability/00.Probability.md",
+    "01.Maths/Linear Algebra/Linear Algebra.md",
+    "01.Maths/Linear Algebra/07.Linear Transformations/00.Linear Transformations Chapters.md",
+    "01.Maths/Linear Algebra/07.Linear Transformations/14.Pseudo Inverse.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/13.Polar Decomposition.md",
+    "01.Maths/Linear Algebra/07.Linear Transformations/12.Singular Value Decomposition.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/11.Similar Matrices.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/10.Diagonalization.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/09.Fourier Transformation & the DFT.md",
@@ -509,7 +524,6 @@
     "01.Maths/Linear Algebra/07.Linear Transformations/03.Linear Transformations of plane.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/02.Lines to Lines, Triangles to Triangles.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/01.Linear Transformations.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/00.Linear Transformations Chapters.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
     "01.Maths/Linear Algebra/07.Linear Transformations",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
@@ -518,17 +532,12 @@
     "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
     "01.Maths/Linear Algebra/00.others/09.Orthogonal Matrix.md",
-    "01.Maths/Linear Algebra/00.others/07.Singular Matrix.md",
     "images/Pasted image 20260414133648.png",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/02.Three Equations, Three Unknowns.md",
     "images/Pasted image 20260413095454.png",
     "images/Pasted image 20260413095222.png",
     "images/Pasted image 20260412225502.png",
     "images/Pasted image 20260413061520.png",
     "Pasted image 20260413084259.png",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/01.Vectors and Linear Equations.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/00.Solving Linear Equations Chapters.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/16.Independence and Dependence.md",
     "images/Pasted image 20260411193415.png",
     "images/Pasted image 20260411193103.png",
     "images/Pasted image 20260410181801.png",
