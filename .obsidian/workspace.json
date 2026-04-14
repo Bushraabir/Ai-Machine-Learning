@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/00.others/07.Singular Matrix.md",
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.Singular Matrix"
+              "title": "00.Introduction To Vectors Chapters"
             }
           },
           {
@@ -78,13 +78,31 @@
             }
           },
           {
+            "id": "c534ad5f3e13bad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/00.others/09.Orthogonal Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09.Orthogonal Matrix"
+            }
+          },
+          {
             "id": "1bce86a3bf1178dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.The Augmented Matrix"
             }
           },
           {
@@ -102,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -175,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04.Permutation Matrices"
+              "title": "Backlinks for 05.The Augmented Matrix"
             }
           },
           {
@@ -280,15 +298,21 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b36eb652d5506d58",
+  "active": "1bce86a3bf1178dd",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/16.PA = LU.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
+    "01.Maths/Linear Algebra/00.others/09.Orthogonal Matrix.md",
+    "01.Maths/Linear Algebra/00.others/07.Singular Matrix.md",
+    "images/Pasted image 20260414133648.png",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/02.Three Equations, Three Unknowns.md",
-    "Pasted image 20260413095454.png",
-    "Pasted image 20260413095222.png",
-    "Pasted image 20260412225502.png",
-    "Pasted image 20260413061520.png",
+    "images/Pasted image 20260413095454.png",
+    "images/Pasted image 20260413095222.png",
+    "images/Pasted image 20260412225502.png",
+    "images/Pasted image 20260413061520.png",
     "Pasted image 20260413084259.png",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/01.Vectors and Linear Equations.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/00.Solving Linear Equations Chapters.md",
@@ -296,13 +320,11 @@
     "01.Maths/Linear Algebra/01.Introduction to Vectors/15.Cyclic Differences for Matrices.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/14.The Cauchy-Schwarz Inequality.md",
     "01.Maths/Linear Algebra/00.others/08.Fourier Matrix.md",
-    "01.Maths/Linear Algebra/00.others/07.Singular Matrix.md",
     "Untitled",
     "images/Pasted image 20260411193415.png",
     "images/Pasted image 20260411193103.png",
     "images/Pasted image 20260410181801.png",
     "Pasted image 20260410181549.png",
-    "images/Pasted image 20260409212332.png",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/13.Angle Between Two Vectors.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/12.Unit Vectors.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/01.The Geometry of Linear Equations.md",
@@ -315,10 +337,6 @@
     "01.Maths/Linear Algebra/00.others/03.Elimination Matrix.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "01.Maths/Linear Algebra/00.others",
