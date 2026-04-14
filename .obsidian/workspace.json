@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.Elimination"
+              "title": "04.Permutation Matrices"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03.Elimination"
+              "title": "Backlinks for 04.Permutation Matrices"
             }
           },
           {
@@ -282,6 +282,8 @@
   },
   "active": "b36eb652d5506d58",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/16.PA = LU.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/02.Three Equations, Three Unknowns.md",
     "Pasted image 20260413095454.png",
     "Pasted image 20260413095222.png",
@@ -317,7 +319,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "01.Maths/Linear Algebra/00.others",

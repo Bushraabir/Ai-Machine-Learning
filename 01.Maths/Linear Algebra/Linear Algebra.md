@@ -34,7 +34,7 @@
 [[13.Transposes and Permutations]]
 [[14.Inner Products]]
 [[15.Symmetric Matrices, Their Products, and LDL^T]]
-[[16.PA = LU Factorization with Row Exchanges]]
+[[16.PA = LU]]
 
 
 
