@@ -335,8 +335,7 @@
               "title": "03.Elimination Matrix"
             }
           }
-        ],
-        "currentTab": 22
+        ]
       }
     ],
     "direction": "vertical"
@@ -410,6 +409,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elimination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -419,7 +419,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 02.Gaussian Elimination"
             }
           },
           {
@@ -499,9 +499,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7de02ea2cf249332",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -523,8 +533,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b4ed3b5aa543f492",
+  "active": "74b2b9e642650399",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Summarize_the@20260414_215843.md",
+    "copilot/copilot-conversations",
+    "copilot",
     "01.Maths/Linear Algebra/Linear Algebra.md",
     "01.Maths/Linear Algebra/00.others/00.Other Chapters.md",
     "01.Maths/Linear Algebra/00.others/05.Row Echelon Form (REF).md",
@@ -551,7 +564,6 @@
     "01.Maths/Linear Algebra/07.Linear Transformations",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/16.PA = LU.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
     "images/Pasted image 20260414133648.png",
     "images/Pasted image 20260413095454.png",
     "images/Pasted image 20260413095222.png",
@@ -563,14 +575,12 @@
     "images/Pasted image 20260410181801.png",
     "Pasted image 20260410181549.png",
     "copilot/copilot-custom-prompts",
-    "copilot",
     "01.Maths/Linear Algebra/00.others",
     "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors",
     "01.Maths/Linear Algebra/04.Orthogonality",
     "01.Maths/Linear Algebra/05.Determinants",
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces",
     "01.Maths/Linear Algebra/02.Solving Linear Equations",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors",
     "Untitled.canvas"
   ]
 }
