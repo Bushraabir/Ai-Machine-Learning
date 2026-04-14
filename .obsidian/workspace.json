@@ -8,317 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74b2b9e642650399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elimination.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.Gaussian Elimination"
-            }
-          },
-          {
-            "id": "022d6ee90c3f17aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/00.others/01.Row Operations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.Row Operations"
-            }
-          },
-          {
-            "id": "e41c5b2441ccdc75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/15.Cyclic Differences for Matrices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15.Cyclic Differences for Matrices"
-            }
-          },
-          {
-            "id": "80e034ee893a12ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00.Introduction To Vectors Chapters"
-            }
-          },
-          {
-            "id": "b36eb652d5506d58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.Permutation Matrices"
-            }
-          },
-          {
-            "id": "c534ad5f3e13bad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/00.others/09.Orthogonal Matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09.Orthogonal Matrix"
-            }
-          },
-          {
-            "id": "1bce86a3bf1178dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05.The Augmented Matrix"
-            }
-          },
-          {
-            "id": "f2b6f104d6019725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/00.Linear Transformations Chapters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00.Linear Transformations Chapters"
-            }
-          },
-          {
-            "id": "ce818d607707b315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/01.Linear Transformations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.Linear Transformations"
-            }
-          },
-          {
-            "id": "0007eb24d08155fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/02.Lines to Lines, Triangles to Triangles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.Lines to Lines, Triangles to Triangles"
-            }
-          },
-          {
-            "id": "3edf2969c6e92a5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/03.Linear Transformations of plane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03.Linear Transformations of plane"
-            }
-          },
-          {
-            "id": "d7ac525e3591062d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/04.The matrix of a Linear Transformation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.The matrix of a Linear Transformation"
-            }
-          },
-          {
-            "id": "7180d39e757779eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/04.The matrix of a Linear Transformation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.The matrix of a Linear Transformation"
-            }
-          },
-          {
-            "id": "4507607e95ea2f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/06.Products AB- Matching Transformations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06.Products AB- Matching Transformations"
-            }
-          },
-          {
-            "id": "6061a03a41cf2591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/07.Identity Transformation and Change of Basis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07.Identity Transformation and Change of Basis"
-            }
-          },
-          {
-            "id": "b59548eb4abdeb90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/08.Wavelet Transformation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08.Wavelet Transformation"
-            }
-          },
-          {
-            "id": "c2781cbfe34186c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/09.Fourier Transformation & the DFT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09.Fourier Transformation & the DFT"
-            }
-          },
-          {
-            "id": "62e8b44d05f6363b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/10.Diagonalization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.Diagonalization"
-            }
-          },
-          {
-            "id": "dbd36c2a83059963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/11.Similar Matrices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.Similar Matrices"
-            }
-          },
-          {
-            "id": "32290222a679f44a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/12.Singular Value Decomposition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12.Singular Value Decomposition"
-            }
-          },
-          {
-            "id": "64f8c95b1235a60f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/07.Linear Transformations/13.Polar Decomposition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13.Polar Decomposition"
-            }
-          },
-          {
-            "id": "5ba37b697092aefe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "9ceb2740e55830fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/00.Maths.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.Maths"
+            }
+          },
+          {
+            "id": "1ac52d8b1f16574a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/00.Maths.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.Maths"
+            }
+          },
+          {
+            "id": "db14492f73a33d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Mathematics for Machine Learning/00.Mathematics for Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.Mathematics for Machine Learning"
             }
           },
           {
@@ -335,7 +63,8 @@
               "title": "03.Elimination Matrix"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -388,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -533,20 +261,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "74b2b9e642650399",
+  "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/Summarize_the@20260414_215843.md",
-    "copilot/copilot-conversations",
-    "copilot",
-    "01.Maths/Linear Algebra/Linear Algebra.md",
-    "01.Maths/Linear Algebra/00.others/00.Other Chapters.md",
-    "01.Maths/Linear Algebra/00.others/05.Row Echelon Form (REF).md",
-    "01.Maths/Linear Algebra/00.others/03.Elimination Matrix.md",
-    "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
-    "01.Maths/Probability/03.Random Variable/00.Random Variable Chapters.md",
-    "01.Maths/Probability/00.Probability.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/00.Linear Transformations Chapters.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/14.Pseudo Inverse.md",
+    "01.Maths/Mathematics for Machine Learning/01.Analytic Geometry/00.Analytic Geometry Chapters.md",
+    "01.Maths/00.Maths.md",
+    "01.Maths/Mathematics for Machine Learning/01.Analytic Geometry",
+    "01.Maths/Mathematics for Machine Learning/00.Mathematics for Machine Learning.md",
+    "01.Maths/Mathematics for Machine Learning",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/08.Vectors and Linear Combinations.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/13.Polar Decomposition.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/12.Singular Value Decomposition.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/11.Similar Matrices.md",
@@ -556,14 +279,21 @@
     "01.Maths/Linear Algebra/07.Linear Transformations/07.Identity Transformation and Change of Basis.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/06.Products AB- Matching Transformations.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/04.The matrix of a Linear Transformation.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/05.Matrix of Differentiation and Integration.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/03.Linear Transformations of plane.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/02.Lines to Lines, Triangles to Triangles.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/01.Linear Transformations.md",
+    "01.Maths/Linear Algebra/07.Linear Transformations/00.Linear Transformations Chapters.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations",
+    "01.Maths/Linear Algebra/00.others/09.Orthogonal Matrix.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/16.PA = LU.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/15.Cyclic Differences for Matrices.md",
+    "01.Maths/Linear Algebra/00.others/01.Row Operations.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elimination.md",
+    "copilot/copilot-conversations/Summarize_the@20260414_215843.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "01.Maths/Linear Algebra/Linear Algebra.md",
+    "01.Maths/Linear Algebra/07.Linear Transformations",
     "images/Pasted image 20260414133648.png",
     "images/Pasted image 20260413095454.png",
     "images/Pasted image 20260413095222.png",
@@ -579,8 +309,6 @@
     "01.Maths/Linear Algebra/06.Eigenvalues and Eigenvectors",
     "01.Maths/Linear Algebra/04.Orthogonality",
     "01.Maths/Linear Algebra/05.Determinants",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations",
     "Untitled.canvas"
   ]
 }
