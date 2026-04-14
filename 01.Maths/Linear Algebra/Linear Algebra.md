@@ -1,3 +1,19 @@
+[[00.Other Chapters]]
+[[01.Row Operations]]
+[[02.Column Operations]]
+[[03.Elimination Matrix]]
+[[04.Reduced Row Echelon Form (RREF)]]
+[[05.Row Echelon Form (REF)]]
+[[06.FOIL]]
+[[07.Singular Matrix]]
+[[08.Fourier Matrix]]
+[[09.Orthogonal Matrix]]
+
+
+
+
+
+
 [[00.Introduction To Vectors Chapters]]
 [[01.The Geometry of Linear Equations]]
 [[02.Gaussian Elimination]]

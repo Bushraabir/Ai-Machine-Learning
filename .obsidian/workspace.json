@@ -312,6 +312,16 @@
             }
           },
           {
+            "id": "9ceb2740e55830fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "106756511f826940",
             "type": "leaf",
             "state": {
@@ -326,7 +336,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -503,12 +513,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5ba37b697092aefe",
+  "active": "9ceb2740e55830fc",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/Linear Algebra.md",
+    "01.Maths/Linear Algebra/00.others/00.Other Chapters.md",
+    "01.Maths/Linear Algebra/00.others/05.Row Echelon Form (REF).md",
+    "01.Maths/Linear Algebra/00.others/03.Elimination Matrix.md",
     "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
     "01.Maths/Probability/03.Random Variable/00.Random Variable Chapters.md",
     "01.Maths/Probability/00.Probability.md",
-    "01.Maths/Linear Algebra/Linear Algebra.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/00.Linear Transformations Chapters.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/14.Pseudo Inverse.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/13.Polar Decomposition.md",
@@ -529,9 +542,6 @@
     "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/16.PA = LU.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
-    "01.Maths/Linear Algebra/00.others/09.Orthogonal Matrix.md",
     "images/Pasted image 20260414133648.png",
     "images/Pasted image 20260413095454.png",
     "images/Pasted image 20260413095222.png",
