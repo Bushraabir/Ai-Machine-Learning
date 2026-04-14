@@ -389,7 +389,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -488,14 +489,23 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "06ba3a02b6f6201a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -513,7 +523,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9ceb2740e55830fc",
+  "active": "b4ed3b5aa543f492",
   "lastOpenFiles": [
     "01.Maths/Linear Algebra/Linear Algebra.md",
     "01.Maths/Linear Algebra/00.others/00.Other Chapters.md",
