@@ -8,77 +8,157 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ceb2740e55830fc",
+            "id": "fe0c0a657b941271",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/00.Maths.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00.Maths"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "1ac52d8b1f16574a",
+            "id": "a930333777b459c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/00.Maths.md",
+                "file": "01.Maths/Calculus/01.Functions and Models/05.Sketching the Graph of a Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.Maths"
+              "title": "05.Sketching the Graph of a Function"
             }
           },
           {
-            "id": "db14492f73a33d4a",
+            "id": "6402d7117f3875bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
+                "file": "01.Maths/Calculus/01.Functions and Models/06.Mathematical Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.Elimination"
+              "title": "06.Mathematical Models"
             }
           },
           {
-            "id": "106756511f826940",
+            "id": "46c0ecda4595c44e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/08.Schur Complement.md",
+                "file": "01.Maths/Calculus/01.Functions and Models/07.Linear Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08.Schur Complement"
+              "title": "07.Linear Models"
             }
           },
           {
-            "id": "8ae167042f425e85",
+            "id": "7c7457ed78de82d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Calculus/01.Functions and Models/00.Functions and Models Chapters.md",
+                "file": "01.Maths/Calculus/01.Functions and Models/08.Polynomials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.Functions and Models Chapters"
+              "title": "08.Polynomials"
+            }
+          },
+          {
+            "id": "803d3399e9439353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/01.Functions and Models/09.Power Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09.Power Functions"
+            }
+          },
+          {
+            "id": "c952bdac4cf240dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/01.Functions and Models/10.Inverse Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.Inverse Functions"
+            }
+          },
+          {
+            "id": "8e0dbed465c6b414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/01.Functions and Models/11.Rational Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.Rational Functions"
+            }
+          },
+          {
+            "id": "6c7f4fa0b7120c3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/01.Functions and Models/12.Algebraic Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.Algebraic Functions"
+            }
+          },
+          {
+            "id": "9577f03d66886008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/01.Functions and Models/13.Trigonometric Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.Trigonometric Functions"
+            }
+          },
+          {
+            "id": "aeeac1d6cfa88835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/01.Functions and Models/14.Exponential Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14.Exponential Functions"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -223,16 +303,6 @@
             }
           },
           {
-            "id": "4a70bfb40145f8cb",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          },
-          {
             "id": "06ba3a02b6f6201a",
             "type": "leaf",
             "state": {
@@ -240,6 +310,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "4a70bfb40145f8cb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           },
           {
@@ -253,11 +333,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,10 +356,24 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "06ba3a02b6f6201a",
+  "active": "aeeac1d6cfa88835",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/08.Schur Complement.md",
+    "01.Maths/Calculus/01.Functions and Models/13.Trigonometric Functions.md",
+    "01.Maths/Calculus/01.Functions and Models/14.Exponential Functions.md",
+    "01.Maths/Calculus/01.Functions and Models/12.Algebraic Functions.md",
+    "01.Maths/Calculus/01.Functions and Models/11.Rational Functions.md",
+    "01.Maths/Calculus/01.Functions and Models/10.Inverse Functions.md",
+    "01.Maths/Calculus/01.Functions and Models/09.Power Functions.md",
+    "01.Maths/Calculus/01.Functions and Models/08.Polynomials.md",
+    "01.Maths/Calculus/01.Functions and Models/07.Linear Models.md",
+    "01.Maths/Calculus/01.Functions and Models/06.Mathematical Models.md",
+    "01.Maths/Calculus/01.Functions and Models/05.Sketching the Graph of a Function.md",
+    "01.Maths/Calculus/01.Functions and Models/04.Increasing and Decreasing Functions.md",
+    "01.Maths/Calculus/01.Functions and Models/03.Symmetry.md",
+    "01.Maths/Calculus/01.Functions and Models/02.Piecewise Defined Functions.md",
+    "01.Maths/Calculus/01.Functions and Models/01.Ways to Represent Functions.md",
     "01.Maths/Calculus/01.Functions and Models/00.Functions and Models Chapters.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/08.Schur Complement.md",
     "01.Maths/Calculus/01.Functions and Models",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/07.Block Matrices and Block Multiplication.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/06.Laws of Matrix Operations.md",
@@ -290,22 +385,8 @@
     "01.Maths/Linear Algebra/01.Introduction to Vectors/05.Inverse of ABA^T.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (Product of Elimination Matrices).md",
-    "01.Maths/Linear Algebra/00.others/04.Reduced Row Echelon Form (RREF).md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
-    "01.Maths/Mathematics for Machine Learning/00.Mathematics for Machine Learning.md",
-    "01.Maths/Mathematics for Machine Learning/01.Analytic Geometry/00.Analytic Geometry Chapters.md",
-    "01.Maths/00.Maths.md",
     "01.Maths/Mathematics for Machine Learning/01.Analytic Geometry",
     "01.Maths/Mathematics for Machine Learning",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/08.Vectors and Linear Combinations.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/13.Polar Decomposition.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/12.Singular Value Decomposition.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/11.Similar Matrices.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/10.Diagonalization.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/09.Fourier Transformation & the DFT.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/08.Wavelet Transformation.md",
     "copilot/copilot-conversations",
     "copilot",
     "01.Maths/Linear Algebra/07.Linear Transformations",
