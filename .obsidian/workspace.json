@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/07.Block Matrices and Block Multiplication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.Matrix Inverse"
+              "title": "07.Block Matrices and Block Multiplication"
             }
           }
         ],
@@ -263,13 +263,17 @@
   },
   "active": "106756511f826940",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (Product of Elimination Matrices).md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/06.Gauss–Jordan Elimination.md",
-    "01.Maths/Linear Algebra/00.others/04.Reduced Row Echelon Form (RREF).md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/03.The Reduced Row Echelon Form.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/06.Laws of Matrix Operations.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/02.Null Space of A.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/03.The Reduced Row Echelon Form.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/04.Rank and the Row Reduced Form.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/06.Gauss–Jordan Elimination.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/05.Inverse of ABA^T.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (Product of Elimination Matrices).md",
+    "01.Maths/Linear Algebra/00.others/04.Reduced Row Echelon Form (RREF).md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/07.Block Matrices and Block Multiplication.md",
     "Untitled.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
@@ -287,10 +291,6 @@
     "01.Maths/Linear Algebra/07.Linear Transformations/09.Fourier Transformation & the DFT.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/08.Wavelet Transformation.md",
     "01.Maths/Linear Algebra/07.Linear Transformations/07.Identity Transformation and Change of Basis.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/06.Products AB- Matching Transformations.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/04.The matrix of a Linear Transformation.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/03.Linear Transformations of plane.md",
-    "01.Maths/Linear Algebra/07.Linear Transformations/02.Lines to Lines, Triangles to Triangles.md",
     "copilot/copilot-conversations",
     "copilot",
     "01.Maths/Linear Algebra/07.Linear Transformations",
