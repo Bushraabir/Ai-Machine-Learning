@@ -549,10 +549,14 @@
             "id": "5843e216153252b7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/07.Block Matrices and Block Multiplication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07.Block Matrices and Block Multiplication"
             }
           }
         ],
@@ -756,6 +760,8 @@
   },
   "active": "5843e216153252b7",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/06.Laws of Matrix Operations.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
     "01.Maths/Calculus/Calculus.md",
     "01.Maths/Calculus/03.Differential Rules/00.Differential Rules Chapters.md",
     "01.Maths/Calculus/02.Limits and Derivatives/00.Limits and Derivatives Chapters.md",
@@ -781,8 +787,6 @@
     "01.Maths/Calculus/02.Limits and Derivatives/05.Infinite Limits.md",
     "01.Maths/Calculus/02.Limits and Derivatives/04.One-Sided Limits.md",
     "01.Maths/Calculus/02.Limits and Derivatives/03.Limit of a Function.md",
-    "01.Maths/Calculus/02.Limits and Derivatives/02.Velocity Problem.md",
-    "01.Maths/Calculus/02.Limits and Derivatives/01.Tangent Problem.md",
     "01.Maths/Calculus/02.Limits and Derivatives",
     "01.Maths/Calculus/01.Functions and Models",
     "01.Maths/Mathematics for Machine Learning/01.Analytic Geometry",
