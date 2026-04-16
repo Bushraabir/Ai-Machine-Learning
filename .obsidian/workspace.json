@@ -551,12 +551,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/07.Block Matrices and Block Multiplication.md",
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/08.Schur Complement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.Block Matrices and Block Multiplication"
+              "title": "08.Schur Complement"
             }
           }
         ],
@@ -739,8 +739,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -760,6 +759,7 @@
   },
   "active": "5843e216153252b7",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/07.Block Matrices and Block Multiplication.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/06.Laws of Matrix Operations.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
     "01.Maths/Calculus/Calculus.md",
@@ -786,7 +786,6 @@
     "01.Maths/Calculus/02.Limits and Derivatives/06.Limit Laws.md",
     "01.Maths/Calculus/02.Limits and Derivatives/05.Infinite Limits.md",
     "01.Maths/Calculus/02.Limits and Derivatives/04.One-Sided Limits.md",
-    "01.Maths/Calculus/02.Limits and Derivatives/03.Limit of a Function.md",
     "01.Maths/Calculus/02.Limits and Derivatives",
     "01.Maths/Calculus/01.Functions and Models",
     "01.Maths/Mathematics for Machine Learning/01.Analytic Geometry",
