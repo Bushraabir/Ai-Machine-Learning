@@ -246,6 +246,16 @@
             }
           },
           {
+            "id": "e128798ebd380592",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "5fde4858a090595d",
             "type": "leaf",
             "state": {
@@ -256,7 +266,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -313,7 +323,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 344.5
   },
   "right": {
     "id": "02fc3c8a42a530d5",
@@ -453,10 +463,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4e9c2ab4e8b6fc09",
+  "active": "e128798ebd380592",
   "lastOpenFiles": [
-    "01.Maths/Calculus/04.Applications of Differentiations/10.Optimisation Problems.md",
+    "01.Maths/Calculus/Calculus.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/00.Applications of Differentiations Chapters.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/12.Antiderivatives.md",
     "01.Maths/Calculus/04.Applications of Differentiations/11.Newton's Method.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/10.Optimisation Problems.md",
     "01.Maths/Calculus/04.Applications of Differentiations/09.Graphing with Calculus.md",
     "01.Maths/Calculus/04.Applications of Differentiations/08.Curve Sketching.md",
     "01.Maths/Calculus/04.Applications of Differentiations/07.Indeterminate Forms & L'Hôpital's Rule.md",
@@ -466,11 +479,9 @@
     "01.Maths/Calculus/04.Applications of Differentiations/03.The Mean Value Theorem.md",
     "01.Maths/Calculus/04.Applications of Differentiations/02.Fermat's Theorem.md",
     "01.Maths/Calculus/04.Applications of Differentiations/01.Minimum and Maximum Values.md",
-    "01.Maths/Calculus/Calculus.md",
     "01.Maths/Calculus/03.Differential Rules/00.Differential Rules Chapters.md",
     "01.Maths/Calculus/03.Differential Rules/14.Inverse Hyperbolic Functions.md",
     "01.Maths/Calculus/03.Differential Rules/13.Hyperbolic Functions.md",
-    "01.Maths/Calculus/04.Applications of Differentiations/00.Applications of Differentiations Chapters.md",
     "01.Maths/Calculus/03.Differential Rules/12.Taylor Polynomials.md",
     "01.Maths/Calculus/04.Applications of Differentiations",
     "01.Maths/Calculus/03.Differential Rules/11.Linear Approximations and Differentials.md",
@@ -486,7 +497,6 @@
     "images/Pasted image 20260417201901.png",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/14.Inner Products or Pre-Hilbert Space.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/13.Transposes and Permutations.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/12.The Cost of Elimination.md",
     "01.Maths/Calculus/03.Differential Rules",
     "01.Maths/Calculus/02.Limits and Derivatives",
     "01.Maths/Calculus/01.Functions and Models",
