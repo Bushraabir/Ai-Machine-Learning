@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 277.5
   },
   "right": {
     "id": "02fc3c8a42a530d5",
@@ -228,7 +228,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "97269c79f8997bdc",
+  "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
     "01.Maths/Linear Algebra/02.Solving Linear Equations/17.DL^T Decomposition.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/15.Symmetric Matrices, Their Products, and LDL^T.md",
