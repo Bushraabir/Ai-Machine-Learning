@@ -256,6 +256,34 @@
             }
           },
           {
+            "id": "e82c244fd572e199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/05.Integrals/00.Integrals Chapters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.Integrals Chapters"
+            }
+          },
+          {
+            "id": "8855a1ca5f10aa9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/05.Integrals/01.The Area Problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.The Area Problem"
+            }
+          },
+          {
             "id": "5fde4858a090595d",
             "type": "leaf",
             "state": {
@@ -266,7 +294,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -463,8 +491,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e128798ebd380592",
+  "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
+    "01.Maths/Calculus/05.Integrals/00.Integrals Chapters.md",
+    "01.Maths/Calculus/05.Integrals/01.The Area Problem.md",
+    "01.Maths/Calculus/05.Integrals",
     "01.Maths/Calculus/Calculus.md",
     "01.Maths/Calculus/04.Applications of Differentiations/00.Applications of Differentiations Chapters.md",
     "01.Maths/Calculus/04.Applications of Differentiations/12.Antiderivatives.md",
@@ -495,8 +526,6 @@
     "images/Pasted image 20260417203824.png",
     "images/Pasted image 20260417202651.png",
     "images/Pasted image 20260417201901.png",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/14.Inner Products or Pre-Hilbert Space.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/13.Transposes and Permutations.md",
     "01.Maths/Calculus/03.Differential Rules",
     "01.Maths/Calculus/02.Limits and Derivatives",
     "01.Maths/Calculus/01.Functions and Models",
@@ -510,7 +539,6 @@
     "images/Pasted image 20260413095222.png",
     "images/Pasted image 20260412225502.png",
     "images/Pasted image 20260413061520.png",
-    "copilot/copilot-custom-prompts",
     "Untitled.canvas"
   ]
 }
