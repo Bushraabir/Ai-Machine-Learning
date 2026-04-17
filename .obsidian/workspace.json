@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/14.Inner Products or Pre-Hilbert Space.md",
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/15.Symmetric Matrices, Their Products, and LDL^T.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.Inner Products or Pre-Hilbert Space"
+              "title": "15.Symmetric Matrices, Their Products, and LDL^T"
+            }
+          },
+          {
+            "id": "d1cab1968c8c1cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/17.DL^T Decomposition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17.DL^T Decomposition"
             }
           },
           {
@@ -229,8 +243,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5fde4858a090595d",
+  "active": "d1cab1968c8c1cfb",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/15.Symmetric Matrices, Their Products, and LDL^T.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/17.DL^T Decomposition.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/14.Inner Products or Pre-Hilbert Space.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/13.Transposes and Permutations.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/12.The Cost of Elimination.md",
@@ -255,8 +271,6 @@
     "01.Maths/Calculus/02.Limits and Derivatives/09.Limits at Infinity.md",
     "01.Maths/Calculus/02.Limits and Derivatives/08.Continuity.md",
     "01.Maths/Calculus/02.Limits and Derivatives/07.The Precise Definition of a Limit.md",
-    "01.Maths/Calculus/02.Limits and Derivatives/06.Limit Laws.md",
-    "01.Maths/Calculus/02.Limits and Derivatives/05.Infinite Limits.md",
     "01.Maths/Calculus/03.Differential Rules",
     "01.Maths/Calculus/02.Limits and Derivatives",
     "01.Maths/Calculus/01.Functions and Models",
