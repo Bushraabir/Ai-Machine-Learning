@@ -204,6 +204,48 @@
             }
           },
           {
+            "id": "cd5942179bb70ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/04.Applications of Differentiations/09.Graphing with Calculus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09.Graphing with Calculus"
+            }
+          },
+          {
+            "id": "d677ded09218c0f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/04.Applications of Differentiations/10.Optimisation Problems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.Optimisation Problems"
+            }
+          },
+          {
+            "id": "4e9c2ab4e8b6fc09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/04.Applications of Differentiations/11.Newton's Method.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.Newton's Method"
+            }
+          },
+          {
             "id": "5fde4858a090595d",
             "type": "leaf",
             "state": {
@@ -214,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -411,10 +453,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5c706eeadd68b1b1",
+  "active": "4e9c2ab4e8b6fc09",
   "lastOpenFiles": [
-    "01.Maths/Calculus/04.Applications of Differentiations/07.Indeterminate Forms & L'Hôpital's Rule.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/10.Optimisation Problems.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/11.Newton's Method.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/09.Graphing with Calculus.md",
     "01.Maths/Calculus/04.Applications of Differentiations/08.Curve Sketching.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/07.Indeterminate Forms & L'Hôpital's Rule.md",
     "01.Maths/Calculus/04.Applications of Differentiations/06.What Does f'' Say About f'.md",
     "01.Maths/Calculus/04.Applications of Differentiations/05.Local Extreme Values.md",
     "01.Maths/Calculus/04.Applications of Differentiations/04.How Derivatives Affect the Shape of a Graph.md",
@@ -442,9 +487,6 @@
     "01.Maths/Linear Algebra/02.Solving Linear Equations/14.Inner Products or Pre-Hilbert Space.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/13.Transposes and Permutations.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/12.The Cost of Elimination.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/11.One Square System = Two Triangular Systems.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/10. A = LU.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/09.Matrix Inverses.md",
     "01.Maths/Calculus/03.Differential Rules",
     "01.Maths/Calculus/02.Limits and Derivatives",
     "01.Maths/Calculus/01.Functions and Models",
