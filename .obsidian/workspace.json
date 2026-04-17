@@ -120,6 +120,48 @@
             }
           },
           {
+            "id": "0b54cba338a1e70b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/04.Applications of Differentiations/03.The Mean Value Theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.The Mean Value Theorem"
+            }
+          },
+          {
+            "id": "406275551da54c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/04.Applications of Differentiations/04.How Derivatives Affect the Shape of a Graph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.How Derivatives Affect the Shape of a Graph"
+            }
+          },
+          {
+            "id": "6b86c91b65f03676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/04.Applications of Differentiations/05.Local Extreme Values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.Local Extreme Values"
+            }
+          },
+          {
             "id": "5fde4858a090595d",
             "type": "leaf",
             "state": {
@@ -130,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -329,8 +371,11 @@
   },
   "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
-    "01.Maths/Calculus/04.Applications of Differentiations/01.Minimum and Maximum Values.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/04.How Derivatives Affect the Shape of a Graph.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/05.Local Extreme Values.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/03.The Mean Value Theorem.md",
     "01.Maths/Calculus/04.Applications of Differentiations/02.Fermat's Theorem.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/01.Minimum and Maximum Values.md",
     "01.Maths/Calculus/Calculus.md",
     "01.Maths/Calculus/03.Differential Rules/00.Differential Rules Chapters.md",
     "01.Maths/Calculus/03.Differential Rules/14.Inverse Hyperbolic Functions.md",
@@ -358,9 +403,6 @@
     "01.Maths/Linear Algebra/02.Solving Linear Equations/08.Schur Complement.md",
     "01.Maths/Calculus/03.Differential Rules/09.Rate of Change in the Natural and Social Sciences.md",
     "01.Maths/Calculus/03.Differential Rules/08.Derivatives of Logarithmic Functions.md",
-    "01.Maths/Calculus/03.Differential Rules/07.Derivatives of Inverse Trigonometric Functions.md",
-    "01.Maths/Calculus/03.Differential Rules/06.Implicit Differentiation.md",
-    "01.Maths/Calculus/03.Differential Rules/05.The Chain Rule.md",
     "01.Maths/Calculus/03.Differential Rules",
     "01.Maths/Calculus/02.Limits and Derivatives",
     "01.Maths/Calculus/01.Functions and Models",
