@@ -30,7 +30,8 @@
 [[14.The Cauchy-Schwarz Inequality]]
 [[15.Cyclic Differences for Matrices]]
 [[16.Independence and Dependence]]
-
+[[17.DL^T Decomposition]]
+[[18.Cholesky Decomposition A = LL^T]]]
 
 
 
