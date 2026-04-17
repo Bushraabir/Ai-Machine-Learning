@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/13.Transposes and Permutations.md",
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/14.Inner Products or Pre-Hilbert Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.Transposes and Permutations"
+              "title": "14.Inner Products or Pre-Hilbert Space"
+            }
+          },
+          {
+            "id": "5fde4858a090595d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,8 +229,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5843e216153252b7",
+  "active": "5fde4858a090595d",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/14.Inner Products or Pre-Hilbert Space.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/13.Transposes and Permutations.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/12.The Cost of Elimination.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/11.One Square System = Two Triangular Systems.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/10. A = LU.md",
@@ -244,8 +257,6 @@
     "01.Maths/Calculus/02.Limits and Derivatives/07.The Precise Definition of a Limit.md",
     "01.Maths/Calculus/02.Limits and Derivatives/06.Limit Laws.md",
     "01.Maths/Calculus/02.Limits and Derivatives/05.Infinite Limits.md",
-    "01.Maths/Calculus/02.Limits and Derivatives/04.One-Sided Limits.md",
-    "01.Maths/Calculus/02.Limits and Derivatives/03.Limit of a Function.md",
     "01.Maths/Calculus/03.Differential Rules",
     "01.Maths/Calculus/02.Limits and Derivatives",
     "01.Maths/Calculus/01.Functions and Models",

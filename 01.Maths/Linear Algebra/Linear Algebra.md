@@ -48,7 +48,7 @@
 [[11.One Square System = Two Triangular Systems]]
 [[12.The Cost of Elimination]]
 [[13.Transposes and Permutations]]
-[[14.Inner Products]]
+[[14.Inner Products or Pre-Hilbert Space]]
 [[15.Symmetric Matrices, Their Products, and LDL^T]]
 [[16.PA = LU]]
 
