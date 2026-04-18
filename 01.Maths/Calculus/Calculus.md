@@ -101,6 +101,20 @@
 
 
 
+[[00.Techniques of Integration Chapters]]
+[[01.Integration - The Complete Formula Compendium]]
+[[02.Integration by Parts]]
+[[03.Trigonometric Integrals]]
+[[04.Trigonometric Substitution]]
+[[05.Integration of Rational Functions by Partial Fractions]]
+[[06.Rationalising Substitutions]]
+[[07.Integration Strategy]]
+[[08.Can We Integrate All Continuous Functions]]
+[[09.Tables of Integrals]]
+[[10.Computer Algebra Systems]]
+[[11.Approximate Integration]]
+[[12.Simpson's Rule]]
+[[13.Improper Integrals]]
 
 
 
@@ -109,8 +123,13 @@
 
 
 
-
-
+[[00.Further Application of Integration]]
+[[01.Arc Length]]
+[[02.The Arc Length Function]]
+[[03.Area of a Surface of Revolution]]
+[[04.Applications of Integrals in Physics & Engineering]]
+[[05.Applications of Integrals in Economics & Biology]]
+[[06.Integration & Probability Theory]]
 
 
 

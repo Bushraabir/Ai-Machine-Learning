@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5145a5f93e73163a",
+            "id": "688b9e594f0656f3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,77 +18,217 @@
             }
           },
           {
-            "id": "22467349134df95f",
+            "id": "c856de56a8b7685f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Calculus/07.Techniques of Integration/01.Integration - The Complete Formula Compendium.md",
+                "file": "01.Maths/Calculus/08.Further Applications of Integration/00.Further Application of Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Integration - The Complete Formula Compendium"
+              "title": "00.Further Application of Integration"
             }
           },
           {
-            "id": "2e2d157828db39e2",
+            "id": "e1e37be0054e0f71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Calculus/07.Techniques of Integration/02.Integration by Parts.md",
+                "file": "01.Maths/Calculus/08.Further Applications of Integration/01.Arc Length.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.Integration by Parts"
+              "title": "01.Arc Length"
             }
           },
           {
-            "id": "26befe8e1739afc9",
+            "id": "65fc582faa4273b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Calculus/07.Techniques of Integration/03.Trigonometric Integrals.md",
+                "file": "01.Maths/Calculus/08.Further Applications of Integration/02.The Arc Length Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.Trigonometric Integrals"
+              "title": "02.The Arc Length Function"
             }
           },
           {
-            "id": "9c65deb0136fe64d",
+            "id": "e609b4d95d4d7a60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Calculus/07.Techniques of Integration/04.Trigonometric Substitution.md",
+                "file": "01.Maths/Calculus/08.Further Applications of Integration/03.Area of a Surface of Revolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.Trigonometric Substitution"
+              "title": "03.Area of a Surface of Revolution"
             }
           },
           {
-            "id": "4600cb4db26953ee",
+            "id": "81c966bcbff358f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Calculus/07.Techniques of Integration/05.Integration of Rational Functions by Partial Fractions.md",
+                "file": "01.Maths/Calculus/08.Further Applications of Integration/04.Applications of Integrals in Physics & Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.Integration of Rational Functions by Partial Fractions"
+              "title": "04.Applications of Integrals in Physics & Engineering"
+            }
+          },
+          {
+            "id": "dbd3edc21354bd26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/07.Techniques of Integration/00.Techniques of Integration Chapters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.Techniques of Integration Chapters"
+            }
+          },
+          {
+            "id": "e244bbfea05368a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/09.Differential Equations/00.Differential Equations Chapters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.Differential Equations Chapters"
+            }
+          },
+          {
+            "id": "53ae1292348fc167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/08.Further Applications of Integration/06.Integration & Probability Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06.Integration & Probability Theory"
+            }
+          },
+          {
+            "id": "e671c912a921297d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/Calculus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calculus"
+            }
+          },
+          {
+            "id": "591ce2a0c4b8cc64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/09.Differential Equations/02.Models for the Motion of a Spring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.Models for the Motion of a Spring"
+            }
+          },
+          {
+            "id": "4e1eba6c3d8d6189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/09.Differential Equations/03.General Theory of Differential Equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.General Theory of Differential Equations"
+            }
+          },
+          {
+            "id": "2989f1787d6cdfe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/09.Differential Equations/04.Direction Fields.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.Direction Fields"
+            }
+          },
+          {
+            "id": "f4f194acdad6a423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/09.Differential Equations/05.Euler's Method.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.Euler's Method"
+            }
+          },
+          {
+            "id": "44cbf444c1d23ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/09.Differential Equations/06.Separable Differential Equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06.Separable Differential Equations"
+            }
+          },
+          {
+            "id": "60b4dd2f43dadbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/09.Differential Equations/07.Orthogonal Trajectories.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07.Orthogonal Trajectories"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -287,33 +427,35 @@
   },
   "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
-    "01.Maths/Calculus/07.Techniques of Integration/04.Trigonometric Substitution.md",
-    "01.Maths/Calculus/07.Techniques of Integration/05.Integration of Rational Functions by Partial Fractions.md",
-    "01.Maths/Calculus/07.Techniques of Integration/03.Trigonometric Integrals.md",
-    "01.Maths/Calculus/07.Techniques of Integration/02.Integration by Parts.md",
-    "01.Maths/Calculus/07.Techniques of Integration/01.Integration - The Complete Formula Compendium.md",
+    "01.Maths/Calculus/09.Differential Equations/06.Separable Differential Equations.md",
+    "01.Maths/Calculus/09.Differential Equations/07.Orthogonal Trajectories.md",
+    "01.Maths/Calculus/09.Differential Equations/05.Euler's Method.md",
+    "01.Maths/Calculus/09.Differential Equations/04.Direction Fields.md",
+    "01.Maths/Calculus/09.Differential Equations/03.General Theory of Differential Equations.md",
+    "01.Maths/Calculus/09.Differential Equations/02.Models for the Motion of a Spring.md",
     "01.Maths/Calculus/Calculus.md",
-    "01.Maths/Calculus/06.Applications of Itegrals/07.Work.md",
+    "01.Maths/Calculus/08.Further Applications of Integration/00.Further Application of Integration.md",
+    "01.Maths/Calculus/09.Differential Equations/01.Models for Population Growth.md",
+    "01.Maths/Calculus/08.Further Applications of Integration/06.Integration & Probability Theory.md",
+    "01.Maths/Calculus/09.Differential Equations/00.Differential Equations Chapters.md",
     "01.Maths/Calculus/07.Techniques of Integration/00.Techniques of Integration Chapters.md",
-    "01.Maths/Calculus/06.Applications of Itegrals/06.Cavalieri's Principle and Cross-Sectional Area.md",
-    "01.Maths/Calculus/06.Applications of Itegrals/04.Volumes by Disks and Washers.md",
-    "01.Maths/Calculus/06.Applications of Itegrals/03.Volumes by Cylindrical Shells.md",
-    "01.Maths/Calculus/06.Applications of Itegrals/02.Volumes.md",
-    "01.Maths/Calculus/06.Applications of Itegrals/00.Applications of Itegrals Chapters.md",
-    "01.Maths/Calculus/06.Applications of Itegrals/08.Average Value of a Function.md",
+    "01.Maths/Calculus/09.Differential Equations",
+    "01.Maths/Calculus/08.Further Applications of Integration/05.Applications of Integrals in Economics & Biology.md",
+    "01.Maths/Calculus/08.Further Applications of Integration/04.Applications of Integrals in Physics & Engineering.md",
+    "01.Maths/Calculus/08.Further Applications of Integration/03.Area of a Surface of Revolution.md",
+    "01.Maths/Calculus/08.Further Applications of Integration/02.The Arc Length Function.md",
+    "01.Maths/Calculus/08.Further Applications of Integration/01.Arc Length.md",
+    "01.Maths/Calculus/08.Further Applications of Integration",
+    "01.Maths/Calculus/07.Techniques of Integration/12.Simpson's Rule.md",
+    "01.Maths/Calculus/07.Techniques of Integration/11.Approximate Integration.md",
+    "01.Maths/Calculus/07.Techniques of Integration/10.Computer Algebra Systems.md",
+    "01.Maths/Calculus/07.Techniques of Integration/09.Tables of Integrals.md",
+    "01.Maths/Calculus/07.Techniques of Integration/08.Can We Integrate All Continuous Functions.md",
+    "01.Maths/Calculus/07.Techniques of Integration/07.Integration Strategy.md",
+    "01.Maths/Calculus/07.Techniques of Integration/06.Rationalising Substitutions.md",
+    "01.Maths/Calculus/07.Techniques of Integration/05.Integration of Rational Functions by Partial Fractions.md",
+    "01.Maths/Calculus/07.Techniques of Integration/04.Trigonometric Substitution.md",
     "01.Maths/Calculus/07.Techniques of Integration",
-    "01.Maths/Calculus/06.Applications of Itegrals/05.Change of Variables in Multiple Integrals.md",
-    "01.Maths/Calculus/06.Applications of Itegrals/01.Area Between Curves.md",
-    "01.Maths/Calculus/05.Integrals/03.The Definite Integral.md",
-    "01.Maths/Calculus/05.Integrals/11.The Substitution Rule.md",
-    "01.Maths/Calculus/05.Integrals/10.Net Change Theorem.md",
-    "01.Maths/Calculus/05.Integrals/09.Indefinite Integrals.md",
-    "01.Maths/Calculus/05.Integrals/08.Differentiation and Integration as Inverse Processes.md",
-    "01.Maths/Calculus/05.Integrals/07.The Fresnel Function.md",
-    "01.Maths/Calculus/05.Integrals/06.Fundamental Theorem of Calculus.md",
-    "01.Maths/Calculus/05.Integrals/05.Area Functions.md",
-    "01.Maths/Calculus/05.Integrals/04.The Midpoint Rule.md",
-    "01.Maths/Calculus/05.Integrals/00.Integrals Chapters.md",
     "01.Maths/Calculus/06.Applications of Itegrals",
     "01.Maths/Calculus/05.Integrals",
     "01.Maths/Calculus/04.Applications of Differentiations",
@@ -326,8 +468,6 @@
     "01.Maths/Calculus/02.Limits and Derivatives",
     "01.Maths/Calculus/01.Functions and Models",
     "01.Maths/Mathematics for Machine Learning/01.Analytic Geometry",
-    "01.Maths/Mathematics for Machine Learning",
-    "copilot/copilot-conversations",
     "images/Pasted image 20260414133648.png",
     "images/Pasted image 20260413095454.png",
     "images/Pasted image 20260413095222.png",
