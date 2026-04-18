@@ -67,3 +67,53 @@
 [[10.Optimisation Problems]]
 [[11.Newton's Method]]
 [[12.Antiderivatives]]
+
+
+
+
+[[00.Integrals Chapters]]
+[[01.The Area Problem]]
+[[02.The Distance Problem]]
+[[03.The Definite Integral]]
+[[04.The Midpoint Rule]]
+[[05.Area Functions]]
+[[06.Fundamental Theorem of Calculus]]
+[[07.The Fresnel Function]]
+[[08.Differentiation and Integration as Inverse Processes]]
+[[09.Indefinite Integrals]]
+[[10.Net Change Theorem]]
+[[11.The Substitution Rule]]
+[[12.Integrals of Symmetric Functions]]
+
+
+
+[[00.Applications of Itegrals Chapters]]
+[[01.Area Between Curves]]
+[[02.Volumes]]
+[[03.Volumes by Cylindrical Shells]]
+[[04.Volumes by Disks and Washers]]
+[[05.Change of Variables in Multiple Integrals]]
+[[06.Cavalieri's Principle and Cross-Sectional Area]]
+[[07.Work]]
+[[08.Average Value of a Function]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
