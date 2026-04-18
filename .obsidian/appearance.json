@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Nier",
-  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
+  "theme": "system",
   "textFontFamily": "Inter,Gabriola",
   "interfaceFontFamily": "Inter",
   "baseFontSize": 16,
-  "accentColor": "#eff7b0",
+  "accentColor": "#bfbda6",
   "nativeMenus": true,
   "showViewHeader": true
 }

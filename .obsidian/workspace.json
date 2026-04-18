@@ -8,310 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97269c79f8997bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/Linear Algebra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linear Algebra"
-            }
-          },
-          {
-            "id": "0bf8621089db06e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/03.Differential Rules/11.Linear Approximations and Differentials.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.Linear Approximations and Differentials"
-            }
-          },
-          {
-            "id": "45b68e1850345e2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/03.Differential Rules/12.Taylor Polynomials.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12.Taylor Polynomials"
-            }
-          },
-          {
-            "id": "543c588829cc8ebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/00.Applications of Differentiations Chapters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00.Applications of Differentiations Chapters"
-            }
-          },
-          {
-            "id": "ab8f35205bd1336a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/03.Differential Rules/13.Hyperbolic Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13.Hyperbolic Functions"
-            }
-          },
-          {
-            "id": "0c80e2531b91b7f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/Calculus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Calculus"
-            }
-          },
-          {
-            "id": "0f98a7f5b56b1360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/01.Minimum and Maximum Values.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.Minimum and Maximum Values"
-            }
-          },
-          {
-            "id": "c55df989a8fe36d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/02.Fermat's Theorem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.Fermat's Theorem"
-            }
-          },
-          {
-            "id": "0b54cba338a1e70b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/03.The Mean Value Theorem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03.The Mean Value Theorem"
-            }
-          },
-          {
-            "id": "406275551da54c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/04.How Derivatives Affect the Shape of a Graph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.How Derivatives Affect the Shape of a Graph"
-            }
-          },
-          {
-            "id": "6b86c91b65f03676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/05.Local Extreme Values.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05.Local Extreme Values"
-            }
-          },
-          {
-            "id": "15d20f95ba7b3052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/06.What Does f'' Say About f'.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06.What Does f'' Say About f'"
-            }
-          },
-          {
-            "id": "1297b223149214de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/07.Indeterminate Forms & L'Hôpital's Rule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07.Indeterminate Forms & L'Hôpital's Rule"
-            }
-          },
-          {
-            "id": "917e02b47365f4c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/08.Curve Sketching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08.Curve Sketching"
-            }
-          },
-          {
-            "id": "cd5942179bb70ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/09.Graphing with Calculus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09.Graphing with Calculus"
-            }
-          },
-          {
-            "id": "d677ded09218c0f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/10.Optimisation Problems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.Optimisation Problems"
-            }
-          },
-          {
-            "id": "4e9c2ab4e8b6fc09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/04.Applications of Differentiations/11.Newton's Method.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.Newton's Method"
-            }
-          },
-          {
-            "id": "e128798ebd380592",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e82c244fd572e199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/05.Integrals/00.Integrals Chapters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00.Integrals Chapters"
-            }
-          },
-          {
-            "id": "8855a1ca5f10aa9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/05.Integrals/01.The Area Problem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.The Area Problem"
-            }
-          },
-          {
-            "id": "473f5adaa0758cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/05.Integrals/02.The Distance Problem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.The Distance Problem"
-            }
-          },
-          {
-            "id": "0b6b6173cef917a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Calculus/05.Integrals/03.The Definite Integral.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03.The Definite Integral"
-            }
-          },
-          {
             "id": "5fde4858a090595d",
             "type": "leaf",
             "state": {
@@ -320,9 +16,51 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "1a6c1683813ef4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/05.Integrals/04.The Midpoint Rule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.The Midpoint Rule"
+            }
+          },
+          {
+            "id": "ea3dcfc320cf61c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/05.Integrals/05.Area Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.Area Functions"
+            }
+          },
+          {
+            "id": "bc1615fa60fc52ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/05.Integrals/06.Fundamental Theorem of Calculus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06.Fundamental Theorem of Calculus"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -342,7 +80,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -379,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 237.5
   },
   "right": {
     "id": "02fc3c8a42a530d5",
@@ -521,14 +259,13 @@
   },
   "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
-    "01.Maths/Calculus/05.Integrals/02.The Distance Problem.md",
+    "01.Maths/Calculus/05.Integrals/05.Area Functions.md",
+    "01.Maths/Calculus/05.Integrals/06.Fundamental Theorem of Calculus.md",
+    "01.Maths/Calculus/05.Integrals/04.The Midpoint Rule.md",
     "01.Maths/Calculus/05.Integrals/03.The Definite Integral.md",
+    "01.Maths/Calculus/05.Integrals/02.The Distance Problem.md",
     "01.Maths/Calculus/05.Integrals/01.The Area Problem.md",
     "01.Maths/Calculus/05.Integrals/00.Integrals Chapters.md",
-    "01.Maths/Calculus/05.Integrals",
-    "01.Maths/Calculus/Calculus.md",
-    "01.Maths/Calculus/04.Applications of Differentiations/00.Applications of Differentiations Chapters.md",
-    "01.Maths/Calculus/04.Applications of Differentiations/12.Antiderivatives.md",
     "01.Maths/Calculus/04.Applications of Differentiations/11.Newton's Method.md",
     "01.Maths/Calculus/04.Applications of Differentiations/10.Optimisation Problems.md",
     "01.Maths/Calculus/04.Applications of Differentiations/09.Graphing with Calculus.md",
@@ -540,15 +277,16 @@
     "01.Maths/Calculus/04.Applications of Differentiations/03.The Mean Value Theorem.md",
     "01.Maths/Calculus/04.Applications of Differentiations/02.Fermat's Theorem.md",
     "01.Maths/Calculus/04.Applications of Differentiations/01.Minimum and Maximum Values.md",
-    "01.Maths/Calculus/03.Differential Rules/00.Differential Rules Chapters.md",
-    "01.Maths/Calculus/03.Differential Rules/14.Inverse Hyperbolic Functions.md",
+    "01.Maths/Calculus/Calculus.md",
     "01.Maths/Calculus/03.Differential Rules/13.Hyperbolic Functions.md",
+    "01.Maths/Calculus/04.Applications of Differentiations/00.Applications of Differentiations Chapters.md",
     "01.Maths/Calculus/03.Differential Rules/12.Taylor Polynomials.md",
-    "01.Maths/Calculus/04.Applications of Differentiations",
     "01.Maths/Calculus/03.Differential Rules/11.Linear Approximations and Differentials.md",
     "01.Maths/Linear Algebra/Linear Algebra.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/17.DL^T Decomposition.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/15.Symmetric Matrices, Their Products, and LDL^T.md",
+    "01.Maths/Calculus/05.Integrals",
+    "01.Maths/Calculus/04.Applications of Differentiations/12.Antiderivatives.md",
+    "01.Maths/Calculus/03.Differential Rules/00.Differential Rules Chapters.md",
+    "01.Maths/Calculus/04.Applications of Differentiations",
     "images/Pasted image 20260417204550.png",
     "images/Pasted image 20260417204252.png",
     "images/Pasted image 20260417203824.png",
