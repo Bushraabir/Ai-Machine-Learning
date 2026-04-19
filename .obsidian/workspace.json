@@ -11,10 +11,14 @@
             "id": "7d545eacd9aacb34",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/16.PA = LU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16.PA = LU"
             }
           }
         ]
@@ -216,6 +220,9 @@
   },
   "active": "7d545eacd9aacb34",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/15.Symmetric Matrices, Their Products, and LDL^T.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/16.PA = LU.md",
+    "01.Maths/Linear Algebra/00.others/02.Column Operations.md",
     "01.Maths/Calculus/11.Infinite Sequences and Series/12.Strategy for Testing Series.md",
     "01.Maths/Calculus/11.Infinite Sequences and Series/11.Absolute Convergence · The Ratio Test · The Root Test.md",
     "01.Maths/Calculus/11.Infinite Sequences and Series/10.Alternating Series.md",
@@ -240,9 +247,6 @@
     "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates/24.Kepler's Laws of Planetary Motion.md",
     "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates/18.Ellipse.md",
     "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates/17.Parabola -Formula List.md",
-    "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates/16.Parabola.md",
-    "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates/15.Area in Polar Coordinates.md",
-    "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates/14.Arc Length in Polar Coordinates.md",
     "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates",
     "01.Maths/Calculus/09.Differential Equations",
     "01.Maths/Calculus/08.Further Applications of Integration",
