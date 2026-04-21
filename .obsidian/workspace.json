@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/16.PA = LU.md",
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/11.One Square System = Two Triangular Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.PA = LU"
+              "title": "11.One Square System = Two Triangular Systems"
             }
           }
         ]
@@ -220,8 +220,10 @@
   },
   "active": "7d545eacd9aacb34",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/15.Symmetric Matrices, Their Products, and LDL^T.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/12.The Cost of Elimination.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/10. A = LU.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/16.PA = LU.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/15.Symmetric Matrices, Their Products, and LDL^T.md",
     "01.Maths/Linear Algebra/00.others/02.Column Operations.md",
     "01.Maths/Calculus/11.Infinite Sequences and Series/12.Strategy for Testing Series.md",
     "01.Maths/Calculus/11.Infinite Sequences and Series/11.Absolute Convergence · The Ratio Test · The Root Test.md",
@@ -245,8 +247,6 @@
     "01.Maths/Calculus/Calculus.md",
     "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates/00.Parametric Equations and Polar Coordinates Chapters.md",
     "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates/24.Kepler's Laws of Planetary Motion.md",
-    "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates/18.Ellipse.md",
-    "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates/17.Parabola -Formula List.md",
     "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates",
     "01.Maths/Calculus/09.Differential Equations",
     "01.Maths/Calculus/08.Further Applications of Integration",
