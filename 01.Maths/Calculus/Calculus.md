@@ -203,3 +203,47 @@
 [[14.Representation of Functions as Power Series]]
 [[15.Taylor Series & Maclaurin Series]]
 [[16.Multiplication and Division of Power Series]]
+
+
+
+
+[[00.Vector Functions Chapters]]
+[[01.3D Coordinate System]]
+[[02.Vectors]]
+[[03.Dot Product & Cross Product]]
+[[04.Direction Angles & Direction Cosines]]
+[[05.Projections]]
+[[06.Triple Products]]
+[[07.Torques]]
+[[08.Geometry of a Tetrahedron]]
+[[09.Equations of Lines & All Formulas in 2D]]
+[[10.Cylinders]]
+[[11.Quadratic Surfaces]]
+[[12.Applications of Quadratic Surfaces]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
