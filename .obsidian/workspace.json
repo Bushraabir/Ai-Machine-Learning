@@ -128,9 +128,37 @@
               "icon": "lucide-file",
               "title": "03.Dot Product & Cross Product"
             }
+          },
+          {
+            "id": "52167feb4da225ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/12.Vectors and the Geometry of Spaces/04.Direction Angles & Direction Cosines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.Direction Angles & Direction Cosines"
+            }
+          },
+          {
+            "id": "99dcc81c784adff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Calculus/12.Vectors and the Geometry of Spaces/05.Projections.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.Projections"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -329,8 +357,10 @@
   },
   "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
-    "01.Maths/Calculus/12.Vectors and the Geometry of Spaces/02.Vectors.md",
+    "01.Maths/Calculus/12.Vectors and the Geometry of Spaces/04.Direction Angles & Direction Cosines.md",
+    "01.Maths/Calculus/12.Vectors and the Geometry of Spaces/05.Projections.md",
     "01.Maths/Calculus/12.Vectors and the Geometry of Spaces/03.Dot Product & Cross Product.md",
+    "01.Maths/Calculus/12.Vectors and the Geometry of Spaces/02.Vectors.md",
     "01.Maths/Calculus/12.Vectors and the Geometry of Spaces/01.3D Coordinate System.md",
     "01.Maths/Calculus/Calculus.md",
     "01.Maths/Calculus/11.Infinite Sequences and Series/00.Infinite Sequences and Series Chapters.md",
@@ -354,8 +384,6 @@
     "01.Maths/Calculus/11.Infinite Sequences and Series/09.Estimating Sums of Series.md",
     "01.Maths/Calculus/11.Infinite Sequences and Series/08.Comparison Test.md",
     "01.Maths/Calculus/11.Infinite Sequences and Series/07.Integral Test and Estimates of Sums.md",
-    "01.Maths/Calculus/11.Infinite Sequences and Series/06.Convergence and Divergence.md",
-    "01.Maths/Calculus/11.Infinite Sequences and Series/05.Partial Sums.md",
     "01.Maths/Calculus/11.Infinite Sequences and Series",
     "01.Maths/Calculus/10.Parametric Equations and Polar Coordinates",
     "01.Maths/Calculus/09.Differential Equations",
