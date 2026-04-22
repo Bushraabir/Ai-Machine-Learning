@@ -182,3 +182,24 @@
 [[22.Shifted Conics]]
 [[23.Polar Equations of Conic Sections]]
 [[24.Kepler's Laws of Planetary Motion]]
+
+
+
+
+[[00.Infinite Sequences and Series Chapters]]
+[[01.Sequences]]
+[[02.Monotonic Sequence Theorem]]
+[[03.Logistic Map & Logistic Sequence]]
+[[04.Series]]
+[[05.Partial Sums]]
+[[06.Convergence and Divergence]]
+[[07.Integral Test and Estimates of Sums]]
+[[08.Comparison Test]]
+[[09.Estimating Sums of Series]]
+[[10.Alternating Series]]
+[[11.Absolute Convergence · The Ratio Test · The Root Test]]
+[[12.Strategy for Testing Series]]
+[[13.Power Series]]
+[[14.Representation of Functions as Power Series]]
+[[15.Taylor Series & Maclaurin Series]]
+[[16.Multiplication and Division of Power Series]]
