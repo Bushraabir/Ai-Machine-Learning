@@ -13,14 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Probability/03.Random Variable/05.Binomial Distribution.md",
+                "file": "01.Maths/Probability/00.Probability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.Binomial Distribution"
+              "title": "00.Probability"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "dc672a111f8becd1",
+        "type": "tabs",
+        "children": [
           {
             "id": "59afd978141c6fef",
             "type": "leaf",
@@ -228,12 +234,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c524071471ea9926",
+  "active": "59afd978141c6fef",
   "lastOpenFiles": [
-    "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
-    "01.Maths/Probability/03.Random Variable/03.Distributions.md",
-    "01.Maths/Probability/14.Others/00.Others chapters.md",
     "01.Maths/Probability/00.Probability.md",
+    "01.Maths/Probability/14.Others/00.Others chapters.md",
+    "01.Maths/Probability/03.Random Variable/05.Binomial Distribution.md",
+    "01.Maths/Probability/14.Others/02.Jacobian Formula.md",
+    "01.Maths/Probability/14.Others/06.Variance.md",
+    "01.Maths/Probability/14.Others/08.MSE and Risk.md",
+    "01.Maths/Probability/14.Others/07.Bias-Variance Tradeoff.md",
+    "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
+    "Bernoulli Distribution.md",
+    "01.Maths/Probability/03.Random Variable/03.Distributions.md",
     "01.Maths/Probability/14.Others/05.Inverse CDF Method.md",
     "01.Maths/Probability/05.Continuous Random variable/03.Uniform.md",
     "Readme.md",
@@ -250,12 +262,6 @@
     "01.Maths/Probability/02.Conditional Probability/08.Conditional Independence.md",
     "01.Maths/Probability/02.Conditional Probability/07.Independence of Events.md",
     "01.Maths/Probability/02.Conditional Probability/06.LOTP - With Extra Conditioning.md",
-    "01.Maths/Probability/02.Conditional Probability/05.Bayes' Rule with Extra Conditioning.md",
-    "01.Maths/Probability/02.Conditional Probability/04.Testing a Rare Disease.md",
-    "01.Maths/Calculus/17.Second Order Differential Equations/05.Method of Variation of Parameters.md",
-    "01.Maths/Calculus/17.Second Order Differential Equations/04.Method of Undetermined Coefficients.md",
-    "01.Maths/Calculus/17.Second Order Differential Equations/03.Nonhomogeneous Linear Equations.md",
-    "01.Maths/Calculus/17.Second Order Differential Equations/02.Initial Value Problems & Boundary Value Problems.md",
     "01.Maths/Calculus/17.Second Order Differential Equations",
     "01.Maths/Calculus/16.Vector Calculus",
     "01.Maths/Calculus/15.Multiple Integrals",
