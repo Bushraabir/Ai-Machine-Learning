@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Probability/00.Probability.md",
+                "file": "01.Maths/Probability/03.Random Variable/06.Bernoulli Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.Probability"
+              "title": "06.Bernoulli Distribution"
             }
           }
         ]
@@ -234,11 +234,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "59afd978141c6fef",
+  "active": "c524071471ea9926",
   "lastOpenFiles": [
+    "Pasted image 20260423163252.png",
+    "Pasted image 20260423160609.png",
+    "01.Maths/Probability/03.Random Variable/05.Binomial Distribution.md",
+    "01.Maths/Probability/03.Random Variable/06.Bernoulli Distribution.md",
     "01.Maths/Probability/00.Probability.md",
     "01.Maths/Probability/14.Others/00.Others chapters.md",
-    "01.Maths/Probability/03.Random Variable/05.Binomial Distribution.md",
     "01.Maths/Probability/14.Others/02.Jacobian Formula.md",
     "01.Maths/Probability/14.Others/06.Variance.md",
     "01.Maths/Probability/14.Others/08.MSE and Risk.md",
@@ -260,8 +263,6 @@
     "01.Maths/Probability/02.Conditional Probability/10.The Monty Hall Problem.md",
     "01.Maths/Probability/02.Conditional Probability/09.Coherence of Bayes' Rule.md",
     "01.Maths/Probability/02.Conditional Probability/08.Conditional Independence.md",
-    "01.Maths/Probability/02.Conditional Probability/07.Independence of Events.md",
-    "01.Maths/Probability/02.Conditional Probability/06.LOTP - With Extra Conditioning.md",
     "01.Maths/Calculus/17.Second Order Differential Equations",
     "01.Maths/Calculus/16.Vector Calculus",
     "01.Maths/Calculus/15.Multiple Integrals",
@@ -281,7 +282,6 @@
     "images/Pasted image 20260413095454.png",
     "images/Pasted image 20260413095222.png",
     "images/Pasted image 20260412225502.png",
-    "images/Pasted image 20260413061520.png",
     "Untitled.canvas"
   ]
 }
