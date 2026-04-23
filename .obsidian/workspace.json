@@ -96,9 +96,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "c524071471ea9926",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -155,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 320.5
   },
   "right": {
     "id": "02fc3c8a42a530d5",
@@ -295,16 +305,17 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8743407fc93f9500",
+  "active": "c524071471ea9926",
   "lastOpenFiles": [
+    "01.Maths/Calculus/Calculus.md",
+    "01.Maths/Calculus/17.Second Order Differential Equations/00.Second Order Differential Equations Chapters.md",
+    "01.Maths/Calculus/17.Second Order Differential Equations/07.Series Solutions of Differential Equations.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/06.Applications of Second-Order Differential Equations.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/05.Method of Variation of Parameters.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/04.Method of Undetermined Coefficients.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/03.Nonhomogeneous Linear Equations.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/02.Initial Value Problems & Boundary Value Problems.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/01.Second Order Linear Differential Equations.md",
-    "01.Maths/Calculus/Calculus.md",
-    "01.Maths/Calculus/17.Second Order Differential Equations/00.Second Order Differential Equations Chapters.md",
     "01.Maths/Calculus/16.Vector Calculus/18.Stokes' Theorem.md",
     "01.Maths/Calculus/16.Vector Calculus/17.Surface Integrals.md",
     "01.Maths/Calculus/16.Vector Calculus/16.Surface Area.md",
@@ -322,7 +333,6 @@
     "01.Maths/Calculus/16.Vector Calculus/03.Line Integrals.md",
     "01.Maths/Calculus/16.Vector Calculus/02.Gradient Fields.md",
     "01.Maths/Calculus/15.Multiple Integrals/15.Change of Variables in Multiple Integrals.md",
-    "01.Maths/Calculus/16.Vector Calculus/00.Vector Calculus Chapters.md",
     "01.Maths/Calculus/17.Second Order Differential Equations",
     "01.Maths/Calculus/16.Vector Calculus",
     "01.Maths/Calculus/15.Multiple Integrals",
