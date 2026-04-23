@@ -265,11 +265,49 @@
 
 
 
+[[00.Multiple Integrals Chapters]]
+[[01.Volumes and Double Integrals]]
+[[02.Midpoint Rule for Double Integrals]]
+[[03.]]
+[[04.Fubini's Theorem]]
+[[05.Average Values via Double Integrals]]
+[[06.Double Integrals Over General Regions]]
+[[07.Properties of Double Integrals]]
+[[08.Applications of Double Integrals]]
+[[09.Double Integrals in Polar Coordinates]]
+[[10.Surface Area]]
+[[11.Triple Integrals]]
+[[12.Applications of Triple Integrals]]
+[[13.Triple Integrals in Cylindrical Coordinates]]
+[[14.Triple Integrals in Spherical Coordinates]]
+[[15.Change of Variables in Multiple Integrals]]
 
 
 
 
 
 
+
+
+[[00.Vector Calculus Chapters]]
+[[01.Vector Fields]]
+[[02.Gradient Fields]]
+[[03.Line Integrals]]
+[[04.Line Integrals in Space]]
+[[05.]]
+[[06.Fundamental Theorem of Calculus]]
+[[07.Clairaut's Theorem]]
+[[08.Green's Theorem]]
+[[09.Green's Theorem -Extended Version]]
+[[10.Curl]]
+[[11.Divergence]]
+[[12.Green's Theorem - Vector Forms]]
+[[13.Parametric Surfaces]]
+[[14.Surfaces of Revolution]]
+[[15.Tangent Planes]]
+[[16.Surface Area]]
+[[17.Surface Integrals]]
+[[18.Stokes' Theorem]]
+[[19.The Divergence Theorem]]
 
 
