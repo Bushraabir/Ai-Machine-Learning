@@ -18,6 +18,7 @@ That's the north star. Everything else is just steps toward it.
 
 ## ✦The map
 
+![[Pasted image 20260423231358.png]]
 I keep coming back to this rough ordering. It's not perfectly linear — some things feed back into each other — but it's how I think about the dependencies.
 
 ```mermaid
@@ -58,7 +59,7 @@ Honestly the part I kept putting off. Linear algebra finally clicked when I stop
 
 ---
 
-### [[Programming and Computational Thinking|✦Programming and Computational Thinking]]
+### [[00.Python|✦Programming and Computational Thinking]]
 
 I can write Python. What I'm building here is the _discipline_ — writing code that's readable six months later, that I can actually debug, that separates the ML logic from the engineering mess.
 
