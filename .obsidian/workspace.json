@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Probability/03.Random Variable/03.Distributions.md",
+                "file": "01.Maths/Probability/03.Random Variable/05.Binomial Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.Distributions"
+              "title": "05.Binomial Distribution"
+            }
+          },
+          {
+            "id": "59afd978141c6fef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -220,8 +230,14 @@
   },
   "active": "c524071471ea9926",
   "lastOpenFiles": [
-    "01.Maths/Probability/05.Continuous Random variable/01.Probability Density Function (PDF).md",
+    "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
     "01.Maths/Probability/03.Random Variable/03.Distributions.md",
+    "01.Maths/Probability/14.Others/00.Others chapters.md",
+    "01.Maths/Probability/00.Probability.md",
+    "01.Maths/Probability/14.Others/05.Inverse CDF Method.md",
+    "01.Maths/Probability/05.Continuous Random variable/03.Uniform.md",
+    "Readme.md",
+    "01.Maths/Probability/05.Continuous Random variable/01.Probability Density Function (PDF).md",
     "01.Maths/Probability/03.Random Variable/02.Probability Mass Function (PMF).md",
     "01.Maths/Probability/03.Random Variable/01.Random Variable (RV).md",
     "01.Maths/Probability/03.Random Variable/00.Random Variable Chapters.md",
@@ -240,12 +256,6 @@
     "01.Maths/Calculus/17.Second Order Differential Equations/04.Method of Undetermined Coefficients.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/03.Nonhomogeneous Linear Equations.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/02.Initial Value Problems & Boundary Value Problems.md",
-    "01.Maths/Calculus/17.Second Order Differential Equations/01.Second Order Linear Differential Equations.md",
-    "01.Maths/Calculus/Calculus.md",
-    "01.Maths/Calculus/17.Second Order Differential Equations/00.Second Order Differential Equations Chapters.md",
-    "01.Maths/Calculus/17.Second Order Differential Equations/07.Series Solutions of Differential Equations.md",
-    "01.Maths/Calculus/17.Second Order Differential Equations/06.Applications of Second-Order Differential Equations.md",
-    "01.Maths/Calculus/16.Vector Calculus/18.Stokes' Theorem.md",
     "01.Maths/Calculus/17.Second Order Differential Equations",
     "01.Maths/Calculus/16.Vector Calculus",
     "01.Maths/Calculus/15.Multiple Integrals",
