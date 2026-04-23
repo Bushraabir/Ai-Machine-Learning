@@ -86,9 +86,19 @@
               "icon": "lucide-file",
               "title": "05.Method of Variation of Parameters"
             }
+          },
+          {
+            "id": "8743407fc93f9500",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -285,10 +295,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5c706eeadd68b1b1",
+  "active": "8743407fc93f9500",
   "lastOpenFiles": [
-    "01.Maths/Calculus/17.Second Order Differential Equations/04.Method of Undetermined Coefficients.md",
+    "01.Maths/Calculus/17.Second Order Differential Equations/06.Applications of Second-Order Differential Equations.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/05.Method of Variation of Parameters.md",
+    "01.Maths/Calculus/17.Second Order Differential Equations/04.Method of Undetermined Coefficients.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/03.Nonhomogeneous Linear Equations.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/02.Initial Value Problems & Boundary Value Problems.md",
     "01.Maths/Calculus/17.Second Order Differential Equations/01.Second Order Linear Differential Equations.md",
@@ -312,7 +323,6 @@
     "01.Maths/Calculus/16.Vector Calculus/02.Gradient Fields.md",
     "01.Maths/Calculus/15.Multiple Integrals/15.Change of Variables in Multiple Integrals.md",
     "01.Maths/Calculus/16.Vector Calculus/00.Vector Calculus Chapters.md",
-    "01.Maths/Calculus/15.Multiple Integrals/14.Triple Integrals in Spherical Coordinates.md",
     "01.Maths/Calculus/17.Second Order Differential Equations",
     "01.Maths/Calculus/16.Vector Calculus",
     "01.Maths/Calculus/15.Multiple Integrals",
