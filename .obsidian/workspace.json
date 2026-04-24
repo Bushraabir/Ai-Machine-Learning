@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.ML/04.Unsupervised/04.Representation Learning.md",
+                "file": "04.ML/01.ML Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.Representation Learning"
+              "title": "01.ML Algorithms"
             }
           }
         ]
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,32 +220,32 @@
   },
   "active": "b263d165c16a0b21",
   "lastOpenFiles": [
+    "04.ML/00.Machine Learning.md",
+    "04.ML/09.Practice/04.Deployment and MLOps.md",
+    "04.ML/09.Practice/03.Model Interpretability.md",
+    "04.ML/09.Practice/02.Pipelines and Experiments.md",
+    "04.ML/09.Practice/01.ML Project Workflow.md",
+    "04.ML/08.Features/03.Feature Selection.md",
+    "04.ML/08.Features/02.Feature Engineering.md",
+    "04.ML/08.Features/01.Data Preprocessing.md",
+    "04.ML/07.RL/03.Exploration vs Exploitation.md",
+    "04.ML/07.RL/02.Model-Free Methods.md",
+    "04.ML/07.RL/01.The RL Problem.md",
+    "04.ML/06.Advanced/02.Learning with Structured Outputs.md",
+    "04.ML/06.Advanced/01.Kernel Methods.md",
+    "04.ML/05.Probabilistic/03.Gaussian Processes.md",
+    "04.ML/05.Probabilistic/02.Markov Models.md",
+    "04.ML/05.Probabilistic/01.Bayesian Networks.md",
+    "04.ML/04.Unsupervised/04.Representation Learning.md",
     "04.ML/04.Unsupervised/03.Density Estimation.md",
     "04.ML/04.Unsupervised/02.Dimensionality Reduction/05.Autoencoders.md",
     "04.ML/04.Unsupervised/02.Dimensionality Reduction/04.Uniform Manifold Approximation and Projection (UMAP).md",
     "04.ML/04.Unsupervised/02.Dimensionality Reduction/03.t-SNE.md",
     "04.ML/04.Unsupervised/02.Dimensionality Reduction/02.Kernel PCA.md",
     "04.ML/04.Unsupervised/02.Dimensionality Reduction/01.Principal Component Analysis(PCA).md",
-    "04.ML/00.Machine Learning.md",
     "04.ML/04.Unsupervised/02.Dimensionality Reduction/00.Dimensionality Reduction.md",
     "04.ML/04.Unsupervised/01.Clustering/04.DBSCAN.md",
     "04.ML/04.Unsupervised/01.Clustering/03.Hierarchical Clustering.md",
-    "04.ML/04.Unsupervised/01.Clustering/02.GMM.md",
-    "04.ML/01.Supervised/01.Linear Regression.md",
-    "04.ML/04.Unsupervised/01.Clustering/01.K-Means.md",
-    "02.Python/01.Basics Python/06.Comments and docstrings.md",
-    "02.Python/01.Basics Python/05.output input.md",
-    "02.Python/01.Basics Python/04.String formatting.md",
-    "02.Python/01.Basics Python/03.Operators.md",
-    "02.Python/01.Basics Python/19.Parameters vs arguments.md",
-    "02.Python/01.Basics Python/18.Defining and calling functions.md",
-    "02.Python/01.Basics Python/17.Nested data structures.md",
-    "02.Python/01.Basics Python/16.Comprehensions.md",
-    "04.ML/04.Unsupervised/01.Clustering/00.Clustering.md",
-    "02.Python/01.Basics Python/15.Sets.md",
-    "04.ML/03.Ensemble/03.Stacking.md",
-    "02.Python/01.Basics Python/14.Dictionaries.md",
-    "02.Python/01.Basics Python/13.Tuples.md",
     "04.ML/09.Practice",
     "04.ML/08.Features",
     "04.ML/07.RL",
