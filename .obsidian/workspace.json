@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.ML/01.Supervised/07.k-Nearest Neighbours.md",
+                "file": "04.ML/02.Evaluation/02.Cross Validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.k-Nearest Neighbours"
+              "title": "02.Cross Validation"
             }
           }
         ]
@@ -221,7 +221,9 @@
   },
   "active": "b263d165c16a0b21",
   "lastOpenFiles": [
-    "04.ML/02.Evaluation/01.Train Val Test.md",
+    "04.ML/02.Evaluation/03.Performance Metrics.md",
+    "04.ML/02.Evaluation/02.Cross Validation.md",
+    "04.ML/02.Evaluation/01.Train Validation and Test Sets.md",
     "04.ML/01.Supervised/07.k-Nearest Neighbours.md",
     "04.ML/01.Supervised/06.Naive Bayes.md",
     "04.ML/01.Supervised/05.Decision Trees.md",
@@ -245,8 +247,6 @@
     "04.ML/06.Advanced/02.Learning with Structured Outputs.md",
     "04.ML/06.Advanced/01.Kernel Methods.md",
     "04.ML/05.Probabilistic/03.Gaussian Processes.md",
-    "04.ML/05.Probabilistic/02.Markov Models.md",
-    "04.ML/05.Probabilistic/01.Bayesian Networks.md",
     "04.ML/09.Practice",
     "04.ML/08.Features",
     "04.ML/07.RL",
