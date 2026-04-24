@@ -73,7 +73,7 @@ I can write Python. What I'm building here is the _discipline_ — writing code 
 
 ---
 
-### [[Data Structures and Algorithms|✦Data Structures and Algorithms]]
+### [[00.Data Structures and Algorithms|✦Data Structures and Algorithms]]
 
 This one I do partly for the problem-solving muscle, partly because understanding how data is stored and traversed makes me a better ML engineer. Trees show up everywhere once you start looking.
 
@@ -87,7 +87,7 @@ This one I do partly for the problem-solving muscle, partly because understandin
 
 ---
 
-### [[Machine Learning Algorithms|✦Machine Learning Algorithms]]
+### [[00.Machine Learning|✦Machine Learning Algorithms]]
 
 This is where I'm spending a lot of time right now. The goal isn't to use sklearn — it's to understand what sklearn is doing and why. Deriving things by hand is slow and occasionally humbling, but it sticks.
 
