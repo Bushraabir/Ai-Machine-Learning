@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.ML/02.Evaluation/02.Cross Validation.md",
+                "file": "04.ML/02.Evaluation/04.Bias Variance Tradeoff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.Cross Validation"
+              "title": "04.Bias Variance Tradeoff"
             }
           }
         ]
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
