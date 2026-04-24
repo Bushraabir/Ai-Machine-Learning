@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Readme"
             }
+          },
+          {
+            "id": "b263d165c16a0b21",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 217.5
   },
   "right": {
     "id": "02fc3c8a42a530d5",
@@ -215,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,14 +244,22 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "93ac3f4de78636e9",
+  "active": "b263d165c16a0b21",
   "lastOpenFiles": [
     "02.Python/00.Python.md",
+    "02.Python/01.Basics Python/00.Python Basics.md",
+    "02.Python/01.Basics Python/06.Comments and docstrings.md",
+    "02.Python/01.Basics Python/05.output (`print()`, `input()`).md",
+    "Input",
+    "02.Python/01.Basics Python/04.String formatting (f-strings, `.format()`).md",
+    "02.Python/01.Basics Python/03.Operators.md",
+    "02.Python/01.Basics Python/02.Type casting and type checking.md",
+    "02.Python/01.Basics Python/01.Variables, data types (int, float, str, bool, None).md",
+    "Readme.md",
     "02.Python/data manipulation.md",
     "02.Python/Programming and Computational Thinking.md",
     "02.Python/numerical computing.md",
     "02.Python/02.Python Libraries for Machine Learning/06.Seaborn",
-    "Readme.md",
     "02.Python/exploratory data analysis.md",
     "02.Python/Python programming fundamentals.md",
     "02.Python/02.Python Libraries for Machine Learning/08.Tensorflow",
@@ -251,7 +270,6 @@
     "02.Python/02.Python Libraries for Machine Learning/02.SciPy",
     "02.Python/02.Python Libraries for Machine Learning/01.NumPy",
     "02.Python/02.Python Libraries for Machine Learning",
-    "02.Python/01.Basics Python",
     "images/Pasted image 20260423231358.png",
     "01.Maths/Probability/03.Random Variable/14.Functions of Random Variables.md",
     "01.Maths/Probability/03.Random Variable/13.Hypergeometric vs Binomial.md",
@@ -267,13 +285,6 @@
     "images/Pasted image 20260423160609.png",
     "01.Maths/Probability/00.Probability.md",
     "01.Maths/Probability/14.Others/00.Others chapters.md",
-    "01.Maths/Probability/14.Others/02.Jacobian Formula.md",
-    "01.Maths/Probability/14.Others/06.Variance.md",
-    "01.Maths/Probability/14.Others/08.MSE and Risk.md",
-    "01.Maths/Probability/14.Others/07.Bias-Variance Tradeoff.md",
-    "01.Maths/Probability/03.Random Variable/04.Random Variable vs. Distribution.md",
-    "Bernoulli Distribution.md",
-    "01.Maths/Probability/03.Random Variable/03.Distributions.md",
     "images/Pasted image 20260417204550.png",
     "images/Pasted image 20260417204252.png",
     "images/Pasted image 20260417203824.png",
