@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.ML/00.Machine Learning.md",
+                "file": "02.Python/01.Basics Python/41.Common exceptions (ValueError, TypeError, IndexError, KeyError etc).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.Machine Learning"
+              "title": "41.Common exceptions (ValueError, TypeError, IndexError, KeyError etc)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04.ML/00.Machine Learning.md",
+                "file": "02.Python/01.Basics Python/41.Common exceptions (ValueError, TypeError, IndexError, KeyError etc).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00.Machine Learning"
+              "title": "Backlinks for 41.Common exceptions (ValueError, TypeError, IndexError, KeyError etc)"
             }
           },
           {
@@ -195,7 +195,8 @@
               "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -218,36 +219,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5c706eeadd68b1b1",
+  "active": "b263d165c16a0b21",
   "lastOpenFiles": [
-    "images/Pasted image 20260426150517.png",
-    "images/Pasted image 20260426150205.png",
-    "images/Pasted image 20260426150048.png",
-    "Untitled.md",
-    "04.ML/00.Machine Learning.md",
-    "01.Supervised Learning.md",
-    "04.ML/01.ML Algorithms.md",
-    "04.ML/09.Practice/04.Deployment and MLOps.md",
-    "04.ML/09.Practice/03.Model Interpretability.md",
-    "04.ML/09.Practice/02.Pipelines and Experiments.md",
-    "04.ML/09.Practice/01.ML Project Workflow.md",
-    "04.ML/08.Features/03.Feature Selection.md",
-    "04.ML/08.Features/02.Feature Engineering.md",
-    "04.ML/08.Features/01.Data Preprocessing.md",
-    "04.ML/07.Reinforcement Learning/03.Exploration vs Exploitation.md",
-    "04.ML/07.Reinforcement Learning/02.Model-Free Methods.md",
-    "04.ML/07.Reinforcement Learning/01.The RL Problem.md",
-    "04.ML/06.Advanced/02.Learning with Structured Outputs.md",
-    "04.ML/06.Advanced/01.Kernel Methods.md",
-    "04.ML/05.Probabilistic/03.Gaussian Processes.md",
-    "04.ML/05.Probabilistic/02.Markov Models.md",
-    "04.ML/05.Probabilistic/01.Bayesian Networks.md",
-    "04.ML/04.Unsupervised learning/04.Representation Learning.md",
-    "04.ML/04.Unsupervised learning/03.Density Estimation.md",
-    "04.ML/04.Unsupervised learning/02.Dimensionality Reduction/05.Autoencoders.md",
-    "04.ML/04.Unsupervised learning/02.Dimensionality Reduction/04.Uniform Manifold Approximation and Projection (UMAP).md",
-    "04.ML/04.Unsupervised learning/02.Dimensionality Reduction/03.t-SNE.md",
-    "04.ML/04.Unsupervised learning/02.Dimensionality Reduction/02.Kernel PCA.md",
+    "02.Python/01.Basics Python/42.Raising exceptions (raise).md",
+    "02.Python/01.Basics Python/40.try  except  else  finally.md",
+    "02.Python/01.Basics Python/39.any(), all().md",
+    "02.Python/01.Basics Python/41.Common exceptions (ValueError, TypeError, IndexError, KeyError etc).md",
+    "02.Python/01.Basics Python/38.sorted(), reversed().md",
+    "02.Python/01.Basics Python/60.Writing custom context managers (__enter__, __exit__).md",
+    "02.Python/01.Basics Python/59.@staticmethod, @classmethod, @property.md",
+    "02.Python/01.Basics Python/37.map(), filter(), zip(), enumerate().md",
+    "02.Python/01.Basics Python/36.Generator expressions.md",
+    "02.Python/01.Basics Python/35.Generator functions.md",
+    "02.Python/01.Basics Python/34.iter() and next().md",
+    "02.Python/01.Basics Python/33.Encapsulation basics.md",
+    "02.Python/01.Basics Python/32.Dunder or magic methods.md",
+    "02.Python/01.Basics Python/61.Ternary expressions.md",
+    "02.Python/01.Basics Python/31.super().md",
+    "02.Python/01.Basics Python/62.Walrus operator.md",
+    "02.Python/01.Basics Python/30.Inheritance and method overriding.md",
+    "02.Python/01.Basics Python/63.Chained comparisons.md",
+    "02.Python/01.Basics Python/29.Attributes- instance vs class.md",
+    "02.Python/01.Basics Python/64.String methods (.split(), .join(), .strip(), .replace() etc).md",
+    "02.Python/01.Basics Python/28.Instance vs class vs static methods.md",
+    "02.Python/01.Basics Python/65.collections module basics (defaultdict, Counter, deque).md",
+    "02.Python/01.Basics Python/27.init, self.md",
+    "02.Python/01.Basics Python/66.itertools basics (product, combinations, permutations).md",
+    "02.Python/01.Basics Python/26.Classes and objects.md",
+    "02.Python/01.Basics Python/25.Recursion.md",
+    "32.Dunder",
+    "images/Pasted image 20260426161432.png",
+    "images/Pasted image 20260426161008.png",
+    "images/Pasted image 20260426160647.png",
+    "images/binomial_distribution.png",
+    "images/Pasted image 20260426155557.png",
+    "images/Pasted image 20260426155447.png",
+    "images/Pasted image 20260426155430.png",
+    "images/Pasted image 20260426155351.png",
+    "images/Pasted image 20260426154650.png",
+    "images/Pasted image 20260426154518.png",
     "04.ML/09.Practice",
     "04.ML/08.Features",
     "04.ML/07.Reinforcement Learning",
@@ -257,15 +267,6 @@
     "04.ML/04.Unsupervised learning/01.Clustering",
     "04.ML/04.Unsupervised learning",
     "04.ML/03.Ensemble",
-    "04.ML/02.Evaluation",
-    "images/Pasted image 20260423231358.png",
-    "images/Pasted image 20260423163252.png",
-    "images/Pasted image 20260423160609.png",
-    "images/Pasted image 20260417204550.png",
-    "images/Pasted image 20260417204252.png",
-    "images/Pasted image 20260417203824.png",
-    "images/Pasted image 20260417202651.png",
-    "images/Pasted image 20260417201901.png",
     "Untitled.canvas"
   ]
 }
