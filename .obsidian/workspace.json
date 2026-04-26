@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elimination.md",
+                "file": "04.ML/00.Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02.Gaussian Elimination"
+              "title": "Backlinks for 00.Machine Learning"
             }
           },
           {
@@ -195,12 +195,12 @@
               "title": "Copilot"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +218,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b263d165c16a0b21",
+  "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
-    "04.ML/01.ML Algorithms.md",
+    "images/Pasted image 20260426150517.png",
+    "images/Pasted image 20260426150205.png",
+    "images/Pasted image 20260426150048.png",
+    "Untitled.md",
     "04.ML/00.Machine Learning.md",
+    "01.Supervised Learning.md",
+    "04.ML/01.ML Algorithms.md",
     "04.ML/09.Practice/04.Deployment and MLOps.md",
     "04.ML/09.Practice/03.Model Interpretability.md",
     "04.ML/09.Practice/02.Pipelines and Experiments.md",
@@ -229,31 +234,28 @@
     "04.ML/08.Features/03.Feature Selection.md",
     "04.ML/08.Features/02.Feature Engineering.md",
     "04.ML/08.Features/01.Data Preprocessing.md",
-    "04.ML/07.RL/03.Exploration vs Exploitation.md",
-    "04.ML/07.RL/02.Model-Free Methods.md",
-    "04.ML/07.RL/01.The RL Problem.md",
+    "04.ML/07.Reinforcement Learning/03.Exploration vs Exploitation.md",
+    "04.ML/07.Reinforcement Learning/02.Model-Free Methods.md",
+    "04.ML/07.Reinforcement Learning/01.The RL Problem.md",
     "04.ML/06.Advanced/02.Learning with Structured Outputs.md",
     "04.ML/06.Advanced/01.Kernel Methods.md",
     "04.ML/05.Probabilistic/03.Gaussian Processes.md",
     "04.ML/05.Probabilistic/02.Markov Models.md",
     "04.ML/05.Probabilistic/01.Bayesian Networks.md",
-    "04.ML/04.Unsupervised/04.Representation Learning.md",
-    "04.ML/04.Unsupervised/03.Density Estimation.md",
-    "04.ML/04.Unsupervised/02.Dimensionality Reduction/05.Autoencoders.md",
-    "04.ML/04.Unsupervised/02.Dimensionality Reduction/04.Uniform Manifold Approximation and Projection (UMAP).md",
-    "04.ML/04.Unsupervised/02.Dimensionality Reduction/03.t-SNE.md",
-    "04.ML/04.Unsupervised/02.Dimensionality Reduction/02.Kernel PCA.md",
-    "04.ML/04.Unsupervised/02.Dimensionality Reduction/01.Principal Component Analysis(PCA).md",
-    "04.ML/04.Unsupervised/02.Dimensionality Reduction/00.Dimensionality Reduction.md",
-    "04.ML/04.Unsupervised/01.Clustering/04.DBSCAN.md",
+    "04.ML/04.Unsupervised learning/04.Representation Learning.md",
+    "04.ML/04.Unsupervised learning/03.Density Estimation.md",
+    "04.ML/04.Unsupervised learning/02.Dimensionality Reduction/05.Autoencoders.md",
+    "04.ML/04.Unsupervised learning/02.Dimensionality Reduction/04.Uniform Manifold Approximation and Projection (UMAP).md",
+    "04.ML/04.Unsupervised learning/02.Dimensionality Reduction/03.t-SNE.md",
+    "04.ML/04.Unsupervised learning/02.Dimensionality Reduction/02.Kernel PCA.md",
     "04.ML/09.Practice",
     "04.ML/08.Features",
-    "04.ML/07.RL",
+    "04.ML/07.Reinforcement Learning",
     "04.ML/06.Advanced",
     "04.ML/05.Probabilistic",
-    "04.ML/04.Unsupervised/02.Dimensionality Reduction",
-    "04.ML/04.Unsupervised/01.Clustering",
-    "04.ML/04.Unsupervised",
+    "04.ML/04.Unsupervised learning/02.Dimensionality Reduction",
+    "04.ML/04.Unsupervised learning/01.Clustering",
+    "04.ML/04.Unsupervised learning",
     "04.ML/03.Ensemble",
     "04.ML/02.Evaluation",
     "images/Pasted image 20260423231358.png",
@@ -264,8 +266,6 @@
     "images/Pasted image 20260417203824.png",
     "images/Pasted image 20260417202651.png",
     "images/Pasted image 20260417201901.png",
-    "images/Pasted image 20260414133648.png",
-    "images/Pasted image 20260413095454.png",
     "Untitled.canvas"
   ]
 }
