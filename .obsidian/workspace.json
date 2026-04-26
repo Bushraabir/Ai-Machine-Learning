@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Python/01.Basics Python/41.Common exceptions (ValueError, TypeError, IndexError, KeyError etc).md",
+                "file": "02.Python/01.Basics Python/52.Mutability vs immutability in depth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "41.Common exceptions (ValueError, TypeError, IndexError, KeyError etc)"
+              "title": "52.Mutability vs immutability in depth"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Python/01.Basics Python/41.Common exceptions (ValueError, TypeError, IndexError, KeyError etc).md",
+                "file": "02.Python/01.Basics Python/52.Mutability vs immutability in depth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 41.Common exceptions (ValueError, TypeError, IndexError, KeyError etc)"
+              "title": "Backlinks for 52.Mutability vs immutability in depth"
             }
           },
           {
@@ -221,13 +221,24 @@
   },
   "active": "b263d165c16a0b21",
   "lastOpenFiles": [
+    "02.Python/01.Basics Python/51.Understanding __init__.py and package structure.md",
+    "02.Python/01.Basics Python/50.__name__ == __main__pattern.md",
+    "02.Python/01.Basics Python/49.Writing your own modules.md",
+    "02.Python/01.Basics Python/48.Importing modules (import, from x import y, as).md",
+    "02.Python/01.Basics Python/47.Working with file paths.md",
+    "02.Python/01.Basics Python/00.Python Basics.md",
+    "02.Python/01.Basics Python/46.Context manager (with statement).md",
+    "02.Python/01.Basics Python/58.Writing and applying decorators (@decorator).md",
+    "02.Python/01.Basics Python/59.@staticmethod, @classmethod, @property.md",
+    "02.Python/01.Basics Python/60.Writing custom context managers (__enter__, __exit__).md",
+    "02.Python/01.Basics Python/45.open(), read(), readline(), readlines(), write().md",
+    "02.Python/01.Basics Python/44.Reading and writing .txt and .csv files.md",
+    "02.Python/01.Basics Python/43.Custom exception classes.md",
     "02.Python/01.Basics Python/42.Raising exceptions (raise).md",
+    "02.Python/01.Basics Python/41.Common exceptions (ValueError, TypeError, IndexError, KeyError etc).md",
     "02.Python/01.Basics Python/40.try  except  else  finally.md",
     "02.Python/01.Basics Python/39.any(), all().md",
-    "02.Python/01.Basics Python/41.Common exceptions (ValueError, TypeError, IndexError, KeyError etc).md",
     "02.Python/01.Basics Python/38.sorted(), reversed().md",
-    "02.Python/01.Basics Python/60.Writing custom context managers (__enter__, __exit__).md",
-    "02.Python/01.Basics Python/59.@staticmethod, @classmethod, @property.md",
     "02.Python/01.Basics Python/37.map(), filter(), zip(), enumerate().md",
     "02.Python/01.Basics Python/36.Generator expressions.md",
     "02.Python/01.Basics Python/35.Generator functions.md",
@@ -236,17 +247,6 @@
     "02.Python/01.Basics Python/32.Dunder or magic methods.md",
     "02.Python/01.Basics Python/61.Ternary expressions.md",
     "02.Python/01.Basics Python/31.super().md",
-    "02.Python/01.Basics Python/62.Walrus operator.md",
-    "02.Python/01.Basics Python/30.Inheritance and method overriding.md",
-    "02.Python/01.Basics Python/63.Chained comparisons.md",
-    "02.Python/01.Basics Python/29.Attributes- instance vs class.md",
-    "02.Python/01.Basics Python/64.String methods (.split(), .join(), .strip(), .replace() etc).md",
-    "02.Python/01.Basics Python/28.Instance vs class vs static methods.md",
-    "02.Python/01.Basics Python/65.collections module basics (defaultdict, Counter, deque).md",
-    "02.Python/01.Basics Python/27.init, self.md",
-    "02.Python/01.Basics Python/66.itertools basics (product, combinations, permutations).md",
-    "02.Python/01.Basics Python/26.Classes and objects.md",
-    "02.Python/01.Basics Python/25.Recursion.md",
     "32.Dunder",
     "images/Pasted image 20260426161432.png",
     "images/Pasted image 20260426161008.png",
