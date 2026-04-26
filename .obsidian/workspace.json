@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Python/01.Basics Python/52.Mutability vs immutability in depth.md",
+                "file": "02.Python/01.Basics Python/02.Type casting and type checking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "52.Mutability vs immutability in depth"
+              "title": "02.Type casting and type checking"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Python/01.Basics Python/52.Mutability vs immutability in depth.md",
+                "file": "02.Python/01.Basics Python/02.Type casting and type checking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 52.Mutability vs immutability in depth"
+              "title": "Backlinks for 02.Type casting and type checking"
             }
           },
           {
@@ -221,6 +221,15 @@
   },
   "active": "b263d165c16a0b21",
   "lastOpenFiles": [
+    "02.Python/01.Basics Python/01.Variables, data types (int, float, str, bool, None).md",
+    "02.Python/01.Basics Python/02.Type casting and type checking.md",
+    "02.Python/01.Basics Python/59.@staticmethod, @classmethod, @property.md",
+    "02.Python/01.Basics Python/58.Writing and applying decorators (@decorator).md",
+    "02.Python/01.Basics Python/57.First-class functions and closures.md",
+    "02.Python/01.Basics Python/60.Writing custom context managers (__enter__, __exit__).md",
+    "02.Python/01.Basics Python/56.Variable unpacking and assignment mechanics.md",
+    "02.Python/01.Basics Python/55.Pass-by-object-reference behavior.md",
+    "02.Python/01.Basics Python/54.How Python manages memory (reference counting basics).md",
     "02.Python/01.Basics Python/53.Shallow vs deep copy.md",
     "02.Python/01.Basics Python/52.Mutability vs immutability in depth.md",
     "02.Python/01.Basics Python/51.Understanding __init__.py and package structure.md",
@@ -230,9 +239,6 @@
     "02.Python/01.Basics Python/47.Working with file paths.md",
     "02.Python/01.Basics Python/00.Python Basics.md",
     "02.Python/01.Basics Python/46.Context manager (with statement).md",
-    "02.Python/01.Basics Python/58.Writing and applying decorators (@decorator).md",
-    "02.Python/01.Basics Python/59.@staticmethod, @classmethod, @property.md",
-    "02.Python/01.Basics Python/60.Writing custom context managers (__enter__, __exit__).md",
     "02.Python/01.Basics Python/45.open(), read(), readline(), readlines(), write().md",
     "02.Python/01.Basics Python/44.Reading and writing .txt and .csv files.md",
     "02.Python/01.Basics Python/43.Custom exception classes.md",
@@ -241,12 +247,6 @@
     "02.Python/01.Basics Python/40.try  except  else  finally.md",
     "02.Python/01.Basics Python/39.any(), all().md",
     "02.Python/01.Basics Python/38.sorted(), reversed().md",
-    "02.Python/01.Basics Python/37.map(), filter(), zip(), enumerate().md",
-    "02.Python/01.Basics Python/36.Generator expressions.md",
-    "02.Python/01.Basics Python/35.Generator functions.md",
-    "02.Python/01.Basics Python/34.iter() and next().md",
-    "02.Python/01.Basics Python/33.Encapsulation basics.md",
-    "02.Python/01.Basics Python/32.Dunder or magic methods.md",
     "32.Dunder",
     "images/Pasted image 20260426161432.png",
     "images/Pasted image 20260426161008.png",
