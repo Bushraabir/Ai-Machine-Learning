@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>AI/CS Knowledge Base</title>
+      <link>https://bushraabir.github.io/Ai-Machine-Learning</link>
+      <description>Last 10 notes on AI/CS Knowledge Base</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>12.Exponential Distribution</title>
+    <link>https://bushraabir.github.io/Ai-Machine-Learning/01.Maths/Probability/05.Continuous-Random-variable/12.Exponential-Distribution</link>
+    <guid>https://bushraabir.github.io/Ai-Machine-Learning/01.Maths/Probability/05.Continuous-Random-variable/12.Exponential-Distribution</guid>
+    <description><![CDATA[  The exponential distribution is the continuous version of the geometric. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 05:43:48 GMT</pubDate>
+  </item><item>
+    <title>AI/CS Knowledge Base</title>
+    <link>https://bushraabir.github.io/Ai-Machine-Learning/</link>
+    <guid>https://bushraabir.github.io/Ai-Machine-Learning/</guid>
+    <description><![CDATA[  PERSONAL RESEARCH VAULT The Long Roadto Understanding A working mathematician&#039;s notebook. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 05:43:48 GMT</pubDate>
+  </item><item>
+    <title>00.Python</title>
+    <link>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/00.Python</link>
+    <guid>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/00.Python</guid>
+    <description><![CDATA[ 00.Python Basics 01.Variables, data types (int, float, str, bool, None) 02.Type casting and type checking 03.Operators 04.String formatting 05.Input and output 06.Comments and docstrings . ]]></description>
+    <pubDate>Mon, 27 Apr 2026 01:23:38 GMT</pubDate>
+  </item><item>
+    <title>00.Python Basics</title>
+    <link>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/00.Python-Basics</link>
+    <guid>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/00.Python-Basics</guid>
+    <description><![CDATA[ 1. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 01:23:38 GMT</pubDate>
+  </item><item>
+    <title>02.Type casting and type checking</title>
+    <link>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/02.Type-casting-and-type-checking</link>
+    <guid>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/02.Type-casting-and-type-checking</guid>
+    <description><![CDATA[ Python is dynamically typed; variables have no fixed type. But objects do. Every object in Python carries its type with it at runtime. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 01:23:38 GMT</pubDate>
+  </item><item>
+    <title>03.Operators</title>
+    <link>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/03.Operators</link>
+    <guid>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/03.Operators</guid>
+    <description><![CDATA[ An operator is a symbol that performs an operation on one or more operands and produces a result. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 01:23:38 GMT</pubDate>
+  </item><item>
+    <title>04.String formatting</title>
+    <link>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/04.String-formatting</link>
+    <guid>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/04.String-formatting</guid>
+    <description><![CDATA[ String formatting is the process of embedding values — variables, expressions, computed results — into a string template. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 01:23:38 GMT</pubDate>
+  </item><item>
+    <title>05.Input and output</title>
+    <link>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/05.Input-and-output</link>
+    <guid>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/05.Input-and-output</guid>
+    <description><![CDATA[ Input and output (I/O) is how a Python program communicates with the outside world — reading data from the user, writing results to the terminal, reading from files, writing to files. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 01:23:38 GMT</pubDate>
+  </item><item>
+    <title>06.Comments and docstrings</title>
+    <link>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/06.Comments-and-docstrings</link>
+    <guid>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/06.Comments-and-docstrings</guid>
+    <description><![CDATA[ Comments and docstrings are both ways to embed human-readable text inside code. They serve different purposes and are used in different places. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 01:23:38 GMT</pubDate>
+  </item><item>
+    <title>07.if elif else</title>
+    <link>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/07.if-elif-else</link>
+    <guid>https://bushraabir.github.io/Ai-Machine-Learning/02.Python/01.Basics-Python/07.if-elif-else</guid>
+    <description><![CDATA[ A conditional statement evaluates a boolean expression and executes a block of code only if that expression is truthy. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 01:23:38 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
