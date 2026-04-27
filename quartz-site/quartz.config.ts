@@ -5,7 +5,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "AI/CS Knowledge Base",
     pageTitleSuffix: " | My Study Vault",
-    enableSPA: false,
+    enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
