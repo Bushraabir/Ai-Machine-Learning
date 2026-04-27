@@ -11,10 +11,14 @@
             "id": "b263d165c16a0b21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02.Python/01.Basics Python/10.break continue pass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.break continue pass"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02.Python/01.Basics Python/10.break continue pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 10.break continue pass"
             }
           },
           {
@@ -216,6 +221,20 @@
   },
   "active": "b263d165c16a0b21",
   "lastOpenFiles": [
+    "02.Python/01.Basics Python/09.while loops.md",
+    "02.Python/01.Basics Python/10.break continue pass.md",
+    "02.Python/01.Basics Python/11.Nested loops and conditionals.md",
+    "02.Python/01.Basics Python/12.Lists.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "02.Python/01.Basics Python/15.Sets.md",
+    "02.Python/01.Basics Python/16.Comprehensions.md",
+    "02.Python/01.Basics Python/17.Nested data structures.md",
+    "02.Python/01.Basics Python/18.Defining and calling functions.md",
+    "02.Python/01.Basics Python/19.Parameters vs arguments.md",
+    "02.Python/01.Basics Python/20.Default and keyword arguments.md",
+    "02.Python/01.Basics Python/21.args and kwargs.md",
+    "02.Python/01.Basics Python/22.Return values.md",
     "quartz-site/node_modules/@types/node/inspector/promises.d.ts",
     "quartz-site/node_modules/@types/node/inspector",
     "quartz-site/node_modules/@types/node/fs/promises.d.ts",
@@ -224,9 +243,6 @@
     "quartz-site/public/01.Maths/Probability/02.Conditional-Probability/10.The-Monty-Hall-Problem.html",
     "quartz-site/public/01.Maths/Probability/02.Conditional-Probability/09.Coherence-of-Bayes'-Rule.html",
     "quartz-site/public/01.Maths/Probability/02.Conditional-Probability/08.Conditional-Independence.html",
-    "quartz-site/public/01.Maths/Probability/02.Conditional-Probability/07.Independence-of-Events.html",
-    "quartz-site/public/01.Maths/Probability/02.Conditional-Probability/06.LOTP---With-Extra-Conditioning.html",
-    "quartz-site/public/01.Maths/Probability/02.Conditional-Probability/05.Bayes'-Rule-with-Extra-Conditioning.html",
     "quartz-site/image.png",
     "quartz-site/index.md",
     "quartz-site/README.md",
@@ -251,17 +267,6 @@
     "content/index.md",
     "quartz-site/node_modules/vfile-location/node_modules/@types/unist/README.md",
     "quartz-site/node_modules/vfile/node_modules/@types/unist/README.md",
-    "quartz-site/node_modules/unist-util-visit-parents/node_modules/@types/unist/README.md",
-    "quartz-site/node_modules/unist-util-visit-children/node_modules/@types/unist/README.md",
-    "quartz-site/node_modules/unist-util-visit/node_modules/@types/unist/README.md",
-    "quartz-site/node_modules/unist-util-remove-position/node_modules/@types/unist/README.md",
-    "quartz-site/node_modules/unist-util-position/node_modules/@types/unist/README.md",
-    "quartz-site/node_modules/unist-util-modify-children/node_modules/@types/unist/README.md",
-    "quartz-site/node_modules/unist-util-is/node_modules/@types/unist/README.md",
-    "quartz-site/node_modules/unist-util-find-after/node_modules/@types/unist/README.md",
-    "quartz-site/node_modules/unified/node_modules/@types/unist/README.md",
-    "quartz-site/node_modules/@parcel/watcher/node_modules/picomatch/README.md",
-    "quartz-site/node_modules/serve-handler/node_modules/minimatch/README.md",
     "Untitled.canvas"
   ]
 }
