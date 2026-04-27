@@ -1,4 +1,4 @@
-﻿---
+---
 title: AI/CS Knowledge Base
 ---
 
