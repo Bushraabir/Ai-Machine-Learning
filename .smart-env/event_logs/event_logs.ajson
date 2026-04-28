@@ -33,3 +33,8 @@
 "event_logs:sources:import_progress": {"key":"sources:import_progress","ct":44,"first_at":1777287735529,"last_at":1777341274622,"class_name":"EventLog","event_sources":{"process_source_import_queue":44}},
 "event_logs:sources:import_completed": {"key":"sources:import_completed","ct":3,"first_at":1777327185073,"last_at":1777341276518,"class_name":"EventLog","event_sources":{"process_source_import_queue":3}},
 "event_logs:blocks:cleaned": {"key":"blocks:cleaned","ct":3,"first_at":1777327185445,"last_at":1777341276718,"class_name":"EventLog"},
+"event_logs:milestones:first_achieved": {"key":"milestones:first_achieved","ct":2,"first_at":1777327185074,"last_at":1777341291605,"class_name":"EventLog","event_sources":{"onboarding_events":2}},
+"event_logs:connections:opened": {"key":"connections:opened","ct":1,"first_at":1777341291605,"last_at":1777341291605,"class_name":"EventLog"},
+"event_logs:milestones_modal:open": {"key":"milestones_modal:open","ct":2,"first_at":1777327198362,"last_at":1777341297152,"class_name":"EventLog","event_sources":{"native_notice_button":2}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1948,"first_at":1775720058276,"last_at":1777341338011,"class_name":"EventLog","event_sources":{"active-leaf-change":1948}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1949,"first_at":1775720058276,"last_at":1777341339224,"class_name":"EventLog","event_sources":{"active-leaf-change":1949}},
