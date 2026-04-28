@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
+                "file": "01.Maths/Linear Algebra/01.Introduction to Vectors/14.The Cauchy-Schwarz Inequality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.Matrix Inverse"
+              "title": "14.The Cauchy-Schwarz Inequality"
             }
           },
           {
@@ -249,9 +249,19 @@
   },
   "active": "b263d165c16a0b21",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
+    "Pasted image 20260428134551.png",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/13.Angle Between Two Vectors.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/12.Unit Vectors.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/11.Length and dot product.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/10.Vectors in Three Dimensions.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/08.Vectors and Linear Combinations.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (Product of Elimination Matrices).md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/06.Gauss–Jordan Elimination.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elimination.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/01.The Geometry of Linear Equations.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/05.Inverse of ABA^T.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
     "02.Python/01.Basics Python/66.itertools basics (product, combinations, permutations).md",
     "02.Python/01.Basics Python/57.First-class functions and closures.md",
     "02.Python/01.Basics Python/47.Working with file paths.md",
@@ -265,16 +275,6 @@
     "02.Python/01.Basics Python/24.Lambda functions.md",
     "02.Python/01.Basics Python/21.args and kwargs.md",
     "02.Python/01.Basics Python/19.Parameters vs arguments.md",
-    "02.Python/01.Basics Python/16.Comprehensions.md",
-    "02.Python/01.Basics Python/11.Nested loops and conditionals.md",
-    "02.Python/01.Basics Python/04.String formatting.md",
-    "02.Python/02.Python Libraries for Machine Learning/02.Pandas/22.Boolean indexing.md",
-    "01.Maths/Linear Algebra/Linear Algebra.md",
-    "03.Data Structure and Algorithms/01.Linear scan and index tracking.md",
-    "02.Python/00.Python Libraries.md",
-    "02.Python/02.Python Libraries for Machine Learning/01.NumPy/79.np.einsum() — Einstein summation notation.md",
-    "02.Python/02.Python Libraries for Machine Learning/01.NumPy/11.np.empty() and uninitialized arrays.md",
-    "02.Python/01.Basics Python/13.Tuples.md",
     "150.Heapify — O(n) build, O(log n) push",
     "120.0-1 BFS — deque-based BFS for 0",
     "114.Connected components — BFS",
