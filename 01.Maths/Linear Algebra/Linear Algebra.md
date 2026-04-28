@@ -1,15 +1,4 @@
-[[00.Other Chapters]]
-[[01.Row Operations]]
-[[02.Column Operations]]
-[[03.Elimination Matrix]]
-[[04.Reduced Row Echelon Form (RREF)]]
-[[05.Row Echelon Form (REF)]]
-[[06.FOIL]]
-[[07.Singular Matrix]]
-[[08.Fourier Matrix]]
-[[09.Orthogonal Matrix]]
-
-
+Linear Algebra is the study of vectors and certain rules to manipulate vectors. In general vectors are the special objects that can be added together and multiplier by scalars to produce another object of the same kind.
 
 
 
@@ -163,3 +152,17 @@
 [[14.Pseudo Inverse]]
 
 
+
+
+
+
+[[00.Other Chapters]]
+[[01.Row Operations]]
+[[02.Column Operations]]
+[[03.Elimination Matrix]]
+[[04.Reduced Row Echelon Form (RREF)]]
+[[05.Row Echelon Form (REF)]]
+[[06.FOIL]]
+[[07.Singular Matrix]]
+[[08.Fourier Matrix]]
+[[09.Orthogonal Matrix]]
