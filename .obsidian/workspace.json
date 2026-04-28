@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/01.Vector Spaces and Subspaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.The Augmented Matrix"
+              "title": "01.Vector Spaces and Subspaces"
             }
           },
           {
@@ -248,6 +248,12 @@
   },
   "active": "b263d165c16a0b21",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/00.Vector Spaces and Subspaces Chapters.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/18.Cholesky Decomposition A = LL^T.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/08.Schur Complement.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/07.Block Matrices and Block Multiplication.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/06.Laws of Matrix Operations.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/02.Gaussian Elimination.md",
@@ -269,12 +275,6 @@
     "01.Maths/Linear Algebra/01.Introduction to Vectors/05.Inverse of ABA^T.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
     "02.Python/01.Basics Python/66.itertools basics (product, combinations, permutations).md",
-    "02.Python/01.Basics Python/57.First-class functions and closures.md",
-    "02.Python/01.Basics Python/47.Working with file paths.md",
-    "02.Python/01.Basics Python/44.Reading and writing .txt and .csv files.md",
-    "02.Python/01.Basics Python/39.any(), all().md",
-    "02.Python/01.Basics Python/35.Generator functions.md",
-    "02.Python/01.Basics Python/32.Dunder or magic methods.md",
     "150.Heapify — O(n) build, O(log n) push",
     "120.0-1 BFS — deque-based BFS for 0",
     "114.Connected components — BFS",
