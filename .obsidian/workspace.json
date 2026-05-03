@@ -53,10 +53,14 @@
             "id": "d119bd479ccd8bc8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "03.Data Structure and Algorithms/24.Subarray sum equals k — prefix sum + HashMap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24.Subarray sum equals k — prefix sum + HashMap"
             }
           }
         ],
@@ -260,6 +264,14 @@
   },
   "active": "d119bd479ccd8bc8",
   "lastOpenFiles": [
+    "03.Data Structure and Algorithms/23.Majority element — Boyer-Moore voting algorithm.md",
+    "04.ML/00.Foundations/07.How to Frame an ML Problem.md",
+    "04.ML/00.Machine Learning.md",
+    "03.Data Structure and Algorithms/22.Anagram detection and group-by-signature patterns.md",
+    "03.Data Structure and Algorithms/21.HashMap frequency counting — arbitrary keys.md",
+    "03.Data Structure and Algorithms/20.Character frequency arrays — fixed alphabet O(1) space.md",
+    "04.ML/00.Foundations/06.Steps of Machine Learning.md",
+    "Untitled",
     "03.Data Structure and Algorithms/19.Two pointers on strings — palindrome, matching.md",
     "03.Data Structure and Algorithms/18.Three pointers — Dutch National Flag, 3Sum.md",
     "03.Data Structure and Algorithms/17.Same-direction two pointers — fast and slow.md",
@@ -272,7 +284,6 @@
     "03.Data Structure and Algorithms/10.Difference array — range update in O(1).md",
     "03.Data Structure and Algorithms/09.Prefix product and prefix XOR.md",
     "04.ML/00.Foundations/05.Challenges of Machine Learning.md",
-    "04.ML/00.Machine Learning.md",
     "02.Python/01.Basics Python/13.Tuples.md",
     "04.ML/00.Foundations/04.Instance-Based vs. Model-Based Learning.md",
     "04.ML/01.ML Algorithms.md",
@@ -281,12 +292,6 @@
     "03.Data Structure and Algorithms/08.Suffix sum and when to use it over prefix sum.md",
     "03.Data Structure and Algorithms/07.2D prefix sum — submatrix sum queries.md",
     "03.Data Structure and Algorithms/06.1D prefix sum — construction and range query in O(1).md",
-    "03.Data Structure and Algorithms/05.Cyclic traversal and modular indexing.md",
-    "03.Data Structure and Algorithms/04.Sentinel values and boundary conditions.md",
-    "02.Python/02.Python Libraries for Machine Learning/01.NumPy/11.np.empty() and uninitialized arrays.md",
-    "03.Data Structure and Algorithms/167.Maximum subarray — Kadane's algorithm and its DP interpretation.md",
-    "03.Data Structure and Algorithms/03.In-place modification — overwriting the input array.md",
-    "03.Data Structure and Algorithms/02.Two-pass traversal — forward and backward in one problem.md",
     "images/Pasted image 20260503033835.png",
     "images/Pasted image 20260428134551.png",
     "150.Heapify — O(n) build, O(log n) push",
@@ -299,7 +304,6 @@
     "Untitled.base",
     "quartz-site/node_modules/@types/node/inspector/promises.d.ts",
     "quartz-site/node_modules/@types/node/inspector",
-    "quartz-site/node_modules/@types/node/fs/promises.d.ts",
     "quartz-site/image.png",
     "quartz-site/public/static/icon.png",
     "quartz-site/public/static/og-image.png",
