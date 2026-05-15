@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Data Structure and Algorithms/62.Fractional binary search — real-valued search spaces.md",
+                "file": "04.ML/02.Supervised Learning/07.k-Nearest Neighbours.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "62.Fractional binary search — real-valued search spaces"
+              "title": "07.k-Nearest Neighbours"
             }
           }
         ],
@@ -250,6 +250,17 @@
   },
   "active": "d119bd479ccd8bc8",
   "lastOpenFiles": [
+    "03.Data Structure and Algorithms/72.Generating all subsets — power set via recursion and bitmask.md",
+    "03.Data Structure and Algorithms/71.The call stack — stack frames, stack overflow, iterative conversion.md",
+    "03.Data Structure and Algorithms/70.Memoisation — converting naive recursion to top-down DP.md",
+    "03.Data Structure and Algorithms/69.Tail recursion and why Python does not optimise it.md",
+    "03.Data Structure and Algorithms/68.Base cases and the cost of missing them.md",
+    "03.Data Structure and Algorithms/67.Recursion tree — visualising call depth and branching factor.md",
+    "03.Data Structure and Algorithms/66.Monotonic loss search — when binary search replaces gradient methods.md",
+    "03.Data Structure and Algorithms/65.Binary search in hyperparameter tuning — conceptual model.md",
+    "03.Data Structure and Algorithms/64.Bisection method for root finding — numerical analysis connection.md",
+    "03.Data Structure and Algorithms/63.Threshold optimisation — binary search on decision boundary.md",
+    "03.Data Structure and Algorithms/62.Fractional binary search — real-valued search spaces.md",
     "03.Data Structure and Algorithms/61.Capacity and allocation problems via binary search on answer.md",
     "03.Data Structure and Algorithms/60.Minimise the maximum or maximise the minimum — canonical pattern.md",
     "03.Data Structure and Algorithms/59.The binary search on answer template — monotonic predicate.md",
@@ -265,17 +276,6 @@
     "03.Data Structure and Algorithms/224.Computational graph — forward pass as DAG traversal.md",
     "03.Data Structure and Algorithms/208.Las Vegas vs Monte Carlo algorithms.md",
     "03.Data Structure and Algorithms/199.Linearity of expectation — why it holds even for dependent variables.md",
-    "03.Data Structure and Algorithms/189.Combinations — nCr, Pascal's triangle, binomial coefficients.md",
-    "03.Data Structure and Algorithms/168.Longest Increasing Subsequence (LIS) — O(n^2) and O(n log n).md",
-    "03.Data Structure and Algorithms/159.Hierarchical clustering dendrogram — tree interpretation.md",
-    "03.Data Structure and Algorithms/149.Min-heap and max-heap — heap property and array representation.md",
-    "03.Data Structure and Algorithms/137.Tree terminology — root, leaf, height, depth, subtree.md",
-    "03.Data Structure and Algorithms/117.Dijkstra's algorithm — O((V+E) log V) with min-heap.md",
-    "03.Data Structure and Algorithms/52.Quickselect — k-th smallest in expected O(n).md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/01.Vector Spaces and Subspaces.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/04.The Reduced Row Echelon Form.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/22.Transpose in Calculus.md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/21.Apply Gauss-Jordan to the Pascal Matrix.md",
     "images/Pasted image 20260503132221.png",
     "04.ML/01.Data Gathering",
     "images/Pasted image 20260503041119.png",
