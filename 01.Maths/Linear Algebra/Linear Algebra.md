@@ -19,8 +19,7 @@ Linear Algebra is the study of vectors and certain rules to manipulate vectors. 
 [[14.The Cauchy-Schwarz Inequality]]
 [[15.Cyclic Differences for Matrices]]
 [[16.Independence and Dependence]]
-[[17.DL^T Decomposition]]
-[[18.Cholesky Decomposition A = LL^T]]]
+
 
 
 
@@ -41,23 +40,26 @@ Linear Algebra is the study of vectors and certain rules to manipulate vectors. 
 [[14.Inner Products or Pre-Hilbert Space]]
 [[15.Symmetric Matrices, Their Products, and LDL^T]]
 [[16.PA = LU]]
+[[17.DL^T Decomposition]]
+[[18.Cholesky Decomposition A = LL^T]]]
+[[19.Pascal's Triangle]]
 
 
 
 
 [[00.Vector Spaces and Subspaces Chapters]]
 [[01.Vector Spaces and Subspaces]]
-[[02.Null Space of A]]
-[[03.The Reduced Row Echelon Form]]
-[[04.Rank and the Row Reduced Form]]
-[[05.Pivot Columns and Special Solutions]]
-[[06. AX=B]]
-[[07.Linear Independence]]
-[[08.Vectors That Span a Subspace]]
-[[09.Basis for a Vector Space]]
-[[10.Dimension of a Vector Space]]
-[[11.Bases for Matrix Spaces and Function Spaces]]
-[[12.Four Fundamental Subspaces]]
+[[03.Null Space of A]]
+[[04.The Reduced Row Echelon Form]]
+[[05.Rank and the Row Reduced Form]]
+[[06.Pivot Columns and Special Solutions]]
+[[07. AX=B]]
+[[08.Linear Independence]]
+[[09.Vectors That Span a Subspace]]
+[[10.Basis for a Vector Space]]
+[[11.Dimension of a Vector Space]]
+[[12.Bases for Matrix Spaces and Function Spaces]]
+[[13.Four Fundamental Subspaces]]
 
 
 
