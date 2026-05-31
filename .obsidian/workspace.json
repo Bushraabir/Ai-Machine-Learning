@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/06.Pivot Columns and Special Solutions.md",
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/08.Pivot Columns and Special Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06.Pivot Columns and Special Solutions"
+              "title": "08.Pivot Columns and Special Solutions"
             }
           },
           {
@@ -41,12 +41,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/07.Echelon Matrix.md",
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/03.Null Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.Echelon Matrix"
+              "title": "03.Null Space"
+            }
+          },
+          {
+            "id": "8056cfd79f319c43",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260531111256.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260531111256"
             }
           },
           {
@@ -278,18 +290,29 @@
   },
   "active": "0638022ef4b1bb41",
   "lastOpenFiles": [
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/06.Pivot Columns and Special Solutions.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/08. AX=B.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/09.Linear Independence.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/10.Vectors That Span a Subspace.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/11.Basis for a Vector Space.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/12.Dimension of a Vector Space.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/13.Bases for Matrix Spaces and Function Spaces.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/14.Four Fundamental Subspaces.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/07.Echelon Matrix.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/05.Rank and the Row Reduced Form.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/04.The Reduced Row Echelon Form.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/03.Null Space of A.md",
+    "Pasted image 20260531112008.png",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/02.Column Space.md",
+    "Pasted image 20260531111256.png",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/01.Vector Spaces and Subspaces.md",
+    "Pasted image 20260531111256.png.~tmp",
+    "Null Space and Left Null Space.md",
+    "Pasted image 20260531111100.png",
+    "Pasted image 20260531110854.png",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/05.Left null space.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/03.Null Space.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/04.Row space.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/06.The Reduced Row Echelon Form.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/07.Rank and the Row Reduced Form.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/08.Pivot Columns and Special Solutions.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/09.Echelon Matrix.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/10. AX=B.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/11.Linear Independence.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/12.Vectors That Span a Subspace.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/13.Basis for a Vector Space.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/14.Dimension of a Vector Space.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/15.Bases for Matrix Spaces and Function Spaces.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/16.Four Fundamental Subspaces.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/00.Vector Spaces and Subspaces Chapters.md",
     "01.Maths/Linear Algebra/Linear Algebra.md",
     "01.Maths/Linear Algebra/00.others/00.Other Chapters.md",
     "01.Maths/Linear Algebra/00.others/02.Row Operations.md",
@@ -297,13 +320,6 @@
     "01.Maths/Linear Algebra/00.others/04.Elimination Matrix.md",
     "01.Maths/Linear Algebra/00.others/05.Reduced Row Echelon Form (RREF).md",
     "01.Maths/Linear Algebra/00.others/06.Row Echelon Form (REF).md",
-    "01.Maths/Linear Algebra/00.others/07.FOIL.md",
-    "01.Maths/Linear Algebra/00.others/08.Singular Matrix.md",
-    "01.Maths/Linear Algebra/00.others/09.Fourier Matrix.md",
-    "01.Maths/Linear Algebra/00.others/10.Orthogonal Matrix.md",
-    "01.Maths/Linear Algebra/00.others/01.Pivots and Column Space.md",
-    "04.ML/01.Data Gathering/04.Web Scrapping.md",
-    "04.ML/01.Data Gathering/03.Fetching data from API.md",
     "images/Pasted image 20260503132221.png",
     "04.ML/01.Data Gathering",
     "images/Pasted image 20260503041119.png",
@@ -318,12 +334,8 @@
     "Untitled 1.base",
     "Untitled.base",
     "quartz-site/node_modules/@types/node/inspector/promises.d.ts",
-    "quartz-site/node_modules/@types/node/inspector",
     "quartz-site/image.png",
     "quartz-site/public/static/icon.png",
-    "quartz-site/public/static/og-image.png",
-    "quartz-site/public/index-og-image.webp",
-    "quartz-site/public/Readme-og-image.webp",
     "Untitled.canvas"
   ]
 }

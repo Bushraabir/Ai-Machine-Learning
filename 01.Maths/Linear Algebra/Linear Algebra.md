@@ -49,17 +49,17 @@ Linear Algebra is the study of vectors and certain rules to manipulate vectors. 
 
 [[00.Vector Spaces and Subspaces Chapters]]
 [[01.Vector Spaces and Subspaces]]
-[[03.Null Space of A]]
-[[04.The Reduced Row Echelon Form]]
-[[05.Rank and the Row Reduced Form]]
-[[06.Pivot Columns and Special Solutions]]
-[[08. AX=B]]
-[[09.Linear Independence]]
-[[10.Vectors That Span a Subspace]]
-[[11.Basis for a Vector Space]]
-[[12.Dimension of a Vector Space]]
-[[13.Bases for Matrix Spaces and Function Spaces]]
-[[14.Four Fundamental Subspaces]]
+[[03.Null Space]]
+[[06.The Reduced Row Echelon Form]]
+[[07.Rank and the Row Reduced Form]]
+[[08.Pivot Columns and Special Solutions]]
+[[10. AX=B]]
+[[11.Linear Independence]]
+[[12.Vectors That Span a Subspace]]
+[[13.Basis for a Vector Space]]
+[[14.Dimension of a Vector Space]]
+[[15.Bases for Matrix Spaces and Function Spaces]]
+[[16.Four Fundamental Subspaces]]
 
 
 
