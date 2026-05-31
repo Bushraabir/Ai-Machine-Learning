@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.ML/00.Foundations/05.Challenges of Machine Learning.md",
+                "file": "04.ML/01.Data Gathering/04.Web Scrapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.Challenges of Machine Learning"
+              "title": "04.Web Scrapping"
+            }
+          },
+          {
+            "id": "c88008d120d487ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/06.Pivot Columns and Special Solutions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06.Pivot Columns and Special Solutions"
+            }
+          },
+          {
+            "id": "0638022ef4b1bb41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/07.Echelon Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07.Echelon Matrix"
             }
           },
           {
@@ -225,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -248,34 +276,34 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d119bd479ccd8bc8",
+  "active": "0638022ef4b1bb41",
   "lastOpenFiles": [
-    "03.Data Structure and Algorithms/72.Generating all subsets — power set via recursion and bitmask.md",
-    "03.Data Structure and Algorithms/71.The call stack — stack frames, stack overflow, iterative conversion.md",
-    "03.Data Structure and Algorithms/70.Memoisation — converting naive recursion to top-down DP.md",
-    "03.Data Structure and Algorithms/69.Tail recursion and why Python does not optimise it.md",
-    "03.Data Structure and Algorithms/68.Base cases and the cost of missing them.md",
-    "03.Data Structure and Algorithms/67.Recursion tree — visualising call depth and branching factor.md",
-    "03.Data Structure and Algorithms/66.Monotonic loss search — when binary search replaces gradient methods.md",
-    "03.Data Structure and Algorithms/65.Binary search in hyperparameter tuning — conceptual model.md",
-    "03.Data Structure and Algorithms/64.Bisection method for root finding — numerical analysis connection.md",
-    "03.Data Structure and Algorithms/63.Threshold optimisation — binary search on decision boundary.md",
-    "03.Data Structure and Algorithms/62.Fractional binary search — real-valued search spaces.md",
-    "03.Data Structure and Algorithms/61.Capacity and allocation problems via binary search on answer.md",
-    "03.Data Structure and Algorithms/60.Minimise the maximum or maximise the minimum — canonical pattern.md",
-    "03.Data Structure and Algorithms/59.The binary search on answer template — monotonic predicate.md",
-    "04.ML/02.Supervised Learning/07.k-Nearest Neighbours.md",
-    "05. Supervised Learning — KNN and Distance Methods.md",
-    "03.Data Structure and Algorithms/58.Binary search on 2D matrix.md",
-    "03.Data Structure and Algorithms/57.Binary search on rotated sorted array.md",
-    "03.Data Structure and Algorithms/56.lower_bound and upper_bound — first and last occurrence.md",
-    "03.Data Structure and Algorithms/55.Binary search on a sorted array — exact match.md",
-    "03.Data Structure and Algorithms/54.Partial sort and np.partition() — ML connection.md",
-    "03.Data Structure and Algorithms/53.Median of medians — guaranteed O(n) selection.md",
-    "03.Data Structure and Algorithms/223.Online learning algorithms — update rules without storing all data.md",
-    "03.Data Structure and Algorithms/224.Computational graph — forward pass as DAG traversal.md",
-    "03.Data Structure and Algorithms/208.Las Vegas vs Monte Carlo algorithms.md",
-    "03.Data Structure and Algorithms/199.Linearity of expectation — why it holds even for dependent variables.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/06.Pivot Columns and Special Solutions.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/08. AX=B.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/09.Linear Independence.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/10.Vectors That Span a Subspace.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/11.Basis for a Vector Space.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/12.Dimension of a Vector Space.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/13.Bases for Matrix Spaces and Function Spaces.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/14.Four Fundamental Subspaces.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/07.Echelon Matrix.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/05.Rank and the Row Reduced Form.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/04.The Reduced Row Echelon Form.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/03.Null Space of A.md",
+    "01.Maths/Linear Algebra/Linear Algebra.md",
+    "01.Maths/Linear Algebra/00.others/00.Other Chapters.md",
+    "01.Maths/Linear Algebra/00.others/02.Row Operations.md",
+    "01.Maths/Linear Algebra/00.others/03.Column Operations.md",
+    "01.Maths/Linear Algebra/00.others/04.Elimination Matrix.md",
+    "01.Maths/Linear Algebra/00.others/05.Reduced Row Echelon Form (RREF).md",
+    "01.Maths/Linear Algebra/00.others/06.Row Echelon Form (REF).md",
+    "01.Maths/Linear Algebra/00.others/07.FOIL.md",
+    "01.Maths/Linear Algebra/00.others/08.Singular Matrix.md",
+    "01.Maths/Linear Algebra/00.others/09.Fourier Matrix.md",
+    "01.Maths/Linear Algebra/00.others/10.Orthogonal Matrix.md",
+    "01.Maths/Linear Algebra/00.others/01.Pivots and Column Space.md",
+    "04.ML/01.Data Gathering/04.Web Scrapping.md",
+    "04.ML/01.Data Gathering/03.Fetching data from API.md",
     "images/Pasted image 20260503132221.png",
     "04.ML/01.Data Gathering",
     "images/Pasted image 20260503041119.png",
