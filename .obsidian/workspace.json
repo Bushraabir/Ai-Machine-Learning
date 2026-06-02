@@ -304,6 +304,8 @@
   },
   "active": "d708d8548de0256d",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/00.others/05.Reduced Row Echelon Form (RREF).md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/06.Gauss–Jordan Elimination.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/05.Inverse of ABA^T.md",
     "01.Maths/Linear Algebra/00.others/13.Woodbury Identity.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
@@ -333,8 +335,6 @@
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/10. AX=B.md",
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/11.Linear Independence.md",
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/12.Vectors That Span a Subspace.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/13.Basis for a Vector Space.md",
-    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/14.Dimension of a Vector Space.md",
     "images/Pasted image 20260503132221.png",
     "04.ML/01.Data Gathering",
     "images/Pasted image 20260503041119.png",
