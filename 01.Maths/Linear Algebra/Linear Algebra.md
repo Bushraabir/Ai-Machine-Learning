@@ -10,7 +10,7 @@ Linear Algebra is the study of vectors and certain rules to manipulate vectors. 
 [[04.Matrix Inverse]]
 [[05.Inverse of ABA^T]]
 [[06.Gauss–Jordan Elimination]]
-[[07.LU Decomposition (Product of Elimination Matrices)]]
+[[07.LU Decomposition (A=LU)]]
 [[08.Vectors and Linear Combinations]]
 [[10.Vectors in Three Dimensions]]
 [[11.Length and dot product]]
