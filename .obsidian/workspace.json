@@ -13,98 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.ML/01.Data Gathering/04.Web Scrapping.md",
+                "file": "03.Data Structure and Algorithms/73.Generating all permutations — swap-based and insert-based.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.Web Scrapping"
-            }
-          },
-          {
-            "id": "c88008d120d487ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/08.Pivot Columns and Special Solutions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08.Pivot Columns and Special Solutions"
-            }
-          },
-          {
-            "id": "0638022ef4b1bb41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/00.others/11.Sherman-Morrison --Updating an Inverse After a Small Change.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.Sherman-Morrison --Updating an Inverse After a Small Change"
-            }
-          },
-          {
-            "id": "d708d8548de0256d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05.The Augmented Matrix"
-            }
-          },
-          {
-            "id": "8056cfd79f319c43",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260531111256.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260531111256"
-            }
-          },
-          {
-            "id": "fe2bffed1e74949d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/01.Vector Spaces and Subspaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.Vector Spaces and Subspaces"
-            }
-          },
-          {
-            "id": "d119bd479ccd8bc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.ML/02.Supervised Learning/07.k-Nearest Neighbours.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07.k-Nearest Neighbours"
+              "title": "73.Generating all permutations — swap-based and insert-based"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -301,8 +218,20 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d708d8548de0256d",
+  "active": "72045243ef02a318",
   "lastOpenFiles": [
+    "03.Data Structure and Algorithms/72.Generating all subsets — power set via recursion and bitmask.md",
+    "03.Data Structure and Algorithms/71.The call stack — stack frames, stack overflow, iterative conversion.md",
+    "04.ML/01.Data Gathering/00.Data Gathering.md",
+    "04.ML/01.Data Gathering/01.Working with csv files.md",
+    "04.ML/01.Data Gathering/02.Working with json or sql.md",
+    "04.ML/01.Data Gathering/03.Fetching data from API.md",
+    "04.ML/01.Data Gathering/04.Web Scrapping.md",
+    "01.Maths/Linear Algebra/00.others/11.Sherman-Morrison --Updating an Inverse After a Small Change.md",
+    "04.ML/02.Supervised Learning/07.k-Nearest Neighbours.md",
+    "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/01.Vector Spaces and Subspaces.md",
+    "Pasted image 20260531111256.png",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/05.The Augmented Matrix.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/04.Permutation Matrices.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/03.Elimination.md",
     "01.Maths/Linear Algebra/02.Solving Linear Equations/02.Three Equations, Three Unknowns.md",
@@ -320,19 +249,7 @@
     "01.Maths/Linear Algebra/01.Introduction to Vectors/08.Vectors and Linear Combinations.md",
     "01.Maths/Linear Algebra/03.Vector Spaces and Subspaces/12.Vectors That Span a Subspace.md",
     "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (A=LU).md",
-    "01.Maths/Linear Algebra/02.Solving Linear Equations/10. A = LU.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/06.Gauss–Jordan Elimination.md",
-    "01.Maths/Linear Algebra/00.others/05.Reduced Row Echelon Form (RREF).md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/05.Inverse of ABA^T.md",
-    "01.Maths/Linear Algebra/00.others/13.Woodbury Identity.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/04.Matrix Inverse.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/01.The Geometry of Linear Equations.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/00.Introduction To Vectors Chapters.md",
-    "01.Maths/Linear Algebra/00.others/12.Moore-Penrose Pseudoinverse.md",
-    "01.Maths/Linear Algebra/00.others/11.Sherman-Morrison --Updating an Inverse After a Small Change.md",
-    "01.Maths/Linear Algebra/01.Introduction to Vectors/03.Matrix Multiplication.md",
     "Pasted image 20260531112008.png",
-    "Pasted image 20260531111256.png",
     "Pasted image 20260531111256.png.~tmp",
     "Pasted image 20260531111100.png",
     "Pasted image 20260531110854.png",
