@@ -38,11 +38,11 @@ Linear Algebra is the study of vectors and certain rules to manipulate vectors. 
 [[12.The Cost of Elimination]]
 [[13.Transposes and Permutations]]
 [[14.Inner Products or Pre-Hilbert Space]]
-[[15.Symmetric Matrices, Their Products, and LDL^T]]
-[[16.PA = LU]]
-[[17.DL^T Decomposition]]
-[[18.Cholesky Decomposition A = LL^T]]]
-[[19.Pascal's Triangle]]
+[[15.Symmetric Matrices and Their Products]]
+[[17.PA = LU]]
+[[18.DL^T Decomposition]]
+[[19.Cholesky Decomposition A = LL^T]]]
+[[20.Pascal's Triangle]]
 
 
 
