@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Data Structure and Algorithms/88.Monotonic decreasing stack — next smaller element.md",
+                "file": "01.Maths/Linear Algebra/02.Solving Linear Equations/02.Three Equations, Three Unknowns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "88.Monotonic decreasing stack — next smaller element"
+              "title": "02.Three Equations, Three Unknowns"
             }
           }
         ]
@@ -220,6 +220,16 @@
   },
   "active": "72045243ef02a318",
   "lastOpenFiles": [
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/01.Vectors and Linear Equations.md",
+    "01.Maths/Linear Algebra/02.Solving Linear Equations/00.Solving Linear Equations Chapters.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/16.Independence and Dependence.md",
+    "03.Data Structure and Algorithms/88.Monotonic decreasing stack — next smaller element.md",
+    "03.Data Structure and Algorithms/89.Largest rectangle in histogram — the canonical monotonic stack problem.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/15.Cyclic Differences for Matrices.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/11.Length and dot product.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/10.Vectors in Three Dimensions.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/08.Vectors and Linear Combinations.md",
+    "01.Maths/Linear Algebra/01.Introduction to Vectors/07.LU Decomposition (A=LU).md",
     "03.Data Structure and Algorithms/87.Monotonic increasing stack — next greater element.md",
     "03.Data Structure and Algorithms/86.Function call stack — recursion as implicit stack.md",
     "03.Data Structure and Algorithms/85.Evaluating expressions — infix to postfix, postfix evaluation.md",
@@ -236,16 +246,6 @@
     "03.Data Structure and Algorithms/74.Generating all combinations — nCr without repetition.md",
     "03.Data Structure and Algorithms/73.Generating all permutations — swap-based and insert-based.md",
     "03.Data Structure and Algorithms/125.Kruskal's algorithm — sort edges, Union-Find.md",
-    "03.Data Structure and Algorithms/158.Decision tree structure — how CART maps to a binary tree.md",
-    "03.Data Structure and Algorithms/171.Edit distance (Levenshtein) — string alignment DP.md",
-    "03.Data Structure and Algorithms/184.Convex hull trick for DP optimisation.md",
-    "03.Data Structure and Algorithms/203.Poisson — rare events, connection to Binomial.md",
-    "03.Data Structure and Algorithms/220.Data pipeline design — streaming vs batch, shuffling, prefetching.md",
-    "03.Data Structure and Algorithms/72.Generating all subsets — power set via recursion and bitmask.md",
-    "03.Data Structure and Algorithms/71.The call stack — stack frames, stack overflow, iterative conversion.md",
-    "04.ML/01.Data Gathering/00.Data Gathering.md",
-    "04.ML/01.Data Gathering/01.Working with csv files.md",
-    "04.ML/01.Data Gathering/02.Working with json or sql.md",
     "Pasted image 20260531111256.png",
     "Pasted image 20260603080738.png",
     "Pasted image 20260603080551.png",
